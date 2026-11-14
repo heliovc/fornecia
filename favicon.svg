@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Fornecia">
+  <rect width="32" height="32" rx="7" fill="#1A4A3C"/>
+  <path d="M10.2 8.2h12.1v3.05h-8.15V14.7h7.35v2.95h-7.35V23.8H10.2V8.2Z" fill="#F3EEE4"/>
+  <rect x="13.9" y="14.7" width="7.35" height="2.95" fill="#E8C15A"/>
+</svg>

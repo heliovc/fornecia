@@ -1,0 +1,3 @@
+# Pré-venda: a página ainda não deve ser indexada.
+User-agent: *
+Disallow: /
