@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-14",
+ "atualizado_em": "2026-11-15",
  "ramos": [
   {
    "slug": "merenda-escolar",
@@ -245,18 +245,18 @@
    "href": "licitacoes/manutencao-predial/sp/"
   },
   {
-   "ramo": "moveis",
-   "uf": "SP",
-   "rotulo": "móveis e mobiliário",
-   "abertas": 192,
-   "href": "licitacoes/moveis/sp/"
-  },
-  {
    "ramo": "obras-e-engenharia",
    "uf": "MG",
    "rotulo": "obras e engenharia",
    "abertas": 443,
    "href": "licitacoes/obras-e-engenharia/mg/"
+  },
+  {
+   "ramo": "moveis",
+   "uf": "SP",
+   "rotulo": "móveis e mobiliário",
+   "abertas": 192,
+   "href": "licitacoes/moveis/sp/"
   },
   {
    "ramo": "informatica-e-suprimentos",
@@ -269,7 +269,7 @@
    "ramo": "obras-e-engenharia",
    "uf": "RS",
    "rotulo": "obras e engenharia",
-   "abertas": 366,
+   "abertas": 372,
    "href": "licitacoes/obras-e-engenharia/rs/"
   },
   {
@@ -301,13 +301,6 @@
    "href": "licitacoes/material-hospitalar/pr/"
   },
   {
-   "ramo": "pecas-e-manutencao-de-veiculos",
-   "uf": "SP",
-   "rotulo": "peças e manutenção de veículos",
-   "abertas": 72,
-   "href": "licitacoes/pecas-e-manutencao-de-veiculos/sp/"
-  },
-  {
    "ramo": "material-hospitalar",
    "uf": "MG",
    "rotulo": "material hospitalar e odontológico",
@@ -315,11 +308,11 @@
    "href": "licitacoes/material-hospitalar/mg/"
   },
   {
-   "ramo": "material-de-limpeza",
+   "ramo": "pecas-e-manutencao-de-veiculos",
    "uf": "SP",
-   "rotulo": "material de limpeza",
-   "abertas": 109,
-   "href": "licitacoes/material-de-limpeza/sp/"
+   "rotulo": "peças e manutenção de veículos",
+   "abertas": 72,
+   "href": "licitacoes/pecas-e-manutencao-de-veiculos/sp/"
   },
   {
    "ramo": "generos-alimenticios",
@@ -327,6 +320,13 @@
    "rotulo": "gêneros alimentícios",
    "abertas": 251,
    "href": "licitacoes/generos-alimenticios/mg/"
+  },
+  {
+   "ramo": "material-de-limpeza",
+   "uf": "SP",
+   "rotulo": "material de limpeza",
+   "abertas": 109,
+   "href": "licitacoes/material-de-limpeza/sp/"
   },
   {
    "ramo": "pecas-e-manutencao-de-veiculos",
@@ -353,7 +353,7 @@
    "ramo": "generos-alimenticios",
    "uf": "RS",
    "rotulo": "gêneros alimentícios",
-   "abertas": 84,
+   "abertas": 85,
    "href": "licitacoes/generos-alimenticios/rs/"
   },
   {
@@ -371,13 +371,6 @@
    "href": "licitacoes/uniformes-e-epi/sp/"
   },
   {
-   "ramo": "generos-alimenticios",
-   "uf": "PR",
-   "rotulo": "gêneros alimentícios",
-   "abertas": 149,
-   "href": "licitacoes/generos-alimenticios/pr/"
-  },
-  {
    "ramo": "moveis",
    "uf": "MG",
    "rotulo": "móveis e mobiliário",
@@ -388,8 +381,15 @@
    "ramo": "material-hospitalar",
    "uf": "RS",
    "rotulo": "material hospitalar e odontológico",
-   "abertas": 99,
+   "abertas": 101,
    "href": "licitacoes/material-hospitalar/rs/"
+  },
+  {
+   "ramo": "generos-alimenticios",
+   "uf": "PR",
+   "rotulo": "gêneros alimentícios",
+   "abertas": 149,
+   "href": "licitacoes/generos-alimenticios/pr/"
   },
   {
    "ramo": "obras-e-engenharia",
@@ -399,11 +399,11 @@
    "href": "licitacoes/obras-e-engenharia/ba/"
   },
   {
-   "ramo": "medicamentos",
-   "uf": "RS",
-   "rotulo": "medicamentos",
-   "abertas": 94,
-   "href": "licitacoes/medicamentos/rs/"
+   "ramo": "pecas-e-manutencao-de-veiculos",
+   "uf": "GO",
+   "rotulo": "peças e manutenção de veículos",
+   "abertas": 7,
+   "href": "licitacoes/pecas-e-manutencao-de-veiculos/go/"
   },
   {
    "ramo": "manutencao-predial",
@@ -413,11 +413,11 @@
    "href": "licitacoes/manutencao-predial/mg/"
   },
   {
-   "ramo": "pecas-e-manutencao-de-veiculos",
-   "uf": "GO",
-   "rotulo": "peças e manutenção de veículos",
-   "abertas": 7,
-   "href": "licitacoes/pecas-e-manutencao-de-veiculos/go/"
+   "ramo": "medicamentos",
+   "uf": "RS",
+   "rotulo": "medicamentos",
+   "abertas": 94,
+   "href": "licitacoes/medicamentos/rs/"
   },
   {
    "ramo": "material-de-escritorio",
@@ -427,6 +427,13 @@
    "href": "licitacoes/material-de-escritorio/sp/"
   },
   {
+   "ramo": "moveis",
+   "uf": "RS",
+   "rotulo": "móveis e mobiliário",
+   "abertas": 83,
+   "href": "licitacoes/moveis/rs/"
+  },
+  {
    "ramo": "informatica-e-suprimentos",
    "uf": "MG",
    "rotulo": "informática e suprimentos",
@@ -434,11 +441,11 @@
    "href": "licitacoes/informatica-e-suprimentos/mg/"
   },
   {
-   "ramo": "moveis",
-   "uf": "RS",
-   "rotulo": "móveis e mobiliário",
-   "abertas": 82,
-   "href": "licitacoes/moveis/rs/"
+   "ramo": "material-hospitalar",
+   "uf": "CE",
+   "rotulo": "material hospitalar e odontológico",
+   "abertas": 94,
+   "href": "licitacoes/material-hospitalar/ce/"
   },
   {
    "ramo": "generos-alimenticios",
@@ -446,13 +453,6 @@
    "rotulo": "gêneros alimentícios",
    "abertas": 102,
    "href": "licitacoes/generos-alimenticios/ba/"
-  },
-  {
-   "ramo": "material-hospitalar",
-   "uf": "CE",
-   "rotulo": "material hospitalar e odontológico",
-   "abertas": 94,
-   "href": "licitacoes/material-hospitalar/ce/"
   },
   {
    "ramo": "material-de-construcao",
@@ -476,25 +476,11 @@
    "href": "licitacoes/manutencao-predial/pr/"
   },
   {
-   "ramo": "combustiveis",
-   "uf": "SP",
-   "rotulo": "combustíveis",
-   "abertas": 69,
-   "href": "licitacoes/combustiveis/sp/"
-  },
-  {
    "ramo": "medicamentos",
    "uf": "MG",
    "rotulo": "medicamentos",
    "abertas": 82,
    "href": "licitacoes/medicamentos/mg/"
-  },
-  {
-   "ramo": "material-hospitalar",
-   "uf": "RJ",
-   "rotulo": "material hospitalar e odontológico",
-   "abertas": 83,
-   "href": "licitacoes/material-hospitalar/rj/"
   },
   {
    "ramo": "moveis",
@@ -509,6 +495,20 @@
    "rotulo": "gráfica e impressos",
    "abertas": 34,
    "href": "licitacoes/grafica-e-impressos/sp/"
+  },
+  {
+   "ramo": "combustiveis",
+   "uf": "SP",
+   "rotulo": "combustíveis",
+   "abertas": 69,
+   "href": "licitacoes/combustiveis/sp/"
+  },
+  {
+   "ramo": "material-hospitalar",
+   "uf": "RJ",
+   "rotulo": "material hospitalar e odontológico",
+   "abertas": 83,
+   "href": "licitacoes/material-hospitalar/rj/"
   },
   {
    "ramo": "material-hospitalar",
@@ -535,7 +535,7 @@
    "ramo": "generos-alimenticios",
    "uf": "GO",
    "rotulo": "gêneros alimentícios",
-   "abertas": 52,
+   "abertas": 53,
    "href": "licitacoes/generos-alimenticios/go/"
   },
   {
@@ -553,18 +553,18 @@
    "href": "licitacoes/material-esportivo-e-brinquedos/sp/"
   },
   {
-   "ramo": "generos-alimenticios",
-   "uf": "SC",
-   "rotulo": "gêneros alimentícios",
-   "abertas": 59,
-   "href": "licitacoes/generos-alimenticios/sc/"
-  },
-  {
    "ramo": "manutencao-predial",
    "uf": "GO",
    "rotulo": "manutenção predial",
    "abertas": 39,
    "href": "licitacoes/manutencao-predial/go/"
+  },
+  {
+   "ramo": "generos-alimenticios",
+   "uf": "SC",
+   "rotulo": "gêneros alimentícios",
+   "abertas": 59,
+   "href": "licitacoes/generos-alimenticios/sc/"
   },
   {
    "ramo": "material-de-construcao",
@@ -579,13 +579,6 @@
    "rotulo": "informática e suprimentos",
    "abertas": 79,
    "href": "licitacoes/informatica-e-suprimentos/pr/"
-  },
-  {
-   "ramo": "medicamentos",
-   "uf": "GO",
-   "rotulo": "medicamentos",
-   "abertas": 62,
-   "href": "licitacoes/medicamentos/go/"
   },
   {
    "ramo": "ti-e-software",
@@ -609,18 +602,25 @@
    "href": "licitacoes/material-eletrico/rs/"
   },
   {
-   "ramo": "uniformes-e-epi",
-   "uf": "MG",
-   "rotulo": "uniformes e EPI",
-   "abertas": 62,
-   "href": "licitacoes/uniformes-e-epi/mg/"
-  },
-  {
    "ramo": "material-de-construcao",
    "uf": "SC",
    "rotulo": "material de construção",
    "abertas": 53,
    "href": "licitacoes/material-de-construcao/sc/"
+  },
+  {
+   "ramo": "medicamentos",
+   "uf": "GO",
+   "rotulo": "medicamentos",
+   "abertas": 62,
+   "href": "licitacoes/medicamentos/go/"
+  },
+  {
+   "ramo": "uniformes-e-epi",
+   "uf": "MG",
+   "rotulo": "uniformes e EPI",
+   "abertas": 62,
+   "href": "licitacoes/uniformes-e-epi/mg/"
   },
   {
    "ramo": "material-de-limpeza",
@@ -633,22 +633,8 @@
    "ramo": "material-hospitalar",
    "uf": "SC",
    "rotulo": "material hospitalar e odontológico",
-   "abertas": 48,
+   "abertas": 50,
    "href": "licitacoes/material-hospitalar/sc/"
-  },
-  {
-   "ramo": "merenda-escolar",
-   "uf": "PR",
-   "rotulo": "merenda escolar",
-   "abertas": 46,
-   "href": "licitacoes/merenda-escolar/pr/"
-  },
-  {
-   "ramo": "informatica-e-suprimentos",
-   "uf": "RJ",
-   "rotulo": "informática e suprimentos",
-   "abertas": 49,
-   "href": "licitacoes/informatica-e-suprimentos/rj/"
   },
   {
    "ramo": "uniformes-e-epi",
@@ -658,11 +644,39 @@
    "href": "licitacoes/uniformes-e-epi/rs/"
   },
   {
-   "ramo": "medicamentos",
+   "ramo": "informatica-e-suprimentos",
+   "uf": "GO",
+   "rotulo": "informática e suprimentos",
+   "abertas": 23,
+   "href": "licitacoes/informatica-e-suprimentos/go/"
+  },
+  {
+   "ramo": "obras-e-engenharia",
+   "uf": "CE",
+   "rotulo": "obras e engenharia",
+   "abertas": 93,
+   "href": "licitacoes/obras-e-engenharia/ce/"
+  },
+  {
+   "ramo": "informatica-e-suprimentos",
    "uf": "RJ",
-   "rotulo": "medicamentos",
-   "abertas": 51,
-   "href": "licitacoes/medicamentos/rj/"
+   "rotulo": "informática e suprimentos",
+   "abertas": 49,
+   "href": "licitacoes/informatica-e-suprimentos/rj/"
+  },
+  {
+   "ramo": "merenda-escolar",
+   "uf": "PR",
+   "rotulo": "merenda escolar",
+   "abertas": 46,
+   "href": "licitacoes/merenda-escolar/pr/"
+  },
+  {
+   "ramo": "generos-alimenticios",
+   "uf": "CE",
+   "rotulo": "gêneros alimentícios",
+   "abertas": 30,
+   "href": "licitacoes/generos-alimenticios/ce/"
   },
   {
    "ramo": "moveis",
@@ -672,18 +686,11 @@
    "href": "licitacoes/moveis/go/"
   },
   {
-   "ramo": "obras-e-engenharia",
-   "uf": "CE",
-   "rotulo": "obras e engenharia",
-   "abertas": 92,
-   "href": "licitacoes/obras-e-engenharia/ce/"
-  },
-  {
-   "ramo": "informatica-e-suprimentos",
-   "uf": "GO",
-   "rotulo": "informática e suprimentos",
-   "abertas": 23,
-   "href": "licitacoes/informatica-e-suprimentos/go/"
+   "ramo": "medicamentos",
+   "uf": "RJ",
+   "rotulo": "medicamentos",
+   "abertas": 51,
+   "href": "licitacoes/medicamentos/rj/"
   },
   {
    "ramo": "obras-e-engenharia",
@@ -700,39 +707,11 @@
    "href": "licitacoes/medicamentos/pr/"
   },
   {
-   "ramo": "material-de-limpeza",
-   "uf": "BA",
-   "rotulo": "material de limpeza",
-   "abertas": 39,
-   "href": "licitacoes/material-de-limpeza/ba/"
-  },
-  {
    "ramo": "generos-alimenticios",
    "uf": "RJ",
    "rotulo": "gêneros alimentícios",
    "abertas": 57,
    "href": "licitacoes/generos-alimenticios/rj/"
-  },
-  {
-   "ramo": "generos-alimenticios",
-   "uf": "CE",
-   "rotulo": "gêneros alimentícios",
-   "abertas": 30,
-   "href": "licitacoes/generos-alimenticios/ce/"
-  },
-  {
-   "ramo": "ti-e-software",
-   "uf": "PR",
-   "rotulo": "TI e software",
-   "abertas": 70,
-   "href": "licitacoes/ti-e-software/pr/"
-  },
-  {
-   "ramo": "moveis",
-   "uf": "RJ",
-   "rotulo": "móveis e mobiliário",
-   "abertas": 52,
-   "href": "licitacoes/moveis/rj/"
   },
   {
    "ramo": "manutencao-predial",
@@ -745,15 +724,8 @@
    "ramo": "moveis",
    "uf": "SC",
    "rotulo": "móveis e mobiliário",
-   "abertas": 52,
+   "abertas": 53,
    "href": "licitacoes/moveis/sc/"
-  },
-  {
-   "ramo": "material-hospitalar",
-   "uf": "GO",
-   "rotulo": "material hospitalar e odontológico",
-   "abertas": 43,
-   "href": "licitacoes/material-hospitalar/go/"
   },
   {
    "ramo": "manutencao-predial",
@@ -763,18 +735,11 @@
    "href": "licitacoes/manutencao-predial/ba/"
   },
   {
-   "ramo": "material-de-limpeza",
-   "uf": "PR",
-   "rotulo": "material de limpeza",
-   "abertas": 62,
-   "href": "licitacoes/material-de-limpeza/pr/"
-  },
-  {
-   "ramo": "veterinarios-e-agropecuarios",
-   "uf": "SP",
-   "rotulo": "veterinários e agropecuários",
+   "ramo": "moveis",
+   "uf": "RJ",
+   "rotulo": "móveis e mobiliário",
    "abertas": 52,
-   "href": "licitacoes/veterinarios-e-agropecuarios/sp/"
+   "href": "licitacoes/moveis/rj/"
   },
   {
    "ramo": "manutencao-predial",
@@ -784,11 +749,11 @@
    "href": "licitacoes/manutencao-predial/rj/"
   },
   {
-   "ramo": "informatica-e-suprimentos",
+   "ramo": "material-de-limpeza",
    "uf": "BA",
-   "rotulo": "informática e suprimentos",
-   "abertas": 42,
-   "href": "licitacoes/informatica-e-suprimentos/ba/"
+   "rotulo": "material de limpeza",
+   "abertas": 39,
+   "href": "licitacoes/material-de-limpeza/ba/"
   },
   {
    "ramo": "transporte-escolar",
@@ -798,11 +763,32 @@
    "href": "licitacoes/transporte-escolar/rs/"
   },
   {
+   "ramo": "ti-e-software",
+   "uf": "PR",
+   "rotulo": "TI e software",
+   "abertas": 70,
+   "href": "licitacoes/ti-e-software/pr/"
+  },
+  {
    "ramo": "pneus",
    "uf": "SP",
    "rotulo": "pneus",
    "abertas": 21,
    "href": "licitacoes/pneus/sp/"
+  },
+  {
+   "ramo": "material-hospitalar",
+   "uf": "GO",
+   "rotulo": "material hospitalar e odontológico",
+   "abertas": 43,
+   "href": "licitacoes/material-hospitalar/go/"
+  },
+  {
+   "ramo": "informatica-e-suprimentos",
+   "uf": "BA",
+   "rotulo": "informática e suprimentos",
+   "abertas": 42,
+   "href": "licitacoes/informatica-e-suprimentos/ba/"
   },
   {
    "ramo": "uniformes-e-epi",
@@ -812,11 +798,18 @@
    "href": "licitacoes/uniformes-e-epi/pr/"
   },
   {
-   "ramo": "material-de-construcao",
-   "uf": "GO",
-   "rotulo": "material de construção",
-   "abertas": 21,
-   "href": "licitacoes/material-de-construcao/go/"
+   "ramo": "veterinarios-e-agropecuarios",
+   "uf": "SP",
+   "rotulo": "veterinários e agropecuários",
+   "abertas": 52,
+   "href": "licitacoes/veterinarios-e-agropecuarios/sp/"
+  },
+  {
+   "ramo": "material-de-limpeza",
+   "uf": "PR",
+   "rotulo": "material de limpeza",
+   "abertas": 62,
+   "href": "licitacoes/material-de-limpeza/pr/"
   },
   {
    "ramo": "obras-e-engenharia",
@@ -826,13 +819,6 @@
    "href": "licitacoes/obras-e-engenharia/pe/"
   },
   {
-   "ramo": "obras-e-engenharia",
-   "uf": "PB",
-   "rotulo": "obras e engenharia",
-   "abertas": 90,
-   "href": "licitacoes/obras-e-engenharia/pb/"
-  },
-  {
    "ramo": "material-de-limpeza",
    "uf": "RS",
    "rotulo": "material de limpeza",
@@ -840,18 +826,11 @@
    "href": "licitacoes/material-de-limpeza/rs/"
   },
   {
-   "ramo": "ti-e-software",
-   "uf": "RS",
-   "rotulo": "TI e software",
-   "abertas": 36,
-   "href": "licitacoes/ti-e-software/rs/"
-  },
-  {
-   "ramo": "obras-e-engenharia",
-   "uf": "RJ",
-   "rotulo": "obras e engenharia",
-   "abertas": 127,
-   "href": "licitacoes/obras-e-engenharia/rj/"
+   "ramo": "material-de-construcao",
+   "uf": "GO",
+   "rotulo": "material de construção",
+   "abertas": 21,
+   "href": "licitacoes/material-de-construcao/go/"
   },
   {
    "ramo": "moveis",
@@ -868,11 +847,32 @@
    "href": "licitacoes/pecas-e-manutencao-de-veiculos/pr/"
   },
   {
-   "ramo": "material-esportivo-e-brinquedos",
-   "uf": "MG",
-   "rotulo": "material esportivo e brinquedos",
-   "abertas": 46,
-   "href": "licitacoes/material-esportivo-e-brinquedos/mg/"
+   "ramo": "obras-e-engenharia",
+   "uf": "PB",
+   "rotulo": "obras e engenharia",
+   "abertas": 91,
+   "href": "licitacoes/obras-e-engenharia/pb/"
+  },
+  {
+   "ramo": "ti-e-software",
+   "uf": "RS",
+   "rotulo": "TI e software",
+   "abertas": 36,
+   "href": "licitacoes/ti-e-software/rs/"
+  },
+  {
+   "ramo": "material-hospitalar",
+   "uf": "PE",
+   "rotulo": "material hospitalar e odontológico",
+   "abertas": 49,
+   "href": "licitacoes/material-hospitalar/pe/"
+  },
+  {
+   "ramo": "obras-e-engenharia",
+   "uf": "RJ",
+   "rotulo": "obras e engenharia",
+   "abertas": 127,
+   "href": "licitacoes/obras-e-engenharia/rj/"
   },
   {
    "ramo": "vigilancia",
@@ -882,18 +882,18 @@
    "href": "licitacoes/vigilancia/sp/"
   },
   {
-   "ramo": "material-hospitalar",
-   "uf": "PE",
-   "rotulo": "material hospitalar e odontológico",
-   "abertas": 47,
-   "href": "licitacoes/material-hospitalar/pe/"
+   "ramo": "material-esportivo-e-brinquedos",
+   "uf": "MG",
+   "rotulo": "material esportivo e brinquedos",
+   "abertas": 46,
+   "href": "licitacoes/material-esportivo-e-brinquedos/mg/"
   },
   {
-   "ramo": "merenda-escolar",
-   "uf": "PB",
-   "rotulo": "merenda escolar",
-   "abertas": 2,
-   "href": "licitacoes/merenda-escolar/pb/"
+   "ramo": "grafica-e-impressos",
+   "uf": "RS",
+   "rotulo": "gráfica e impressos",
+   "abertas": 17,
+   "href": "licitacoes/grafica-e-impressos/rs/"
   },
   {
    "ramo": "uniformes-e-epi",
@@ -903,11 +903,11 @@
    "href": "licitacoes/uniformes-e-epi/go/"
   },
   {
-   "ramo": "uniformes-e-epi",
-   "uf": "SC",
-   "rotulo": "uniformes e EPI",
-   "abertas": 42,
-   "href": "licitacoes/uniformes-e-epi/sc/"
+   "ramo": "merenda-escolar",
+   "uf": "SP",
+   "rotulo": "merenda escolar",
+   "abertas": 41,
+   "href": "licitacoes/merenda-escolar/sp/"
   }
  ],
  "excluidos": [
