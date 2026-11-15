@@ -23,16 +23,15 @@
   <meta name="twitter:image" content="img/og-image.png">
 
   <link rel="preload" href="fonts/source-sans-3.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="preload" href="fonts/newsreader.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="canonical" href="https://heliovc.github.io/fornecia/">
   <meta property="og:url" content="https://heliovc.github.io/fornecia/">
   <link rel="stylesheet" href="styles.css">
-  <script src="config.js"></script>
+  <script src="config.js" defer></script>
   <script src="oferta.js" defer></script>
   <script src="script.js" defer></script>
 </head>
 <body>
-  <div id="oferta-faixa" hidden role="region" aria-label="Oferta de lançamento"></div>
+  <div id="oferta-faixa" role="region" aria-label="Oferta de lançamento"><div class="oferta-inner"><span>Oferta de lançamento: anual de fundador por R$ 277,90 com o cupom LANCAMENTO30 · válida até 17/11/2026, 23:59 (horário de Brasília)</span><span class="cupom"><span>LANCAMENTO30</span><button type="button" class="copiar" data-copiar-cupom>Copiar</button></span> <a class="oferta-cta" href="https://pay.kiwify.com.br/fCFCOFx?coupon=LANCAMENTO30">Quero o anual com desconto</a></div></div>
   <!--
     Nome do produto, checkout Kiwify (mensal e anual) e e-mail de suporte:
     edite apenas landing/config.js.
@@ -77,14 +76,21 @@
         <!-- Alternativa 1: Pare de vasculhar portal atrás de portal. Receba só o que é do seu ramo. -->
         <!-- Alternativa 2: Um alerta diário das compras públicas do seu ramo, e um resumo para decidir se vale ler o edital inteiro. -->
         <h1>As licitações novas do seu ramo,<br> no seu e-mail, <span class="nowrap">todos os dias —</span><br> com um resumo do edital.</h1>
-        <p class="hero-lead">O <span data-product-name>Fornecia</span> consulta, todos os dias, o Portal Nacional de Contratações Públicas (PNCP) — o sítio oficial em que a Lei 14.133/2021 manda divulgar, de forma centralizada, os atos das contratações públicas — e envia para o seu e-mail as novas licitações e dispensas do que você vende, com um resumo do edital feito por inteligência artificial. O resumo é um apoio à leitura; ele <strong>não substitui</strong> a conferência do edital e dos anexos no portal oficial.</p>
+        <p class="hero-lead">Todo dia útil, o <span data-product-name>Fornecia</span> lê as publicações novas do Portal Nacional de Contratações Públicas (PNCP) e manda para o seu e-mail só as licitações e dispensas do que você vende, nos estados que você atende — com prazo, valor estimado (quando publicado), link oficial e um resumo do edital por inteligência artificial.</p>
+        <p class="hero-amostra"><a class="btn btn-primary" href="#amostra">Ver grátis as licitações abertas do meu ramo</a> <span class="hero-amostra-nota">Sem cadastro e sem cartão. Escolha ramo e estado e veja na hora.</span></p>
         <div class="hero-actions">
           <div class="cta-row">
-            <a class="btn btn-primary" data-checkout="monthly" href="https://pay.kiwify.com.br/1VbxuG1">Assinar o plano fundador por R$ 47/mês</a>
+            <a class="btn btn-secondary" data-checkout="monthly" href="https://pay.kiwify.com.br/1VbxuG1">Assinar o plano fundador por R$ 47/mês</a>
             <a class="btn btn-secondary" data-checkout="annual" href="https://pay.kiwify.com.br/fCFCOFx">Assinar o anual de fundador por R$ 397/ano</a>
           </div>
           <p class="cta-support">Plano fundador aberto. Garantia de 7 dias. Cancele quando quiser. Pagamento seguro pela Kiwify.</p>
         </div>
+        <ul class="trust" aria-label="Por que confiar">
+          <li><strong>Dados oficiais do PNCP</strong>, com o link de cada edital</li>
+          <li><strong>Garantia de 7 dias</strong>: devolvemos o valor pago</li>
+          <li><strong>Pagamento pela Kiwify</strong>; cancele quando quiser</li>
+          <li>Empresa responsável: FIT Tecnologia · CNPJ 49.408.467/0001-64</li>
+        </ul>
         <div class="notices" role="note">
           <p class="notice">
             <svg class="notice-icon" width="20" height="20" viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="9" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M10 6v5.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><circle cx="10" cy="14.2" r="1" fill="currentColor"/></svg>
@@ -118,9 +124,15 @@
           <button type="submit" class="btn btn-primary" id="amostra-ver">Ver licitações abertas</button>
         </form>
         <div id="amostra-resultado" class="amostra-resultado" hidden></div>
-        <p id="amostra-cta-diario" class="amostra-cta-diario" hidden>
-          <a class="btn btn-primary" href="#planos">Receber isso todo dia de manhã</a>
-        </p>
+        <div id="amostra-cta-diario" class="amostra-oferta" hidden>
+          <h3 id="amostra-oferta-titulo">Receba as novas deste recorte todo dia útil</h3>
+          <p>No plano fundador, as licitações novas do seu ramo e dos seus estados chegam no seu e-mail pela manhã, com o resumo de cada edital. Garantia de 7 dias.</p>
+          <div class="cta-row">
+            <a class="btn btn-primary" data-checkout="annual" data-cupom-oferta href="https://pay.kiwify.com.br/fCFCOFx">Assinar o anual de fundador por R$ 397/ano</a>
+            <a class="btn btn-secondary" data-checkout="monthly" href="https://pay.kiwify.com.br/1VbxuG1">Assinar o plano fundador por R$ 47/mês</a>
+          </div>
+          <p class="amostra-oferta-panorama" id="amostra-oferta-panorama">Prefere um retrato de quem compra o seu produto no seu estado, sem assinatura? <a href="#panorama">Conheça o Panorama de Compras Públicas (R$ 27, pagamento único)</a>.</p>
+        </div>
 
         <form class="amostra-email" id="form-amostra-email" hidden>
           <h3>Receba esta amostra no seu e-mail</h3>
@@ -153,15 +165,15 @@
         <p>O recorte desta amostra (material de limpeza em São Paulo) cobre as publicações no PNCP de <b>11/09/2026 a 14/11/2026</b> (65 dias com dados completos). Setembro e novembro entram só em parte. Não é um relatório de 12 meses. O período do seu Panorama será o que estiver disponível no dia da geração, sempre escrito na capa e na planilha.</p>
         <div class="panorama-previews">
           <figure>
-            <img src="panorama/amostra/preview-capa.png" alt="Capa do Panorama de material de limpeza em São Paulo, com o período 11/09/2026 a 14/11/2026 e os totais do recorte." width="720" height="1020">
+            <img loading="lazy" decoding="async" src="panorama/amostra/preview-capa.png" alt="Capa do Panorama de material de limpeza em São Paulo, com o período 11/09/2026 a 14/11/2026 e os totais do recorte." width="720" height="1020">
             <figcaption>Capa · período e totais</figcaption>
           </figure>
           <figure>
-            <img src="panorama/amostra/preview-orgaos.png" alt="Tabela com os 15 órgãos que mais publicaram licitações de material de limpeza em São Paulo no período." width="720" height="1020">
+            <img loading="lazy" decoding="async" src="panorama/amostra/preview-orgaos.png" alt="Tabela com os 15 órgãos que mais publicaram licitações de material de limpeza em São Paulo no período." width="720" height="1020">
             <figcaption>Os 15 órgãos que mais publicaram</figcaption>
           </figure>
           <figure>
-            <img src="panorama/amostra/preview-meses.png" alt="Gráfico de publicações por mês e tabela de modalidades do Panorama de amostra." width="720" height="1020">
+            <img loading="lazy" decoding="async" src="panorama/amostra/preview-meses.png" alt="Gráfico de publicações por mês e tabela de modalidades do Panorama de amostra." width="720" height="1020">
             <figcaption>Volume por mês e modalidades</figcaption>
           </figure>
         </div>
@@ -337,18 +349,18 @@
           <article class="plan">
             <h3>Mensal</h3>
             <p class="plan-price">R$ 47 <span>/mês</span></p>
-            <p class="plan-equiv">Pagamento recorrente pela Kiwify, mês a mês.</p>
+            <p class="plan-equiv">Pagamento recorrente pela Kiwify, mês a mês. Em 12 meses: R$ 564.</p>
             <a class="btn btn-secondary btn-block" data-checkout="monthly" href="https://pay.kiwify.com.br/1VbxuG1">Assinar o plano fundador por R$ 47/mês</a>
           </article>
           <article class="plan plan-featured">
             <p class="save-badge">Economize ~30%</p>
             <h3>Anual</h3>
             <p class="plan-price">R$ 397 <span>/ano</span></p>
-            <p class="plan-equiv">Equivale a cerca de R$ 33 por mês, pagando de uma vez.</p>
+            <p class="plan-equiv">Equivale a cerca de R$ 33 por mês, pagando de uma vez: R$ 167 a menos que 12 meses do mensal.</p>
             <a class="btn btn-primary btn-block" data-checkout="annual" href="https://pay.kiwify.com.br/fCFCOFx">Assinar o anual de fundador por R$ 397/ano</a>
           </article>
         </div>
-        <p class="cta-support" style="text-align:center">Plano fundador aberto. Garantia de 7 dias. Cancele quando quiser. Pagamento seguro pela Kiwify.</p>
+        <p class="garantia-selo"><strong>Garantia de 7 dias nos dois planos.</strong> Não serviu? Peça o reembolso pela Kiwify e devolvemos o valor pago. <a href="#garantia">Como funciona</a></p>
 
         <div class="includes">
           <h3>O que entra no plano fundador</h3>
@@ -376,6 +388,24 @@
         <p class="section-kicker">Dúvidas</p>
         <h2 id="titulo-faq">Perguntas frequentes</h2>
         <div class="faq">
+          <details>
+            <summary>Posso ver antes de pagar?</summary>
+            <div class="faq-a">
+              <p>Sim. A <a href="#amostra">amostra grátis</a> mostra, nesta página, as licitações com prazo aberto no ramo e no estado que você escolher, sem cadastro e sem cartão. Depois de assinar, você ainda tem 7 dias para pedir o reembolso se o alerta não servir.</p>
+            </div>
+          </details>
+          <details>
+            <summary>Em quanto tempo começo a receber?</summary>
+            <div class="faq-a">
+              <p>Logo após o pagamento, a Kiwify confirma a compra e você recebe um e-mail com o link para escolher ramos, estados e palavras-chave. O alerta passa a chegar pela manhã, normalmente a partir do dia útil seguinte ao preenchimento.</p>
+            </div>
+          </details>
+          <details>
+            <summary>Qual a diferença entre o plano fundador e o Panorama?</summary>
+            <div class="faq-a">
+              <p>O plano fundador é a assinatura do alerta diário com as licitações novas do seu recorte. O <a href="#panorama">Panorama de Compras Públicas</a> é um relatório avulso (PDF e planilha, R$ 27, pagamento único) com quem mais publicou licitações do seu ramo no seu estado no período coberto, sem envio diário.</p>
+            </div>
+          </details>
           <details>
             <summary>De onde vêm os dados?</summary>
             <div class="faq-a">
@@ -451,6 +481,11 @@
       </div>
     </section>
   </main>
+
+  <div class="cta-fixo" id="cta-fixo" hidden>
+    <a class="btn btn-secondary" href="#amostra">Ver amostra grátis</a>
+    <a class="btn btn-primary" data-checkout="monthly" data-keep-label href="https://pay.kiwify.com.br/1VbxuG1">Assinar por R$ 47/mês</a>
+  </div>
 
   <footer class="site-footer">
     <div class="wrap">

@@ -8,10 +8,12 @@
   "use strict";
   var cfg = window.SITE_CONFIG || {};
   var o = cfg.oferta;
-  if (!o || !o.texto || !o.expiraEm) return;
+  // A faixa já vem no HTML (sem salto de layout); some aqui se não houver oferta válida.
+  function semOferta() { var f = document.getElementById("oferta-faixa"); if (f) f.hidden = true; }
+  if (!o || !o.texto || !o.expiraEm) return semOferta();
   var fim;
-  try { fim = new Date(o.expiraEm); } catch (e) { return; }
-  if (!fim || isNaN(fim.getTime()) || Date.now() > fim.getTime()) return;
+  try { fim = new Date(o.expiraEm); } catch (e) { return semOferta(); }
+  if (!fim || isNaN(fim.getTime()) || Date.now() > fim.getTime()) return semOferta();
 
   var el = document.getElementById("oferta-faixa");
   if (!el) {

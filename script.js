@@ -50,7 +50,7 @@
         a.removeAttribute("aria-disabled");
         a.removeAttribute("role");
         a.classList.remove("is-soon");
-        a.textContent = labels[kind];
+        if (!a.hasAttribute("data-keep-label")) a.textContent = labels[kind];
       });
     });
   }
@@ -204,7 +204,20 @@
             " de " + esc(d.ramo_rotulo) + " com prazo aberto em " + esc(d.uf_nome || d.uf) +
             ". Mostramos as de prazo mais curto primeiro.</p>" +
             d.itens.map(renderTender).join("") + extra;
-          if (cta) cta.hidden = false;
+          if (cta) {
+            var tit = document.getElementById("amostra-oferta-titulo");
+            if (tit) tit.textContent = "Receba as novas de " + d.ramo_rotulo + " em " + (d.uf_nome || d.uf) + " todo dia útil";
+            var pan = document.getElementById("amostra-oferta-panorama");
+            if (pan) pan.innerHTML = "Prefere um retrato de quem compra " + esc(d.ramo_rotulo.toLowerCase()) + " em " + esc(d.uf_nome || d.uf) +
+              ", sem assinatura? <a href=\"" + (cfg.checkoutPanoramaUrl && cfg.checkoutPanoramaUrl.charAt(0) !== "#" ? esc(cfg.checkoutPanoramaUrl) : "#panorama") +
+              "\">Conheça o Panorama de Compras Públicas (R$ 27, pagamento único)</a>.";
+            var of = cfg.oferta, an = cta.querySelector("[data-cupom-oferta]");
+            if (an && of && of.cupom && of.expiraEm && Date.now() < new Date(of.expiraEm).getTime() && cfg.checkoutAnnualUrl && cfg.checkoutAnnualUrl.charAt(0) !== "#") {
+              an.href = cfg.checkoutAnnualUrl + (cfg.checkoutAnnualUrl.indexOf("?") >= 0 ? "&" : "?") + "coupon=" + encodeURIComponent(of.cupom);
+              an.textContent = "Assinar o anual por " + (of.preco || "R$ 397") + " com o cupom " + of.cupom;
+            }
+            cta.hidden = false;
+          }
           if (formEmail && podeFormEmail()) {
             formEmail.hidden = false;
             montarTurnstile();
@@ -226,11 +239,16 @@
     var tsWidgetId = null;
     function montarTurnstile() {
       var slot = document.getElementById("amostra-turnstile");
-      if (!slot || !cfg.turnstileSiteKey || !window.turnstile) return;
+      if (!slot || !cfg.turnstileSiteKey) return;
+      if (!window.turnstile) { carregarTurnstile(); return; }
       slot.innerHTML = "";
       tsWidgetId = window.turnstile.render(slot, { sitekey: cfg.turnstileSiteKey, theme: "light" });
     }
-    if (cfg.turnstileSiteKey && podeFormEmail()) {
+    // Turnstile só é baixado quando o formulário de e-mail aparece (não pesa no carregamento da página).
+    var tsCarregando = false;
+    function carregarTurnstile() {
+      if (tsCarregando || !cfg.turnstileSiteKey || !podeFormEmail()) return;
+      tsCarregando = true;
       var st = document.createElement("script");
       st.src = "https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit";
       st.async = true;
@@ -305,4 +323,17 @@
     initAmostra();
   }
 
+
+  // Barra fixa no celular: aparece depois do topo e some perto da amostra, dos planos e do fim.
+  (function () {
+    var bar = document.getElementById("cta-fixo");
+    if (!bar || !("IntersectionObserver" in window)) return;
+    var vis = {};
+    var io = new IntersectionObserver(function (ents) {
+      ents.forEach(function (e) { vis[e.target.id] = e.isIntersecting; });
+      bar.hidden = !!(vis.topo || vis.amostra || vis.preco || vis.assinar);
+      document.body.classList.toggle("com-cta-fixo", !bar.hidden);
+    }, { threshold: 0 });
+    ["topo", "amostra", "preco", "assinar"].forEach(function (id) { var el = document.getElementById(id); if (el) io.observe(el); });
+  })();
 })();

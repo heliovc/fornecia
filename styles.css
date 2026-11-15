@@ -894,3 +894,26 @@ button.linkish { background: none; border: 0; padding: 0; color: var(--forest-2,
 @media (max-width: 800px) {
   .panorama-previews { grid-template-columns: 1fr; }
 }
+
+
+/* Conversão (15/11/2026): faixa estática, hero, confiança, oferta pós-amostra, barra fixa */
+#oferta-faixa{background:#1A4A3C;color:#F3EEE4;font:600 15px/1.4 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;}
+#oferta-faixa .oferta-inner{max-width:980px;margin:0 auto;padding:10px 16px;display:flex;flex-wrap:wrap;gap:8px 16px;align-items:center;justify-content:center;}
+#oferta-faixa a{color:#E8C15A;font-weight:700;text-decoration:underline;}
+#oferta-faixa .cupom{display:inline-flex;align-items:center;gap:6px;background:#0F2A22;border:1px dashed #E8C15A;border-radius:6px;padding:2px 8px;font-family:ui-monospace,monospace;letter-spacing:.04em;}
+#oferta-faixa .copiar{background:transparent;border:0;color:#E8C15A;cursor:pointer;font:inherit;text-decoration:underline;padding:0;}
+.hero-amostra{margin:0 0 1rem;display:flex;flex-wrap:wrap;align-items:center;gap:.5rem 1rem;}
+.hero-amostra-nota{font-size:.92rem;color:var(--ink-soft);}
+.trust{list-style:none;padding:0;margin:1.25rem 0 0;display:grid;gap:.4rem 1.25rem;grid-template-columns:repeat(auto-fit,minmax(15rem,1fr));font-size:.92rem;color:var(--ink-soft);}
+.trust li{padding-left:1.4rem;position:relative;}
+.trust li::before{content:"✓";position:absolute;left:0;color:var(--forest);font-weight:700;}
+.amostra-oferta{margin:1.25rem 0 1.5rem;padding:1.25rem 1.4rem;background:var(--forest-soft);border:1px solid #bfe3d4;border-radius:12px;max-width:44rem;}
+.amostra-oferta h3{margin:0 0 .4rem;}
+.amostra-oferta[hidden],.cta-fixo[hidden]{display:none;}
+.amostra-oferta-panorama{margin:.9rem 0 0;font-size:.95rem;}
+.garantia-selo{text-align:center;margin:1rem auto 0;max-width:40rem;padding:.75rem 1rem;border:1px dashed var(--forest);border-radius:10px;background:var(--forest-soft);}
+.cta-fixo{position:fixed;left:0;right:0;bottom:0;z-index:50;display:flex;gap:.5rem;padding:.6rem .75rem calc(.6rem + env(safe-area-inset-bottom));background:rgba(255,253,248,.97);border-top:1px solid var(--line);box-shadow:0 -4px 16px rgba(0,0,0,.08);}
+.cta-fixo .btn{flex:1;text-align:center;padding-left:.5rem;padding-right:.5rem;font-size:.95rem;}
+body.com-cta-fixo{padding-bottom:4.5rem;}
+@media (min-width:880px){.cta-fixo{display:none !important;}body.com-cta-fixo{padding-bottom:0;}}
+@media (max-width:600px){.hero h1 br{display:none;}}
