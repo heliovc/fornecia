@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Escolha o recorte do seu Panorama · Fornecia</title>
+  <link rel="icon" href="../favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="../styles.css">
+  <link rel="stylesheet" href="panorama.css">
+</head>
+<body class="panorama-pagina">
+  <header class="header">
+    <div class="wrap header-inner">
+      <a class="brand" href="../">Fornecia</a>
+    </div>
+  </header>
+  <main class="wrap panorama-main">
+    <p class="section-kicker">Panorama de Compras Públicas</p>
+    <h1>Escolha o ramo e o estado</h1>
+    <p class="lead" id="lead">Com o pagamento confirmado, escolhemos o recorte e geramos o PDF e a planilha. Eles chegam neste mesmo e-mail, em poucos minutos.</p>
+    <p class="periodo" id="periodo" hidden></p>
+    <p class="erro" id="msg-link" hidden>Este link é inválido ou o pedido foi encerrado. Se você acabou de pagar, use o link do e-mail da Fornecia.</p>
+    <form id="form-panorama" hidden>
+      <label>Ramo
+        <select name="ramo" id="ramo" required></select>
+      </label>
+      <label>Estado
+        <select name="uf" id="uf" required></select>
+      </label>
+      <p class="aviso" id="aviso" hidden></p>
+      <p class="sugestoes" id="sugestoes" hidden></p>
+      <button type="submit" class="btn btn-primary" id="enviar">Gerar meu Panorama</button>
+      <p class="fine">Não há recorte de limpeza e conservação neste produto. O período coberto é o que estiver indicado acima — não é um relatório de 12 meses.</p>
+    </form>
+    <p class="ok" id="ok" hidden></p>
+  </main>
+  <script src="../config.js"></script>
+  <script src="panorama.js"></script>
+</body>
+</html>

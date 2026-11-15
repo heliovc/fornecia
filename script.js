@@ -5,6 +5,7 @@
     productName: "Fornecia",
     checkoutMonthlyUrl: "#",
     checkoutAnnualUrl: "#",
+    checkoutPanoramaUrl: "#",
     supportEmail: "SUPORTE@EMAIL.A.DEFINIR"
   };
 
@@ -37,10 +38,12 @@
     // os botões ficam como "Em breve", sem link.
     var labels = {
       monthly: "Assinar o plano fundador por R$ 47/mês",
-      annual: "Assinar o anual de fundador por R$ 397/ano"
+      annual: "Assinar o anual de fundador por R$ 397/ano",
+      panorama: "Quero o Panorama do meu ramo — R$ 27"
     };
-    ["monthly", "annual"].forEach(function (kind) {
-      var url = kind === "monthly" ? cfg.checkoutMonthlyUrl : cfg.checkoutAnnualUrl;
+    var urls = { monthly: cfg.checkoutMonthlyUrl, annual: cfg.checkoutAnnualUrl, panorama: cfg.checkoutPanoramaUrl };
+    ["monthly", "annual", "panorama"].forEach(function (kind) {
+      var url = urls[kind];
       if (!url || url.charAt(0) === "#") return;
       document.querySelectorAll("[data-checkout='" + kind + "']").forEach(function (a) {
         a.setAttribute("href", url);

@@ -1,0 +1,5193 @@
+{
+  "periodo_rotulo": "11/09/2026 a 14/11/2026",
+  "periodo_inicio": "2026-09-11",
+  "periodo_fim": "2026-11-14",
+  "dias": 65,
+  "minimo": 30,
+  "itens": [
+    {
+      "ramo": "merenda-escolar",
+      "ramo_rotulo": "Merenda escolar",
+      "uf": "AC",
+      "uf_nome": "Acre",
+      "n": 3,
+      "disponivel": false
+    },
+    {
+      "ramo": "merenda-escolar",
+      "ramo_rotulo": "Merenda escolar",
+      "uf": "AL",
+      "uf_nome": "Alagoas",
+      "n": 21,
+      "disponivel": false
+    },
+    {
+      "ramo": "merenda-escolar",
+      "ramo_rotulo": "Merenda escolar",
+      "uf": "AP",
+      "uf_nome": "Amapá",
+      "n": 2,
+      "disponivel": false
+    },
+    {
+      "ramo": "merenda-escolar",
+      "ramo_rotulo": "Merenda escolar",
+      "uf": "AM",
+      "uf_nome": "Amazonas",
+      "n": 28,
+      "disponivel": false
+    },
+    {
+      "ramo": "merenda-escolar",
+      "ramo_rotulo": "Merenda escolar",
+      "uf": "BA",
+      "uf_nome": "Bahia",
+      "n": 92,
+      "disponivel": true
+    },
+    {
+      "ramo": "merenda-escolar",
+      "ramo_rotulo": "Merenda escolar",
+      "uf": "CE",
+      "uf_nome": "Ceará",
+      "n": 93,
+      "disponivel": true
+    },
+    {
+      "ramo": "merenda-escolar",
+      "ramo_rotulo": "Merenda escolar",
+      "uf": "DF",
+      "uf_nome": "Distrito Federal",
+      "n": 5,
+      "disponivel": false
+    },
+    {
+      "ramo": "merenda-escolar",
+      "ramo_rotulo": "Merenda escolar",
+      "uf": "ES",
+      "uf_nome": "Espírito Santo",
+      "n": 20,
+      "disponivel": false
+    },
+    {
+      "ramo": "merenda-escolar",
+      "ramo_rotulo": "Merenda escolar",
+      "uf": "GO",
+      "uf_nome": "Goiás",
+      "n": 70,
+      "disponivel": true
+    },
+    {
+      "ramo": "merenda-escolar",
+      "ramo_rotulo": "Merenda escolar",
+      "uf": "MA",
+      "uf_nome": "Maranhão",
+      "n": 40,
+      "disponivel": true
+    },
+    {
+      "ramo": "merenda-escolar",
+      "ramo_rotulo": "Merenda escolar",
+      "uf": "MT",
+      "uf_nome": "Mato Grosso",
+      "n": 44,
+      "disponivel": true
+    },
+    {
+      "ramo": "merenda-escolar",
+      "ramo_rotulo": "Merenda escolar",
+      "uf": "MS",
+      "uf_nome": "Mato Grosso do Sul",
+      "n": 85,
+      "disponivel": true
+    },
+    {
+      "ramo": "merenda-escolar",
+      "ramo_rotulo": "Merenda escolar",
+      "uf": "MG",
+      "uf_nome": "Minas Gerais",
+      "n": 156,
+      "disponivel": true
+    },
+    {
+      "ramo": "merenda-escolar",
+      "ramo_rotulo": "Merenda escolar",
+      "uf": "PA",
+      "uf_nome": "Pará",
+      "n": 33,
+      "disponivel": true
+    },
+    {
+      "ramo": "merenda-escolar",
+      "ramo_rotulo": "Merenda escolar",
+      "uf": "PB",
+      "uf_nome": "Paraíba",
+      "n": 255,
+      "disponivel": true
+    },
+    {
+      "ramo": "merenda-escolar",
+      "ramo_rotulo": "Merenda escolar",
+      "uf": "PR",
+      "uf_nome": "Paraná",
+      "n": 367,
+      "disponivel": true
+    },
+    {
+      "ramo": "merenda-escolar",
+      "ramo_rotulo": "Merenda escolar",
+      "uf": "PE",
+      "uf_nome": "Pernambuco",
+      "n": 59,
+      "disponivel": true
+    },
+    {
+      "ramo": "merenda-escolar",
+      "ramo_rotulo": "Merenda escolar",
+      "uf": "PI",
+      "uf_nome": "Piauí",
+      "n": 25,
+      "disponivel": false
+    },
+    {
+      "ramo": "merenda-escolar",
+      "ramo_rotulo": "Merenda escolar",
+      "uf": "RJ",
+      "uf_nome": "Rio de Janeiro",
+      "n": 47,
+      "disponivel": true
+    },
+    {
+      "ramo": "merenda-escolar",
+      "ramo_rotulo": "Merenda escolar",
+      "uf": "RN",
+      "uf_nome": "Rio Grande do Norte",
+      "n": 33,
+      "disponivel": true
+    },
+    {
+      "ramo": "merenda-escolar",
+      "ramo_rotulo": "Merenda escolar",
+      "uf": "RS",
+      "uf_nome": "Rio Grande do Sul",
+      "n": 185,
+      "disponivel": true
+    },
+    {
+      "ramo": "merenda-escolar",
+      "ramo_rotulo": "Merenda escolar",
+      "uf": "RO",
+      "uf_nome": "Rondônia",
+      "n": 8,
+      "disponivel": false
+    },
+    {
+      "ramo": "merenda-escolar",
+      "ramo_rotulo": "Merenda escolar",
+      "uf": "RR",
+      "uf_nome": "Roraima",
+      "n": 6,
+      "disponivel": false
+    },
+    {
+      "ramo": "merenda-escolar",
+      "ramo_rotulo": "Merenda escolar",
+      "uf": "SC",
+      "uf_nome": "Santa Catarina",
+      "n": 106,
+      "disponivel": true
+    },
+    {
+      "ramo": "merenda-escolar",
+      "ramo_rotulo": "Merenda escolar",
+      "uf": "SP",
+      "uf_nome": "São Paulo",
+      "n": 272,
+      "disponivel": true
+    },
+    {
+      "ramo": "merenda-escolar",
+      "ramo_rotulo": "Merenda escolar",
+      "uf": "SE",
+      "uf_nome": "Sergipe",
+      "n": 7,
+      "disponivel": false
+    },
+    {
+      "ramo": "merenda-escolar",
+      "ramo_rotulo": "Merenda escolar",
+      "uf": "TO",
+      "uf_nome": "Tocantins",
+      "n": 33,
+      "disponivel": true
+    },
+    {
+      "ramo": "generos-alimenticios",
+      "ramo_rotulo": "Gêneros alimentícios",
+      "uf": "AC",
+      "uf_nome": "Acre",
+      "n": 30,
+      "disponivel": true
+    },
+    {
+      "ramo": "generos-alimenticios",
+      "ramo_rotulo": "Gêneros alimentícios",
+      "uf": "AL",
+      "uf_nome": "Alagoas",
+      "n": 57,
+      "disponivel": true
+    },
+    {
+      "ramo": "generos-alimenticios",
+      "ramo_rotulo": "Gêneros alimentícios",
+      "uf": "AP",
+      "uf_nome": "Amapá",
+      "n": 10,
+      "disponivel": false
+    },
+    {
+      "ramo": "generos-alimenticios",
+      "ramo_rotulo": "Gêneros alimentícios",
+      "uf": "AM",
+      "uf_nome": "Amazonas",
+      "n": 86,
+      "disponivel": true
+    },
+    {
+      "ramo": "generos-alimenticios",
+      "ramo_rotulo": "Gêneros alimentícios",
+      "uf": "BA",
+      "uf_nome": "Bahia",
+      "n": 585,
+      "disponivel": true
+    },
+    {
+      "ramo": "generos-alimenticios",
+      "ramo_rotulo": "Gêneros alimentícios",
+      "uf": "CE",
+      "uf_nome": "Ceará",
+      "n": 379,
+      "disponivel": true
+    },
+    {
+      "ramo": "generos-alimenticios",
+      "ramo_rotulo": "Gêneros alimentícios",
+      "uf": "DF",
+      "uf_nome": "Distrito Federal",
+      "n": 82,
+      "disponivel": true
+    },
+    {
+      "ramo": "generos-alimenticios",
+      "ramo_rotulo": "Gêneros alimentícios",
+      "uf": "ES",
+      "uf_nome": "Espírito Santo",
+      "n": 152,
+      "disponivel": true
+    },
+    {
+      "ramo": "generos-alimenticios",
+      "ramo_rotulo": "Gêneros alimentícios",
+      "uf": "GO",
+      "uf_nome": "Goiás",
+      "n": 454,
+      "disponivel": true
+    },
+    {
+      "ramo": "generos-alimenticios",
+      "ramo_rotulo": "Gêneros alimentícios",
+      "uf": "MA",
+      "uf_nome": "Maranhão",
+      "n": 117,
+      "disponivel": true
+    },
+    {
+      "ramo": "generos-alimenticios",
+      "ramo_rotulo": "Gêneros alimentícios",
+      "uf": "MT",
+      "uf_nome": "Mato Grosso",
+      "n": 117,
+      "disponivel": true
+    },
+    {
+      "ramo": "generos-alimenticios",
+      "ramo_rotulo": "Gêneros alimentícios",
+      "uf": "MS",
+      "uf_nome": "Mato Grosso do Sul",
+      "n": 93,
+      "disponivel": true
+    },
+    {
+      "ramo": "generos-alimenticios",
+      "ramo_rotulo": "Gêneros alimentícios",
+      "uf": "MG",
+      "uf_nome": "Minas Gerais",
+      "n": 937,
+      "disponivel": true
+    },
+    {
+      "ramo": "generos-alimenticios",
+      "ramo_rotulo": "Gêneros alimentícios",
+      "uf": "PA",
+      "uf_nome": "Pará",
+      "n": 172,
+      "disponivel": true
+    },
+    {
+      "ramo": "generos-alimenticios",
+      "ramo_rotulo": "Gêneros alimentícios",
+      "uf": "PB",
+      "uf_nome": "Paraíba",
+      "n": 147,
+      "disponivel": true
+    },
+    {
+      "ramo": "generos-alimenticios",
+      "ramo_rotulo": "Gêneros alimentícios",
+      "uf": "PR",
+      "uf_nome": "Paraná",
+      "n": 736,
+      "disponivel": true
+    },
+    {
+      "ramo": "generos-alimenticios",
+      "ramo_rotulo": "Gêneros alimentícios",
+      "uf": "PE",
+      "uf_nome": "Pernambuco",
+      "n": 194,
+      "disponivel": true
+    },
+    {
+      "ramo": "generos-alimenticios",
+      "ramo_rotulo": "Gêneros alimentícios",
+      "uf": "PI",
+      "uf_nome": "Piauí",
+      "n": 85,
+      "disponivel": true
+    },
+    {
+      "ramo": "generos-alimenticios",
+      "ramo_rotulo": "Gêneros alimentícios",
+      "uf": "RJ",
+      "uf_nome": "Rio de Janeiro",
+      "n": 335,
+      "disponivel": true
+    },
+    {
+      "ramo": "generos-alimenticios",
+      "ramo_rotulo": "Gêneros alimentícios",
+      "uf": "RN",
+      "uf_nome": "Rio Grande do Norte",
+      "n": 109,
+      "disponivel": true
+    },
+    {
+      "ramo": "generos-alimenticios",
+      "ramo_rotulo": "Gêneros alimentícios",
+      "uf": "RS",
+      "uf_nome": "Rio Grande do Sul",
+      "n": 810,
+      "disponivel": true
+    },
+    {
+      "ramo": "generos-alimenticios",
+      "ramo_rotulo": "Gêneros alimentícios",
+      "uf": "RO",
+      "uf_nome": "Rondônia",
+      "n": 102,
+      "disponivel": true
+    },
+    {
+      "ramo": "generos-alimenticios",
+      "ramo_rotulo": "Gêneros alimentícios",
+      "uf": "RR",
+      "uf_nome": "Roraima",
+      "n": 13,
+      "disponivel": false
+    },
+    {
+      "ramo": "generos-alimenticios",
+      "ramo_rotulo": "Gêneros alimentícios",
+      "uf": "SC",
+      "uf_nome": "Santa Catarina",
+      "n": 434,
+      "disponivel": true
+    },
+    {
+      "ramo": "generos-alimenticios",
+      "ramo_rotulo": "Gêneros alimentícios",
+      "uf": "SP",
+      "uf_nome": "São Paulo",
+      "n": 1836,
+      "disponivel": true
+    },
+    {
+      "ramo": "generos-alimenticios",
+      "ramo_rotulo": "Gêneros alimentícios",
+      "uf": "SE",
+      "uf_nome": "Sergipe",
+      "n": 64,
+      "disponivel": true
+    },
+    {
+      "ramo": "generos-alimenticios",
+      "ramo_rotulo": "Gêneros alimentícios",
+      "uf": "TO",
+      "uf_nome": "Tocantins",
+      "n": 140,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-limpeza",
+      "ramo_rotulo": "Material de limpeza",
+      "uf": "AC",
+      "uf_nome": "Acre",
+      "n": 14,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-de-limpeza",
+      "ramo_rotulo": "Material de limpeza",
+      "uf": "AL",
+      "uf_nome": "Alagoas",
+      "n": 26,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-de-limpeza",
+      "ramo_rotulo": "Material de limpeza",
+      "uf": "AP",
+      "uf_nome": "Amapá",
+      "n": 2,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-de-limpeza",
+      "ramo_rotulo": "Material de limpeza",
+      "uf": "AM",
+      "uf_nome": "Amazonas",
+      "n": 22,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-de-limpeza",
+      "ramo_rotulo": "Material de limpeza",
+      "uf": "BA",
+      "uf_nome": "Bahia",
+      "n": 328,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-limpeza",
+      "ramo_rotulo": "Material de limpeza",
+      "uf": "CE",
+      "uf_nome": "Ceará",
+      "n": 234,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-limpeza",
+      "ramo_rotulo": "Material de limpeza",
+      "uf": "DF",
+      "uf_nome": "Distrito Federal",
+      "n": 24,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-de-limpeza",
+      "ramo_rotulo": "Material de limpeza",
+      "uf": "ES",
+      "uf_nome": "Espírito Santo",
+      "n": 65,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-limpeza",
+      "ramo_rotulo": "Material de limpeza",
+      "uf": "GO",
+      "uf_nome": "Goiás",
+      "n": 136,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-limpeza",
+      "ramo_rotulo": "Material de limpeza",
+      "uf": "MA",
+      "uf_nome": "Maranhão",
+      "n": 43,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-limpeza",
+      "ramo_rotulo": "Material de limpeza",
+      "uf": "MT",
+      "uf_nome": "Mato Grosso",
+      "n": 48,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-limpeza",
+      "ramo_rotulo": "Material de limpeza",
+      "uf": "MS",
+      "uf_nome": "Mato Grosso do Sul",
+      "n": 41,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-limpeza",
+      "ramo_rotulo": "Material de limpeza",
+      "uf": "MG",
+      "uf_nome": "Minas Gerais",
+      "n": 400,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-limpeza",
+      "ramo_rotulo": "Material de limpeza",
+      "uf": "PA",
+      "uf_nome": "Pará",
+      "n": 52,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-limpeza",
+      "ramo_rotulo": "Material de limpeza",
+      "uf": "PB",
+      "uf_nome": "Paraíba",
+      "n": 47,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-limpeza",
+      "ramo_rotulo": "Material de limpeza",
+      "uf": "PR",
+      "uf_nome": "Paraná",
+      "n": 316,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-limpeza",
+      "ramo_rotulo": "Material de limpeza",
+      "uf": "PE",
+      "uf_nome": "Pernambuco",
+      "n": 141,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-limpeza",
+      "ramo_rotulo": "Material de limpeza",
+      "uf": "PI",
+      "uf_nome": "Piauí",
+      "n": 28,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-de-limpeza",
+      "ramo_rotulo": "Material de limpeza",
+      "uf": "RJ",
+      "uf_nome": "Rio de Janeiro",
+      "n": 160,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-limpeza",
+      "ramo_rotulo": "Material de limpeza",
+      "uf": "RN",
+      "uf_nome": "Rio Grande do Norte",
+      "n": 60,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-limpeza",
+      "ramo_rotulo": "Material de limpeza",
+      "uf": "RS",
+      "uf_nome": "Rio Grande do Sul",
+      "n": 295,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-limpeza",
+      "ramo_rotulo": "Material de limpeza",
+      "uf": "RO",
+      "uf_nome": "Rondônia",
+      "n": 29,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-de-limpeza",
+      "ramo_rotulo": "Material de limpeza",
+      "uf": "RR",
+      "uf_nome": "Roraima",
+      "n": 3,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-de-limpeza",
+      "ramo_rotulo": "Material de limpeza",
+      "uf": "SC",
+      "uf_nome": "Santa Catarina",
+      "n": 77,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-limpeza",
+      "ramo_rotulo": "Material de limpeza",
+      "uf": "SP",
+      "uf_nome": "São Paulo",
+      "n": 903,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-limpeza",
+      "ramo_rotulo": "Material de limpeza",
+      "uf": "SE",
+      "uf_nome": "Sergipe",
+      "n": 34,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-limpeza",
+      "ramo_rotulo": "Material de limpeza",
+      "uf": "TO",
+      "uf_nome": "Tocantins",
+      "n": 61,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-hospitalar",
+      "ramo_rotulo": "Material hospitalar e odontológico",
+      "uf": "AC",
+      "uf_nome": "Acre",
+      "n": 17,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-hospitalar",
+      "ramo_rotulo": "Material hospitalar e odontológico",
+      "uf": "AL",
+      "uf_nome": "Alagoas",
+      "n": 82,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-hospitalar",
+      "ramo_rotulo": "Material hospitalar e odontológico",
+      "uf": "AP",
+      "uf_nome": "Amapá",
+      "n": 11,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-hospitalar",
+      "ramo_rotulo": "Material hospitalar e odontológico",
+      "uf": "AM",
+      "uf_nome": "Amazonas",
+      "n": 73,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-hospitalar",
+      "ramo_rotulo": "Material hospitalar e odontológico",
+      "uf": "BA",
+      "uf_nome": "Bahia",
+      "n": 496,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-hospitalar",
+      "ramo_rotulo": "Material hospitalar e odontológico",
+      "uf": "CE",
+      "uf_nome": "Ceará",
+      "n": 615,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-hospitalar",
+      "ramo_rotulo": "Material hospitalar e odontológico",
+      "uf": "DF",
+      "uf_nome": "Distrito Federal",
+      "n": 109,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-hospitalar",
+      "ramo_rotulo": "Material hospitalar e odontológico",
+      "uf": "ES",
+      "uf_nome": "Espírito Santo",
+      "n": 256,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-hospitalar",
+      "ramo_rotulo": "Material hospitalar e odontológico",
+      "uf": "GO",
+      "uf_nome": "Goiás",
+      "n": 331,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-hospitalar",
+      "ramo_rotulo": "Material hospitalar e odontológico",
+      "uf": "MA",
+      "uf_nome": "Maranhão",
+      "n": 115,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-hospitalar",
+      "ramo_rotulo": "Material hospitalar e odontológico",
+      "uf": "MT",
+      "uf_nome": "Mato Grosso",
+      "n": 114,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-hospitalar",
+      "ramo_rotulo": "Material hospitalar e odontológico",
+      "uf": "MS",
+      "uf_nome": "Mato Grosso do Sul",
+      "n": 126,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-hospitalar",
+      "ramo_rotulo": "Material hospitalar e odontológico",
+      "uf": "MG",
+      "uf_nome": "Minas Gerais",
+      "n": 973,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-hospitalar",
+      "ramo_rotulo": "Material hospitalar e odontológico",
+      "uf": "PA",
+      "uf_nome": "Pará",
+      "n": 176,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-hospitalar",
+      "ramo_rotulo": "Material hospitalar e odontológico",
+      "uf": "PB",
+      "uf_nome": "Paraíba",
+      "n": 185,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-hospitalar",
+      "ramo_rotulo": "Material hospitalar e odontológico",
+      "uf": "PR",
+      "uf_nome": "Paraná",
+      "n": 984,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-hospitalar",
+      "ramo_rotulo": "Material hospitalar e odontológico",
+      "uf": "PE",
+      "uf_nome": "Pernambuco",
+      "n": 290,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-hospitalar",
+      "ramo_rotulo": "Material hospitalar e odontológico",
+      "uf": "PI",
+      "uf_nome": "Piauí",
+      "n": 51,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-hospitalar",
+      "ramo_rotulo": "Material hospitalar e odontológico",
+      "uf": "RJ",
+      "uf_nome": "Rio de Janeiro",
+      "n": 491,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-hospitalar",
+      "ramo_rotulo": "Material hospitalar e odontológico",
+      "uf": "RN",
+      "uf_nome": "Rio Grande do Norte",
+      "n": 160,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-hospitalar",
+      "ramo_rotulo": "Material hospitalar e odontológico",
+      "uf": "RS",
+      "uf_nome": "Rio Grande do Sul",
+      "n": 738,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-hospitalar",
+      "ramo_rotulo": "Material hospitalar e odontológico",
+      "uf": "RO",
+      "uf_nome": "Rondônia",
+      "n": 74,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-hospitalar",
+      "ramo_rotulo": "Material hospitalar e odontológico",
+      "uf": "RR",
+      "uf_nome": "Roraima",
+      "n": 12,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-hospitalar",
+      "ramo_rotulo": "Material hospitalar e odontológico",
+      "uf": "SC",
+      "uf_nome": "Santa Catarina",
+      "n": 389,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-hospitalar",
+      "ramo_rotulo": "Material hospitalar e odontológico",
+      "uf": "SP",
+      "uf_nome": "São Paulo",
+      "n": 1927,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-hospitalar",
+      "ramo_rotulo": "Material hospitalar e odontológico",
+      "uf": "SE",
+      "uf_nome": "Sergipe",
+      "n": 94,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-hospitalar",
+      "ramo_rotulo": "Material hospitalar e odontológico",
+      "uf": "TO",
+      "uf_nome": "Tocantins",
+      "n": 41,
+      "disponivel": true
+    },
+    {
+      "ramo": "medicamentos",
+      "ramo_rotulo": "Medicamentos",
+      "uf": "AC",
+      "uf_nome": "Acre",
+      "n": 1,
+      "disponivel": false
+    },
+    {
+      "ramo": "medicamentos",
+      "ramo_rotulo": "Medicamentos",
+      "uf": "AL",
+      "uf_nome": "Alagoas",
+      "n": 57,
+      "disponivel": true
+    },
+    {
+      "ramo": "medicamentos",
+      "ramo_rotulo": "Medicamentos",
+      "uf": "AP",
+      "uf_nome": "Amapá",
+      "n": 5,
+      "disponivel": false
+    },
+    {
+      "ramo": "medicamentos",
+      "ramo_rotulo": "Medicamentos",
+      "uf": "AM",
+      "uf_nome": "Amazonas",
+      "n": 51,
+      "disponivel": true
+    },
+    {
+      "ramo": "medicamentos",
+      "ramo_rotulo": "Medicamentos",
+      "uf": "BA",
+      "uf_nome": "Bahia",
+      "n": 247,
+      "disponivel": true
+    },
+    {
+      "ramo": "medicamentos",
+      "ramo_rotulo": "Medicamentos",
+      "uf": "CE",
+      "uf_nome": "Ceará",
+      "n": 252,
+      "disponivel": true
+    },
+    {
+      "ramo": "medicamentos",
+      "ramo_rotulo": "Medicamentos",
+      "uf": "DF",
+      "uf_nome": "Distrito Federal",
+      "n": 57,
+      "disponivel": true
+    },
+    {
+      "ramo": "medicamentos",
+      "ramo_rotulo": "Medicamentos",
+      "uf": "ES",
+      "uf_nome": "Espírito Santo",
+      "n": 152,
+      "disponivel": true
+    },
+    {
+      "ramo": "medicamentos",
+      "ramo_rotulo": "Medicamentos",
+      "uf": "GO",
+      "uf_nome": "Goiás",
+      "n": 413,
+      "disponivel": true
+    },
+    {
+      "ramo": "medicamentos",
+      "ramo_rotulo": "Medicamentos",
+      "uf": "MA",
+      "uf_nome": "Maranhão",
+      "n": 37,
+      "disponivel": true
+    },
+    {
+      "ramo": "medicamentos",
+      "ramo_rotulo": "Medicamentos",
+      "uf": "MT",
+      "uf_nome": "Mato Grosso",
+      "n": 55,
+      "disponivel": true
+    },
+    {
+      "ramo": "medicamentos",
+      "ramo_rotulo": "Medicamentos",
+      "uf": "MS",
+      "uf_nome": "Mato Grosso do Sul",
+      "n": 88,
+      "disponivel": true
+    },
+    {
+      "ramo": "medicamentos",
+      "ramo_rotulo": "Medicamentos",
+      "uf": "MG",
+      "uf_nome": "Minas Gerais",
+      "n": 506,
+      "disponivel": true
+    },
+    {
+      "ramo": "medicamentos",
+      "ramo_rotulo": "Medicamentos",
+      "uf": "PA",
+      "uf_nome": "Pará",
+      "n": 61,
+      "disponivel": true
+    },
+    {
+      "ramo": "medicamentos",
+      "ramo_rotulo": "Medicamentos",
+      "uf": "PB",
+      "uf_nome": "Paraíba",
+      "n": 97,
+      "disponivel": true
+    },
+    {
+      "ramo": "medicamentos",
+      "ramo_rotulo": "Medicamentos",
+      "uf": "PR",
+      "uf_nome": "Paraná",
+      "n": 355,
+      "disponivel": true
+    },
+    {
+      "ramo": "medicamentos",
+      "ramo_rotulo": "Medicamentos",
+      "uf": "PE",
+      "uf_nome": "Pernambuco",
+      "n": 151,
+      "disponivel": true
+    },
+    {
+      "ramo": "medicamentos",
+      "ramo_rotulo": "Medicamentos",
+      "uf": "PI",
+      "uf_nome": "Piauí",
+      "n": 17,
+      "disponivel": false
+    },
+    {
+      "ramo": "medicamentos",
+      "ramo_rotulo": "Medicamentos",
+      "uf": "RJ",
+      "uf_nome": "Rio de Janeiro",
+      "n": 365,
+      "disponivel": true
+    },
+    {
+      "ramo": "medicamentos",
+      "ramo_rotulo": "Medicamentos",
+      "uf": "RN",
+      "uf_nome": "Rio Grande do Norte",
+      "n": 117,
+      "disponivel": true
+    },
+    {
+      "ramo": "medicamentos",
+      "ramo_rotulo": "Medicamentos",
+      "uf": "RS",
+      "uf_nome": "Rio Grande do Sul",
+      "n": 628,
+      "disponivel": true
+    },
+    {
+      "ramo": "medicamentos",
+      "ramo_rotulo": "Medicamentos",
+      "uf": "RO",
+      "uf_nome": "Rondônia",
+      "n": 61,
+      "disponivel": true
+    },
+    {
+      "ramo": "medicamentos",
+      "ramo_rotulo": "Medicamentos",
+      "uf": "RR",
+      "uf_nome": "Roraima",
+      "n": 10,
+      "disponivel": false
+    },
+    {
+      "ramo": "medicamentos",
+      "ramo_rotulo": "Medicamentos",
+      "uf": "SC",
+      "uf_nome": "Santa Catarina",
+      "n": 147,
+      "disponivel": true
+    },
+    {
+      "ramo": "medicamentos",
+      "ramo_rotulo": "Medicamentos",
+      "uf": "SP",
+      "uf_nome": "São Paulo",
+      "n": 2063,
+      "disponivel": true
+    },
+    {
+      "ramo": "medicamentos",
+      "ramo_rotulo": "Medicamentos",
+      "uf": "SE",
+      "uf_nome": "Sergipe",
+      "n": 125,
+      "disponivel": true
+    },
+    {
+      "ramo": "medicamentos",
+      "ramo_rotulo": "Medicamentos",
+      "uf": "TO",
+      "uf_nome": "Tocantins",
+      "n": 31,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-escritorio",
+      "ramo_rotulo": "Material de escritório e expediente",
+      "uf": "AC",
+      "uf_nome": "Acre",
+      "n": 6,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-de-escritorio",
+      "ramo_rotulo": "Material de escritório e expediente",
+      "uf": "AL",
+      "uf_nome": "Alagoas",
+      "n": 27,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-de-escritorio",
+      "ramo_rotulo": "Material de escritório e expediente",
+      "uf": "AP",
+      "uf_nome": "Amapá",
+      "n": 2,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-de-escritorio",
+      "ramo_rotulo": "Material de escritório e expediente",
+      "uf": "AM",
+      "uf_nome": "Amazonas",
+      "n": 45,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-escritorio",
+      "ramo_rotulo": "Material de escritório e expediente",
+      "uf": "BA",
+      "uf_nome": "Bahia",
+      "n": 184,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-escritorio",
+      "ramo_rotulo": "Material de escritório e expediente",
+      "uf": "CE",
+      "uf_nome": "Ceará",
+      "n": 273,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-escritorio",
+      "ramo_rotulo": "Material de escritório e expediente",
+      "uf": "DF",
+      "uf_nome": "Distrito Federal",
+      "n": 38,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-escritorio",
+      "ramo_rotulo": "Material de escritório e expediente",
+      "uf": "ES",
+      "uf_nome": "Espírito Santo",
+      "n": 65,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-escritorio",
+      "ramo_rotulo": "Material de escritório e expediente",
+      "uf": "GO",
+      "uf_nome": "Goiás",
+      "n": 132,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-escritorio",
+      "ramo_rotulo": "Material de escritório e expediente",
+      "uf": "MA",
+      "uf_nome": "Maranhão",
+      "n": 44,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-escritorio",
+      "ramo_rotulo": "Material de escritório e expediente",
+      "uf": "MT",
+      "uf_nome": "Mato Grosso",
+      "n": 42,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-escritorio",
+      "ramo_rotulo": "Material de escritório e expediente",
+      "uf": "MS",
+      "uf_nome": "Mato Grosso do Sul",
+      "n": 22,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-de-escritorio",
+      "ramo_rotulo": "Material de escritório e expediente",
+      "uf": "MG",
+      "uf_nome": "Minas Gerais",
+      "n": 267,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-escritorio",
+      "ramo_rotulo": "Material de escritório e expediente",
+      "uf": "PA",
+      "uf_nome": "Pará",
+      "n": 38,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-escritorio",
+      "ramo_rotulo": "Material de escritório e expediente",
+      "uf": "PB",
+      "uf_nome": "Paraíba",
+      "n": 26,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-de-escritorio",
+      "ramo_rotulo": "Material de escritório e expediente",
+      "uf": "PR",
+      "uf_nome": "Paraná",
+      "n": 199,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-escritorio",
+      "ramo_rotulo": "Material de escritório e expediente",
+      "uf": "PE",
+      "uf_nome": "Pernambuco",
+      "n": 95,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-escritorio",
+      "ramo_rotulo": "Material de escritório e expediente",
+      "uf": "PI",
+      "uf_nome": "Piauí",
+      "n": 20,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-de-escritorio",
+      "ramo_rotulo": "Material de escritório e expediente",
+      "uf": "RJ",
+      "uf_nome": "Rio de Janeiro",
+      "n": 125,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-escritorio",
+      "ramo_rotulo": "Material de escritório e expediente",
+      "uf": "RN",
+      "uf_nome": "Rio Grande do Norte",
+      "n": 31,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-escritorio",
+      "ramo_rotulo": "Material de escritório e expediente",
+      "uf": "RS",
+      "uf_nome": "Rio Grande do Sul",
+      "n": 189,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-escritorio",
+      "ramo_rotulo": "Material de escritório e expediente",
+      "uf": "RO",
+      "uf_nome": "Rondônia",
+      "n": 20,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-de-escritorio",
+      "ramo_rotulo": "Material de escritório e expediente",
+      "uf": "RR",
+      "uf_nome": "Roraima",
+      "n": 3,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-de-escritorio",
+      "ramo_rotulo": "Material de escritório e expediente",
+      "uf": "SC",
+      "uf_nome": "Santa Catarina",
+      "n": 62,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-escritorio",
+      "ramo_rotulo": "Material de escritório e expediente",
+      "uf": "SP",
+      "uf_nome": "São Paulo",
+      "n": 624,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-escritorio",
+      "ramo_rotulo": "Material de escritório e expediente",
+      "uf": "SE",
+      "uf_nome": "Sergipe",
+      "n": 22,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-de-escritorio",
+      "ramo_rotulo": "Material de escritório e expediente",
+      "uf": "TO",
+      "uf_nome": "Tocantins",
+      "n": 34,
+      "disponivel": true
+    },
+    {
+      "ramo": "informatica-e-suprimentos",
+      "ramo_rotulo": "Informática e suprimentos",
+      "uf": "AC",
+      "uf_nome": "Acre",
+      "n": 26,
+      "disponivel": false
+    },
+    {
+      "ramo": "informatica-e-suprimentos",
+      "ramo_rotulo": "Informática e suprimentos",
+      "uf": "AL",
+      "uf_nome": "Alagoas",
+      "n": 87,
+      "disponivel": true
+    },
+    {
+      "ramo": "informatica-e-suprimentos",
+      "ramo_rotulo": "Informática e suprimentos",
+      "uf": "AP",
+      "uf_nome": "Amapá",
+      "n": 10,
+      "disponivel": false
+    },
+    {
+      "ramo": "informatica-e-suprimentos",
+      "ramo_rotulo": "Informática e suprimentos",
+      "uf": "AM",
+      "uf_nome": "Amazonas",
+      "n": 71,
+      "disponivel": true
+    },
+    {
+      "ramo": "informatica-e-suprimentos",
+      "ramo_rotulo": "Informática e suprimentos",
+      "uf": "BA",
+      "uf_nome": "Bahia",
+      "n": 322,
+      "disponivel": true
+    },
+    {
+      "ramo": "informatica-e-suprimentos",
+      "ramo_rotulo": "Informática e suprimentos",
+      "uf": "CE",
+      "uf_nome": "Ceará",
+      "n": 126,
+      "disponivel": true
+    },
+    {
+      "ramo": "informatica-e-suprimentos",
+      "ramo_rotulo": "Informática e suprimentos",
+      "uf": "DF",
+      "uf_nome": "Distrito Federal",
+      "n": 91,
+      "disponivel": true
+    },
+    {
+      "ramo": "informatica-e-suprimentos",
+      "ramo_rotulo": "Informática e suprimentos",
+      "uf": "ES",
+      "uf_nome": "Espírito Santo",
+      "n": 108,
+      "disponivel": true
+    },
+    {
+      "ramo": "informatica-e-suprimentos",
+      "ramo_rotulo": "Informática e suprimentos",
+      "uf": "GO",
+      "uf_nome": "Goiás",
+      "n": 379,
+      "disponivel": true
+    },
+    {
+      "ramo": "informatica-e-suprimentos",
+      "ramo_rotulo": "Informática e suprimentos",
+      "uf": "MA",
+      "uf_nome": "Maranhão",
+      "n": 62,
+      "disponivel": true
+    },
+    {
+      "ramo": "informatica-e-suprimentos",
+      "ramo_rotulo": "Informática e suprimentos",
+      "uf": "MT",
+      "uf_nome": "Mato Grosso",
+      "n": 73,
+      "disponivel": true
+    },
+    {
+      "ramo": "informatica-e-suprimentos",
+      "ramo_rotulo": "Informática e suprimentos",
+      "uf": "MS",
+      "uf_nome": "Mato Grosso do Sul",
+      "n": 62,
+      "disponivel": true
+    },
+    {
+      "ramo": "informatica-e-suprimentos",
+      "ramo_rotulo": "Informática e suprimentos",
+      "uf": "MG",
+      "uf_nome": "Minas Gerais",
+      "n": 610,
+      "disponivel": true
+    },
+    {
+      "ramo": "informatica-e-suprimentos",
+      "ramo_rotulo": "Informática e suprimentos",
+      "uf": "PA",
+      "uf_nome": "Pará",
+      "n": 133,
+      "disponivel": true
+    },
+    {
+      "ramo": "informatica-e-suprimentos",
+      "ramo_rotulo": "Informática e suprimentos",
+      "uf": "PB",
+      "uf_nome": "Paraíba",
+      "n": 89,
+      "disponivel": true
+    },
+    {
+      "ramo": "informatica-e-suprimentos",
+      "ramo_rotulo": "Informática e suprimentos",
+      "uf": "PR",
+      "uf_nome": "Paraná",
+      "n": 423,
+      "disponivel": true
+    },
+    {
+      "ramo": "informatica-e-suprimentos",
+      "ramo_rotulo": "Informática e suprimentos",
+      "uf": "PE",
+      "uf_nome": "Pernambuco",
+      "n": 160,
+      "disponivel": true
+    },
+    {
+      "ramo": "informatica-e-suprimentos",
+      "ramo_rotulo": "Informática e suprimentos",
+      "uf": "PI",
+      "uf_nome": "Piauí",
+      "n": 37,
+      "disponivel": true
+    },
+    {
+      "ramo": "informatica-e-suprimentos",
+      "ramo_rotulo": "Informática e suprimentos",
+      "uf": "RJ",
+      "uf_nome": "Rio de Janeiro",
+      "n": 366,
+      "disponivel": true
+    },
+    {
+      "ramo": "informatica-e-suprimentos",
+      "ramo_rotulo": "Informática e suprimentos",
+      "uf": "RN",
+      "uf_nome": "Rio Grande do Norte",
+      "n": 107,
+      "disponivel": true
+    },
+    {
+      "ramo": "informatica-e-suprimentos",
+      "ramo_rotulo": "Informática e suprimentos",
+      "uf": "RS",
+      "uf_nome": "Rio Grande do Sul",
+      "n": 531,
+      "disponivel": true
+    },
+    {
+      "ramo": "informatica-e-suprimentos",
+      "ramo_rotulo": "Informática e suprimentos",
+      "uf": "RO",
+      "uf_nome": "Rondônia",
+      "n": 62,
+      "disponivel": true
+    },
+    {
+      "ramo": "informatica-e-suprimentos",
+      "ramo_rotulo": "Informática e suprimentos",
+      "uf": "RR",
+      "uf_nome": "Roraima",
+      "n": 8,
+      "disponivel": false
+    },
+    {
+      "ramo": "informatica-e-suprimentos",
+      "ramo_rotulo": "Informática e suprimentos",
+      "uf": "SC",
+      "uf_nome": "Santa Catarina",
+      "n": 188,
+      "disponivel": true
+    },
+    {
+      "ramo": "informatica-e-suprimentos",
+      "ramo_rotulo": "Informática e suprimentos",
+      "uf": "SP",
+      "uf_nome": "São Paulo",
+      "n": 1373,
+      "disponivel": true
+    },
+    {
+      "ramo": "informatica-e-suprimentos",
+      "ramo_rotulo": "Informática e suprimentos",
+      "uf": "SE",
+      "uf_nome": "Sergipe",
+      "n": 46,
+      "disponivel": true
+    },
+    {
+      "ramo": "informatica-e-suprimentos",
+      "ramo_rotulo": "Informática e suprimentos",
+      "uf": "TO",
+      "uf_nome": "Tocantins",
+      "n": 54,
+      "disponivel": true
+    },
+    {
+      "ramo": "uniformes-e-epi",
+      "ramo_rotulo": "Uniformes e EPI",
+      "uf": "AC",
+      "uf_nome": "Acre",
+      "n": 8,
+      "disponivel": false
+    },
+    {
+      "ramo": "uniformes-e-epi",
+      "ramo_rotulo": "Uniformes e EPI",
+      "uf": "AL",
+      "uf_nome": "Alagoas",
+      "n": 31,
+      "disponivel": true
+    },
+    {
+      "ramo": "uniformes-e-epi",
+      "ramo_rotulo": "Uniformes e EPI",
+      "uf": "AP",
+      "uf_nome": "Amapá",
+      "n": 4,
+      "disponivel": false
+    },
+    {
+      "ramo": "uniformes-e-epi",
+      "ramo_rotulo": "Uniformes e EPI",
+      "uf": "AM",
+      "uf_nome": "Amazonas",
+      "n": 26,
+      "disponivel": false
+    },
+    {
+      "ramo": "uniformes-e-epi",
+      "ramo_rotulo": "Uniformes e EPI",
+      "uf": "BA",
+      "uf_nome": "Bahia",
+      "n": 115,
+      "disponivel": true
+    },
+    {
+      "ramo": "uniformes-e-epi",
+      "ramo_rotulo": "Uniformes e EPI",
+      "uf": "CE",
+      "uf_nome": "Ceará",
+      "n": 108,
+      "disponivel": true
+    },
+    {
+      "ramo": "uniformes-e-epi",
+      "ramo_rotulo": "Uniformes e EPI",
+      "uf": "DF",
+      "uf_nome": "Distrito Federal",
+      "n": 58,
+      "disponivel": true
+    },
+    {
+      "ramo": "uniformes-e-epi",
+      "ramo_rotulo": "Uniformes e EPI",
+      "uf": "ES",
+      "uf_nome": "Espírito Santo",
+      "n": 62,
+      "disponivel": true
+    },
+    {
+      "ramo": "uniformes-e-epi",
+      "ramo_rotulo": "Uniformes e EPI",
+      "uf": "GO",
+      "uf_nome": "Goiás",
+      "n": 279,
+      "disponivel": true
+    },
+    {
+      "ramo": "uniformes-e-epi",
+      "ramo_rotulo": "Uniformes e EPI",
+      "uf": "MA",
+      "uf_nome": "Maranhão",
+      "n": 36,
+      "disponivel": true
+    },
+    {
+      "ramo": "uniformes-e-epi",
+      "ramo_rotulo": "Uniformes e EPI",
+      "uf": "MT",
+      "uf_nome": "Mato Grosso",
+      "n": 51,
+      "disponivel": true
+    },
+    {
+      "ramo": "uniformes-e-epi",
+      "ramo_rotulo": "Uniformes e EPI",
+      "uf": "MS",
+      "uf_nome": "Mato Grosso do Sul",
+      "n": 58,
+      "disponivel": true
+    },
+    {
+      "ramo": "uniformes-e-epi",
+      "ramo_rotulo": "Uniformes e EPI",
+      "uf": "MG",
+      "uf_nome": "Minas Gerais",
+      "n": 390,
+      "disponivel": true
+    },
+    {
+      "ramo": "uniformes-e-epi",
+      "ramo_rotulo": "Uniformes e EPI",
+      "uf": "PA",
+      "uf_nome": "Pará",
+      "n": 40,
+      "disponivel": true
+    },
+    {
+      "ramo": "uniformes-e-epi",
+      "ramo_rotulo": "Uniformes e EPI",
+      "uf": "PB",
+      "uf_nome": "Paraíba",
+      "n": 49,
+      "disponivel": true
+    },
+    {
+      "ramo": "uniformes-e-epi",
+      "ramo_rotulo": "Uniformes e EPI",
+      "uf": "PR",
+      "uf_nome": "Paraná",
+      "n": 328,
+      "disponivel": true
+    },
+    {
+      "ramo": "uniformes-e-epi",
+      "ramo_rotulo": "Uniformes e EPI",
+      "uf": "PE",
+      "uf_nome": "Pernambuco",
+      "n": 75,
+      "disponivel": true
+    },
+    {
+      "ramo": "uniformes-e-epi",
+      "ramo_rotulo": "Uniformes e EPI",
+      "uf": "PI",
+      "uf_nome": "Piauí",
+      "n": 39,
+      "disponivel": true
+    },
+    {
+      "ramo": "uniformes-e-epi",
+      "ramo_rotulo": "Uniformes e EPI",
+      "uf": "RJ",
+      "uf_nome": "Rio de Janeiro",
+      "n": 189,
+      "disponivel": true
+    },
+    {
+      "ramo": "uniformes-e-epi",
+      "ramo_rotulo": "Uniformes e EPI",
+      "uf": "RN",
+      "uf_nome": "Rio Grande do Norte",
+      "n": 38,
+      "disponivel": true
+    },
+    {
+      "ramo": "uniformes-e-epi",
+      "ramo_rotulo": "Uniformes e EPI",
+      "uf": "RS",
+      "uf_nome": "Rio Grande do Sul",
+      "n": 385,
+      "disponivel": true
+    },
+    {
+      "ramo": "uniformes-e-epi",
+      "ramo_rotulo": "Uniformes e EPI",
+      "uf": "RO",
+      "uf_nome": "Rondônia",
+      "n": 29,
+      "disponivel": false
+    },
+    {
+      "ramo": "uniformes-e-epi",
+      "ramo_rotulo": "Uniformes e EPI",
+      "uf": "RR",
+      "uf_nome": "Roraima",
+      "n": 5,
+      "disponivel": false
+    },
+    {
+      "ramo": "uniformes-e-epi",
+      "ramo_rotulo": "Uniformes e EPI",
+      "uf": "SC",
+      "uf_nome": "Santa Catarina",
+      "n": 264,
+      "disponivel": true
+    },
+    {
+      "ramo": "uniformes-e-epi",
+      "ramo_rotulo": "Uniformes e EPI",
+      "uf": "SP",
+      "uf_nome": "São Paulo",
+      "n": 750,
+      "disponivel": true
+    },
+    {
+      "ramo": "uniformes-e-epi",
+      "ramo_rotulo": "Uniformes e EPI",
+      "uf": "SE",
+      "uf_nome": "Sergipe",
+      "n": 29,
+      "disponivel": false
+    },
+    {
+      "ramo": "uniformes-e-epi",
+      "ramo_rotulo": "Uniformes e EPI",
+      "uf": "TO",
+      "uf_nome": "Tocantins",
+      "n": 28,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-de-construcao",
+      "ramo_rotulo": "Material de construção",
+      "uf": "AC",
+      "uf_nome": "Acre",
+      "n": 5,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-de-construcao",
+      "ramo_rotulo": "Material de construção",
+      "uf": "AL",
+      "uf_nome": "Alagoas",
+      "n": 20,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-de-construcao",
+      "ramo_rotulo": "Material de construção",
+      "uf": "AP",
+      "uf_nome": "Amapá",
+      "n": 5,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-de-construcao",
+      "ramo_rotulo": "Material de construção",
+      "uf": "AM",
+      "uf_nome": "Amazonas",
+      "n": 27,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-de-construcao",
+      "ramo_rotulo": "Material de construção",
+      "uf": "BA",
+      "uf_nome": "Bahia",
+      "n": 257,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-construcao",
+      "ramo_rotulo": "Material de construção",
+      "uf": "CE",
+      "uf_nome": "Ceará",
+      "n": 43,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-construcao",
+      "ramo_rotulo": "Material de construção",
+      "uf": "DF",
+      "uf_nome": "Distrito Federal",
+      "n": 25,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-de-construcao",
+      "ramo_rotulo": "Material de construção",
+      "uf": "ES",
+      "uf_nome": "Espírito Santo",
+      "n": 68,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-construcao",
+      "ramo_rotulo": "Material de construção",
+      "uf": "GO",
+      "uf_nome": "Goiás",
+      "n": 293,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-construcao",
+      "ramo_rotulo": "Material de construção",
+      "uf": "MA",
+      "uf_nome": "Maranhão",
+      "n": 32,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-construcao",
+      "ramo_rotulo": "Material de construção",
+      "uf": "MT",
+      "uf_nome": "Mato Grosso",
+      "n": 69,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-construcao",
+      "ramo_rotulo": "Material de construção",
+      "uf": "MS",
+      "uf_nome": "Mato Grosso do Sul",
+      "n": 47,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-construcao",
+      "ramo_rotulo": "Material de construção",
+      "uf": "MG",
+      "uf_nome": "Minas Gerais",
+      "n": 553,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-construcao",
+      "ramo_rotulo": "Material de construção",
+      "uf": "PA",
+      "uf_nome": "Pará",
+      "n": 51,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-construcao",
+      "ramo_rotulo": "Material de construção",
+      "uf": "PB",
+      "uf_nome": "Paraíba",
+      "n": 53,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-construcao",
+      "ramo_rotulo": "Material de construção",
+      "uf": "PR",
+      "uf_nome": "Paraná",
+      "n": 418,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-construcao",
+      "ramo_rotulo": "Material de construção",
+      "uf": "PE",
+      "uf_nome": "Pernambuco",
+      "n": 67,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-construcao",
+      "ramo_rotulo": "Material de construção",
+      "uf": "PI",
+      "uf_nome": "Piauí",
+      "n": 33,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-construcao",
+      "ramo_rotulo": "Material de construção",
+      "uf": "RJ",
+      "uf_nome": "Rio de Janeiro",
+      "n": 159,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-construcao",
+      "ramo_rotulo": "Material de construção",
+      "uf": "RN",
+      "uf_nome": "Rio Grande do Norte",
+      "n": 61,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-construcao",
+      "ramo_rotulo": "Material de construção",
+      "uf": "RS",
+      "uf_nome": "Rio Grande do Sul",
+      "n": 789,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-construcao",
+      "ramo_rotulo": "Material de construção",
+      "uf": "RO",
+      "uf_nome": "Rondônia",
+      "n": 39,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-construcao",
+      "ramo_rotulo": "Material de construção",
+      "uf": "RR",
+      "uf_nome": "Roraima",
+      "n": 2,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-de-construcao",
+      "ramo_rotulo": "Material de construção",
+      "uf": "SC",
+      "uf_nome": "Santa Catarina",
+      "n": 405,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-construcao",
+      "ramo_rotulo": "Material de construção",
+      "uf": "SP",
+      "uf_nome": "São Paulo",
+      "n": 1064,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-de-construcao",
+      "ramo_rotulo": "Material de construção",
+      "uf": "SE",
+      "uf_nome": "Sergipe",
+      "n": 22,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-de-construcao",
+      "ramo_rotulo": "Material de construção",
+      "uf": "TO",
+      "uf_nome": "Tocantins",
+      "n": 31,
+      "disponivel": true
+    },
+    {
+      "ramo": "obras-e-engenharia",
+      "ramo_rotulo": "Obras e engenharia",
+      "uf": "AC",
+      "uf_nome": "Acre",
+      "n": 40,
+      "disponivel": true
+    },
+    {
+      "ramo": "obras-e-engenharia",
+      "ramo_rotulo": "Obras e engenharia",
+      "uf": "AL",
+      "uf_nome": "Alagoas",
+      "n": 89,
+      "disponivel": true
+    },
+    {
+      "ramo": "obras-e-engenharia",
+      "ramo_rotulo": "Obras e engenharia",
+      "uf": "AP",
+      "uf_nome": "Amapá",
+      "n": 19,
+      "disponivel": false
+    },
+    {
+      "ramo": "obras-e-engenharia",
+      "ramo_rotulo": "Obras e engenharia",
+      "uf": "AM",
+      "uf_nome": "Amazonas",
+      "n": 83,
+      "disponivel": true
+    },
+    {
+      "ramo": "obras-e-engenharia",
+      "ramo_rotulo": "Obras e engenharia",
+      "uf": "BA",
+      "uf_nome": "Bahia",
+      "n": 708,
+      "disponivel": true
+    },
+    {
+      "ramo": "obras-e-engenharia",
+      "ramo_rotulo": "Obras e engenharia",
+      "uf": "CE",
+      "uf_nome": "Ceará",
+      "n": 368,
+      "disponivel": true
+    },
+    {
+      "ramo": "obras-e-engenharia",
+      "ramo_rotulo": "Obras e engenharia",
+      "uf": "DF",
+      "uf_nome": "Distrito Federal",
+      "n": 89,
+      "disponivel": true
+    },
+    {
+      "ramo": "obras-e-engenharia",
+      "ramo_rotulo": "Obras e engenharia",
+      "uf": "ES",
+      "uf_nome": "Espírito Santo",
+      "n": 219,
+      "disponivel": true
+    },
+    {
+      "ramo": "obras-e-engenharia",
+      "ramo_rotulo": "Obras e engenharia",
+      "uf": "GO",
+      "uf_nome": "Goiás",
+      "n": 472,
+      "disponivel": true
+    },
+    {
+      "ramo": "obras-e-engenharia",
+      "ramo_rotulo": "Obras e engenharia",
+      "uf": "MA",
+      "uf_nome": "Maranhão",
+      "n": 204,
+      "disponivel": true
+    },
+    {
+      "ramo": "obras-e-engenharia",
+      "ramo_rotulo": "Obras e engenharia",
+      "uf": "MT",
+      "uf_nome": "Mato Grosso",
+      "n": 215,
+      "disponivel": true
+    },
+    {
+      "ramo": "obras-e-engenharia",
+      "ramo_rotulo": "Obras e engenharia",
+      "uf": "MS",
+      "uf_nome": "Mato Grosso do Sul",
+      "n": 158,
+      "disponivel": true
+    },
+    {
+      "ramo": "obras-e-engenharia",
+      "ramo_rotulo": "Obras e engenharia",
+      "uf": "MG",
+      "uf_nome": "Minas Gerais",
+      "n": 1500,
+      "disponivel": true
+    },
+    {
+      "ramo": "obras-e-engenharia",
+      "ramo_rotulo": "Obras e engenharia",
+      "uf": "PA",
+      "uf_nome": "Pará",
+      "n": 244,
+      "disponivel": true
+    },
+    {
+      "ramo": "obras-e-engenharia",
+      "ramo_rotulo": "Obras e engenharia",
+      "uf": "PB",
+      "uf_nome": "Paraíba",
+      "n": 294,
+      "disponivel": true
+    },
+    {
+      "ramo": "obras-e-engenharia",
+      "ramo_rotulo": "Obras e engenharia",
+      "uf": "PR",
+      "uf_nome": "Paraná",
+      "n": 1116,
+      "disponivel": true
+    },
+    {
+      "ramo": "obras-e-engenharia",
+      "ramo_rotulo": "Obras e engenharia",
+      "uf": "PE",
+      "uf_nome": "Pernambuco",
+      "n": 299,
+      "disponivel": true
+    },
+    {
+      "ramo": "obras-e-engenharia",
+      "ramo_rotulo": "Obras e engenharia",
+      "uf": "PI",
+      "uf_nome": "Piauí",
+      "n": 359,
+      "disponivel": true
+    },
+    {
+      "ramo": "obras-e-engenharia",
+      "ramo_rotulo": "Obras e engenharia",
+      "uf": "RJ",
+      "uf_nome": "Rio de Janeiro",
+      "n": 281,
+      "disponivel": true
+    },
+    {
+      "ramo": "obras-e-engenharia",
+      "ramo_rotulo": "Obras e engenharia",
+      "uf": "RN",
+      "uf_nome": "Rio Grande do Norte",
+      "n": 165,
+      "disponivel": true
+    },
+    {
+      "ramo": "obras-e-engenharia",
+      "ramo_rotulo": "Obras e engenharia",
+      "uf": "RS",
+      "uf_nome": "Rio Grande do Sul",
+      "n": 1300,
+      "disponivel": true
+    },
+    {
+      "ramo": "obras-e-engenharia",
+      "ramo_rotulo": "Obras e engenharia",
+      "uf": "RO",
+      "uf_nome": "Rondônia",
+      "n": 117,
+      "disponivel": true
+    },
+    {
+      "ramo": "obras-e-engenharia",
+      "ramo_rotulo": "Obras e engenharia",
+      "uf": "RR",
+      "uf_nome": "Roraima",
+      "n": 22,
+      "disponivel": false
+    },
+    {
+      "ramo": "obras-e-engenharia",
+      "ramo_rotulo": "Obras e engenharia",
+      "uf": "SC",
+      "uf_nome": "Santa Catarina",
+      "n": 1091,
+      "disponivel": true
+    },
+    {
+      "ramo": "obras-e-engenharia",
+      "ramo_rotulo": "Obras e engenharia",
+      "uf": "SP",
+      "uf_nome": "São Paulo",
+      "n": 1616,
+      "disponivel": true
+    },
+    {
+      "ramo": "obras-e-engenharia",
+      "ramo_rotulo": "Obras e engenharia",
+      "uf": "SE",
+      "uf_nome": "Sergipe",
+      "n": 123,
+      "disponivel": true
+    },
+    {
+      "ramo": "obras-e-engenharia",
+      "ramo_rotulo": "Obras e engenharia",
+      "uf": "TO",
+      "uf_nome": "Tocantins",
+      "n": 116,
+      "disponivel": true
+    },
+    {
+      "ramo": "manutencao-predial",
+      "ramo_rotulo": "Manutenção predial",
+      "uf": "AC",
+      "uf_nome": "Acre",
+      "n": 20,
+      "disponivel": false
+    },
+    {
+      "ramo": "manutencao-predial",
+      "ramo_rotulo": "Manutenção predial",
+      "uf": "AL",
+      "uf_nome": "Alagoas",
+      "n": 59,
+      "disponivel": true
+    },
+    {
+      "ramo": "manutencao-predial",
+      "ramo_rotulo": "Manutenção predial",
+      "uf": "AP",
+      "uf_nome": "Amapá",
+      "n": 18,
+      "disponivel": false
+    },
+    {
+      "ramo": "manutencao-predial",
+      "ramo_rotulo": "Manutenção predial",
+      "uf": "AM",
+      "uf_nome": "Amazonas",
+      "n": 72,
+      "disponivel": true
+    },
+    {
+      "ramo": "manutencao-predial",
+      "ramo_rotulo": "Manutenção predial",
+      "uf": "BA",
+      "uf_nome": "Bahia",
+      "n": 332,
+      "disponivel": true
+    },
+    {
+      "ramo": "manutencao-predial",
+      "ramo_rotulo": "Manutenção predial",
+      "uf": "CE",
+      "uf_nome": "Ceará",
+      "n": 184,
+      "disponivel": true
+    },
+    {
+      "ramo": "manutencao-predial",
+      "ramo_rotulo": "Manutenção predial",
+      "uf": "DF",
+      "uf_nome": "Distrito Federal",
+      "n": 124,
+      "disponivel": true
+    },
+    {
+      "ramo": "manutencao-predial",
+      "ramo_rotulo": "Manutenção predial",
+      "uf": "ES",
+      "uf_nome": "Espírito Santo",
+      "n": 156,
+      "disponivel": true
+    },
+    {
+      "ramo": "manutencao-predial",
+      "ramo_rotulo": "Manutenção predial",
+      "uf": "GO",
+      "uf_nome": "Goiás",
+      "n": 432,
+      "disponivel": true
+    },
+    {
+      "ramo": "manutencao-predial",
+      "ramo_rotulo": "Manutenção predial",
+      "uf": "MA",
+      "uf_nome": "Maranhão",
+      "n": 111,
+      "disponivel": true
+    },
+    {
+      "ramo": "manutencao-predial",
+      "ramo_rotulo": "Manutenção predial",
+      "uf": "MT",
+      "uf_nome": "Mato Grosso",
+      "n": 99,
+      "disponivel": true
+    },
+    {
+      "ramo": "manutencao-predial",
+      "ramo_rotulo": "Manutenção predial",
+      "uf": "MS",
+      "uf_nome": "Mato Grosso do Sul",
+      "n": 93,
+      "disponivel": true
+    },
+    {
+      "ramo": "manutencao-predial",
+      "ramo_rotulo": "Manutenção predial",
+      "uf": "MG",
+      "uf_nome": "Minas Gerais",
+      "n": 649,
+      "disponivel": true
+    },
+    {
+      "ramo": "manutencao-predial",
+      "ramo_rotulo": "Manutenção predial",
+      "uf": "PA",
+      "uf_nome": "Pará",
+      "n": 129,
+      "disponivel": true
+    },
+    {
+      "ramo": "manutencao-predial",
+      "ramo_rotulo": "Manutenção predial",
+      "uf": "PB",
+      "uf_nome": "Paraíba",
+      "n": 84,
+      "disponivel": true
+    },
+    {
+      "ramo": "manutencao-predial",
+      "ramo_rotulo": "Manutenção predial",
+      "uf": "PR",
+      "uf_nome": "Paraná",
+      "n": 499,
+      "disponivel": true
+    },
+    {
+      "ramo": "manutencao-predial",
+      "ramo_rotulo": "Manutenção predial",
+      "uf": "PE",
+      "uf_nome": "Pernambuco",
+      "n": 181,
+      "disponivel": true
+    },
+    {
+      "ramo": "manutencao-predial",
+      "ramo_rotulo": "Manutenção predial",
+      "uf": "PI",
+      "uf_nome": "Piauí",
+      "n": 68,
+      "disponivel": true
+    },
+    {
+      "ramo": "manutencao-predial",
+      "ramo_rotulo": "Manutenção predial",
+      "uf": "RJ",
+      "uf_nome": "Rio de Janeiro",
+      "n": 323,
+      "disponivel": true
+    },
+    {
+      "ramo": "manutencao-predial",
+      "ramo_rotulo": "Manutenção predial",
+      "uf": "RN",
+      "uf_nome": "Rio Grande do Norte",
+      "n": 119,
+      "disponivel": true
+    },
+    {
+      "ramo": "manutencao-predial",
+      "ramo_rotulo": "Manutenção predial",
+      "uf": "RS",
+      "uf_nome": "Rio Grande do Sul",
+      "n": 437,
+      "disponivel": true
+    },
+    {
+      "ramo": "manutencao-predial",
+      "ramo_rotulo": "Manutenção predial",
+      "uf": "RO",
+      "uf_nome": "Rondônia",
+      "n": 72,
+      "disponivel": true
+    },
+    {
+      "ramo": "manutencao-predial",
+      "ramo_rotulo": "Manutenção predial",
+      "uf": "RR",
+      "uf_nome": "Roraima",
+      "n": 12,
+      "disponivel": false
+    },
+    {
+      "ramo": "manutencao-predial",
+      "ramo_rotulo": "Manutenção predial",
+      "uf": "SC",
+      "uf_nome": "Santa Catarina",
+      "n": 337,
+      "disponivel": true
+    },
+    {
+      "ramo": "manutencao-predial",
+      "ramo_rotulo": "Manutenção predial",
+      "uf": "SP",
+      "uf_nome": "São Paulo",
+      "n": 1540,
+      "disponivel": true
+    },
+    {
+      "ramo": "manutencao-predial",
+      "ramo_rotulo": "Manutenção predial",
+      "uf": "SE",
+      "uf_nome": "Sergipe",
+      "n": 54,
+      "disponivel": true
+    },
+    {
+      "ramo": "manutencao-predial",
+      "ramo_rotulo": "Manutenção predial",
+      "uf": "TO",
+      "uf_nome": "Tocantins",
+      "n": 71,
+      "disponivel": true
+    },
+    {
+      "ramo": "vigilancia",
+      "ramo_rotulo": "Vigilância e segurança",
+      "uf": "AC",
+      "uf_nome": "Acre",
+      "n": 5,
+      "disponivel": false
+    },
+    {
+      "ramo": "vigilancia",
+      "ramo_rotulo": "Vigilância e segurança",
+      "uf": "AL",
+      "uf_nome": "Alagoas",
+      "n": 8,
+      "disponivel": false
+    },
+    {
+      "ramo": "vigilancia",
+      "ramo_rotulo": "Vigilância e segurança",
+      "uf": "AP",
+      "uf_nome": "Amapá",
+      "n": 4,
+      "disponivel": false
+    },
+    {
+      "ramo": "vigilancia",
+      "ramo_rotulo": "Vigilância e segurança",
+      "uf": "AM",
+      "uf_nome": "Amazonas",
+      "n": 14,
+      "disponivel": false
+    },
+    {
+      "ramo": "vigilancia",
+      "ramo_rotulo": "Vigilância e segurança",
+      "uf": "BA",
+      "uf_nome": "Bahia",
+      "n": 46,
+      "disponivel": true
+    },
+    {
+      "ramo": "vigilancia",
+      "ramo_rotulo": "Vigilância e segurança",
+      "uf": "CE",
+      "uf_nome": "Ceará",
+      "n": 19,
+      "disponivel": false
+    },
+    {
+      "ramo": "vigilancia",
+      "ramo_rotulo": "Vigilância e segurança",
+      "uf": "DF",
+      "uf_nome": "Distrito Federal",
+      "n": 39,
+      "disponivel": true
+    },
+    {
+      "ramo": "vigilancia",
+      "ramo_rotulo": "Vigilância e segurança",
+      "uf": "ES",
+      "uf_nome": "Espírito Santo",
+      "n": 32,
+      "disponivel": true
+    },
+    {
+      "ramo": "vigilancia",
+      "ramo_rotulo": "Vigilância e segurança",
+      "uf": "GO",
+      "uf_nome": "Goiás",
+      "n": 51,
+      "disponivel": true
+    },
+    {
+      "ramo": "vigilancia",
+      "ramo_rotulo": "Vigilância e segurança",
+      "uf": "MA",
+      "uf_nome": "Maranhão",
+      "n": 8,
+      "disponivel": false
+    },
+    {
+      "ramo": "vigilancia",
+      "ramo_rotulo": "Vigilância e segurança",
+      "uf": "MT",
+      "uf_nome": "Mato Grosso",
+      "n": 23,
+      "disponivel": false
+    },
+    {
+      "ramo": "vigilancia",
+      "ramo_rotulo": "Vigilância e segurança",
+      "uf": "MS",
+      "uf_nome": "Mato Grosso do Sul",
+      "n": 20,
+      "disponivel": false
+    },
+    {
+      "ramo": "vigilancia",
+      "ramo_rotulo": "Vigilância e segurança",
+      "uf": "MG",
+      "uf_nome": "Minas Gerais",
+      "n": 120,
+      "disponivel": true
+    },
+    {
+      "ramo": "vigilancia",
+      "ramo_rotulo": "Vigilância e segurança",
+      "uf": "PA",
+      "uf_nome": "Pará",
+      "n": 16,
+      "disponivel": false
+    },
+    {
+      "ramo": "vigilancia",
+      "ramo_rotulo": "Vigilância e segurança",
+      "uf": "PB",
+      "uf_nome": "Paraíba",
+      "n": 20,
+      "disponivel": false
+    },
+    {
+      "ramo": "vigilancia",
+      "ramo_rotulo": "Vigilância e segurança",
+      "uf": "PR",
+      "uf_nome": "Paraná",
+      "n": 87,
+      "disponivel": true
+    },
+    {
+      "ramo": "vigilancia",
+      "ramo_rotulo": "Vigilância e segurança",
+      "uf": "PE",
+      "uf_nome": "Pernambuco",
+      "n": 26,
+      "disponivel": false
+    },
+    {
+      "ramo": "vigilancia",
+      "ramo_rotulo": "Vigilância e segurança",
+      "uf": "PI",
+      "uf_nome": "Piauí",
+      "n": 10,
+      "disponivel": false
+    },
+    {
+      "ramo": "vigilancia",
+      "ramo_rotulo": "Vigilância e segurança",
+      "uf": "RJ",
+      "uf_nome": "Rio de Janeiro",
+      "n": 90,
+      "disponivel": true
+    },
+    {
+      "ramo": "vigilancia",
+      "ramo_rotulo": "Vigilância e segurança",
+      "uf": "RN",
+      "uf_nome": "Rio Grande do Norte",
+      "n": 8,
+      "disponivel": false
+    },
+    {
+      "ramo": "vigilancia",
+      "ramo_rotulo": "Vigilância e segurança",
+      "uf": "RS",
+      "uf_nome": "Rio Grande do Sul",
+      "n": 112,
+      "disponivel": true
+    },
+    {
+      "ramo": "vigilancia",
+      "ramo_rotulo": "Vigilância e segurança",
+      "uf": "RO",
+      "uf_nome": "Rondônia",
+      "n": 8,
+      "disponivel": false
+    },
+    {
+      "ramo": "vigilancia",
+      "ramo_rotulo": "Vigilância e segurança",
+      "uf": "RR",
+      "uf_nome": "Roraima",
+      "n": 3,
+      "disponivel": false
+    },
+    {
+      "ramo": "vigilancia",
+      "ramo_rotulo": "Vigilância e segurança",
+      "uf": "SC",
+      "uf_nome": "Santa Catarina",
+      "n": 62,
+      "disponivel": true
+    },
+    {
+      "ramo": "vigilancia",
+      "ramo_rotulo": "Vigilância e segurança",
+      "uf": "SP",
+      "uf_nome": "São Paulo",
+      "n": 279,
+      "disponivel": true
+    },
+    {
+      "ramo": "vigilancia",
+      "ramo_rotulo": "Vigilância e segurança",
+      "uf": "SE",
+      "uf_nome": "Sergipe",
+      "n": 10,
+      "disponivel": false
+    },
+    {
+      "ramo": "vigilancia",
+      "ramo_rotulo": "Vigilância e segurança",
+      "uf": "TO",
+      "uf_nome": "Tocantins",
+      "n": 7,
+      "disponivel": false
+    },
+    {
+      "ramo": "transporte-escolar",
+      "ramo_rotulo": "Transporte escolar",
+      "uf": "AC",
+      "uf_nome": "Acre",
+      "n": 0,
+      "disponivel": false
+    },
+    {
+      "ramo": "transporte-escolar",
+      "ramo_rotulo": "Transporte escolar",
+      "uf": "AL",
+      "uf_nome": "Alagoas",
+      "n": 3,
+      "disponivel": false
+    },
+    {
+      "ramo": "transporte-escolar",
+      "ramo_rotulo": "Transporte escolar",
+      "uf": "AP",
+      "uf_nome": "Amapá",
+      "n": 0,
+      "disponivel": false
+    },
+    {
+      "ramo": "transporte-escolar",
+      "ramo_rotulo": "Transporte escolar",
+      "uf": "AM",
+      "uf_nome": "Amazonas",
+      "n": 5,
+      "disponivel": false
+    },
+    {
+      "ramo": "transporte-escolar",
+      "ramo_rotulo": "Transporte escolar",
+      "uf": "BA",
+      "uf_nome": "Bahia",
+      "n": 27,
+      "disponivel": false
+    },
+    {
+      "ramo": "transporte-escolar",
+      "ramo_rotulo": "Transporte escolar",
+      "uf": "CE",
+      "uf_nome": "Ceará",
+      "n": 13,
+      "disponivel": false
+    },
+    {
+      "ramo": "transporte-escolar",
+      "ramo_rotulo": "Transporte escolar",
+      "uf": "DF",
+      "uf_nome": "Distrito Federal",
+      "n": 1,
+      "disponivel": false
+    },
+    {
+      "ramo": "transporte-escolar",
+      "ramo_rotulo": "Transporte escolar",
+      "uf": "ES",
+      "uf_nome": "Espírito Santo",
+      "n": 27,
+      "disponivel": false
+    },
+    {
+      "ramo": "transporte-escolar",
+      "ramo_rotulo": "Transporte escolar",
+      "uf": "GO",
+      "uf_nome": "Goiás",
+      "n": 211,
+      "disponivel": true
+    },
+    {
+      "ramo": "transporte-escolar",
+      "ramo_rotulo": "Transporte escolar",
+      "uf": "MA",
+      "uf_nome": "Maranhão",
+      "n": 9,
+      "disponivel": false
+    },
+    {
+      "ramo": "transporte-escolar",
+      "ramo_rotulo": "Transporte escolar",
+      "uf": "MT",
+      "uf_nome": "Mato Grosso",
+      "n": 16,
+      "disponivel": false
+    },
+    {
+      "ramo": "transporte-escolar",
+      "ramo_rotulo": "Transporte escolar",
+      "uf": "MS",
+      "uf_nome": "Mato Grosso do Sul",
+      "n": 12,
+      "disponivel": false
+    },
+    {
+      "ramo": "transporte-escolar",
+      "ramo_rotulo": "Transporte escolar",
+      "uf": "MG",
+      "uf_nome": "Minas Gerais",
+      "n": 97,
+      "disponivel": true
+    },
+    {
+      "ramo": "transporte-escolar",
+      "ramo_rotulo": "Transporte escolar",
+      "uf": "PA",
+      "uf_nome": "Pará",
+      "n": 18,
+      "disponivel": false
+    },
+    {
+      "ramo": "transporte-escolar",
+      "ramo_rotulo": "Transporte escolar",
+      "uf": "PB",
+      "uf_nome": "Paraíba",
+      "n": 11,
+      "disponivel": false
+    },
+    {
+      "ramo": "transporte-escolar",
+      "ramo_rotulo": "Transporte escolar",
+      "uf": "PR",
+      "uf_nome": "Paraná",
+      "n": 62,
+      "disponivel": true
+    },
+    {
+      "ramo": "transporte-escolar",
+      "ramo_rotulo": "Transporte escolar",
+      "uf": "PE",
+      "uf_nome": "Pernambuco",
+      "n": 24,
+      "disponivel": false
+    },
+    {
+      "ramo": "transporte-escolar",
+      "ramo_rotulo": "Transporte escolar",
+      "uf": "PI",
+      "uf_nome": "Piauí",
+      "n": 7,
+      "disponivel": false
+    },
+    {
+      "ramo": "transporte-escolar",
+      "ramo_rotulo": "Transporte escolar",
+      "uf": "RJ",
+      "uf_nome": "Rio de Janeiro",
+      "n": 5,
+      "disponivel": false
+    },
+    {
+      "ramo": "transporte-escolar",
+      "ramo_rotulo": "Transporte escolar",
+      "uf": "RN",
+      "uf_nome": "Rio Grande do Norte",
+      "n": 15,
+      "disponivel": false
+    },
+    {
+      "ramo": "transporte-escolar",
+      "ramo_rotulo": "Transporte escolar",
+      "uf": "RS",
+      "uf_nome": "Rio Grande do Sul",
+      "n": 338,
+      "disponivel": true
+    },
+    {
+      "ramo": "transporte-escolar",
+      "ramo_rotulo": "Transporte escolar",
+      "uf": "RO",
+      "uf_nome": "Rondônia",
+      "n": 8,
+      "disponivel": false
+    },
+    {
+      "ramo": "transporte-escolar",
+      "ramo_rotulo": "Transporte escolar",
+      "uf": "RR",
+      "uf_nome": "Roraima",
+      "n": 0,
+      "disponivel": false
+    },
+    {
+      "ramo": "transporte-escolar",
+      "ramo_rotulo": "Transporte escolar",
+      "uf": "SC",
+      "uf_nome": "Santa Catarina",
+      "n": 66,
+      "disponivel": true
+    },
+    {
+      "ramo": "transporte-escolar",
+      "ramo_rotulo": "Transporte escolar",
+      "uf": "SP",
+      "uf_nome": "São Paulo",
+      "n": 124,
+      "disponivel": true
+    },
+    {
+      "ramo": "transporte-escolar",
+      "ramo_rotulo": "Transporte escolar",
+      "uf": "SE",
+      "uf_nome": "Sergipe",
+      "n": 4,
+      "disponivel": false
+    },
+    {
+      "ramo": "transporte-escolar",
+      "ramo_rotulo": "Transporte escolar",
+      "uf": "TO",
+      "uf_nome": "Tocantins",
+      "n": 5,
+      "disponivel": false
+    },
+    {
+      "ramo": "locacao-de-veiculos",
+      "ramo_rotulo": "Locação de veículos",
+      "uf": "AC",
+      "uf_nome": "Acre",
+      "n": 2,
+      "disponivel": false
+    },
+    {
+      "ramo": "locacao-de-veiculos",
+      "ramo_rotulo": "Locação de veículos",
+      "uf": "AL",
+      "uf_nome": "Alagoas",
+      "n": 19,
+      "disponivel": false
+    },
+    {
+      "ramo": "locacao-de-veiculos",
+      "ramo_rotulo": "Locação de veículos",
+      "uf": "AP",
+      "uf_nome": "Amapá",
+      "n": 4,
+      "disponivel": false
+    },
+    {
+      "ramo": "locacao-de-veiculos",
+      "ramo_rotulo": "Locação de veículos",
+      "uf": "AM",
+      "uf_nome": "Amazonas",
+      "n": 26,
+      "disponivel": false
+    },
+    {
+      "ramo": "locacao-de-veiculos",
+      "ramo_rotulo": "Locação de veículos",
+      "uf": "BA",
+      "uf_nome": "Bahia",
+      "n": 63,
+      "disponivel": true
+    },
+    {
+      "ramo": "locacao-de-veiculos",
+      "ramo_rotulo": "Locação de veículos",
+      "uf": "CE",
+      "uf_nome": "Ceará",
+      "n": 48,
+      "disponivel": true
+    },
+    {
+      "ramo": "locacao-de-veiculos",
+      "ramo_rotulo": "Locação de veículos",
+      "uf": "DF",
+      "uf_nome": "Distrito Federal",
+      "n": 12,
+      "disponivel": false
+    },
+    {
+      "ramo": "locacao-de-veiculos",
+      "ramo_rotulo": "Locação de veículos",
+      "uf": "ES",
+      "uf_nome": "Espírito Santo",
+      "n": 18,
+      "disponivel": false
+    },
+    {
+      "ramo": "locacao-de-veiculos",
+      "ramo_rotulo": "Locação de veículos",
+      "uf": "GO",
+      "uf_nome": "Goiás",
+      "n": 77,
+      "disponivel": true
+    },
+    {
+      "ramo": "locacao-de-veiculos",
+      "ramo_rotulo": "Locação de veículos",
+      "uf": "MA",
+      "uf_nome": "Maranhão",
+      "n": 24,
+      "disponivel": false
+    },
+    {
+      "ramo": "locacao-de-veiculos",
+      "ramo_rotulo": "Locação de veículos",
+      "uf": "MT",
+      "uf_nome": "Mato Grosso",
+      "n": 19,
+      "disponivel": false
+    },
+    {
+      "ramo": "locacao-de-veiculos",
+      "ramo_rotulo": "Locação de veículos",
+      "uf": "MS",
+      "uf_nome": "Mato Grosso do Sul",
+      "n": 6,
+      "disponivel": false
+    },
+    {
+      "ramo": "locacao-de-veiculos",
+      "ramo_rotulo": "Locação de veículos",
+      "uf": "MG",
+      "uf_nome": "Minas Gerais",
+      "n": 118,
+      "disponivel": true
+    },
+    {
+      "ramo": "locacao-de-veiculos",
+      "ramo_rotulo": "Locação de veículos",
+      "uf": "PA",
+      "uf_nome": "Pará",
+      "n": 60,
+      "disponivel": true
+    },
+    {
+      "ramo": "locacao-de-veiculos",
+      "ramo_rotulo": "Locação de veículos",
+      "uf": "PB",
+      "uf_nome": "Paraíba",
+      "n": 39,
+      "disponivel": true
+    },
+    {
+      "ramo": "locacao-de-veiculos",
+      "ramo_rotulo": "Locação de veículos",
+      "uf": "PR",
+      "uf_nome": "Paraná",
+      "n": 44,
+      "disponivel": true
+    },
+    {
+      "ramo": "locacao-de-veiculos",
+      "ramo_rotulo": "Locação de veículos",
+      "uf": "PE",
+      "uf_nome": "Pernambuco",
+      "n": 42,
+      "disponivel": true
+    },
+    {
+      "ramo": "locacao-de-veiculos",
+      "ramo_rotulo": "Locação de veículos",
+      "uf": "PI",
+      "uf_nome": "Piauí",
+      "n": 19,
+      "disponivel": false
+    },
+    {
+      "ramo": "locacao-de-veiculos",
+      "ramo_rotulo": "Locação de veículos",
+      "uf": "RJ",
+      "uf_nome": "Rio de Janeiro",
+      "n": 37,
+      "disponivel": true
+    },
+    {
+      "ramo": "locacao-de-veiculos",
+      "ramo_rotulo": "Locação de veículos",
+      "uf": "RN",
+      "uf_nome": "Rio Grande do Norte",
+      "n": 45,
+      "disponivel": true
+    },
+    {
+      "ramo": "locacao-de-veiculos",
+      "ramo_rotulo": "Locação de veículos",
+      "uf": "RS",
+      "uf_nome": "Rio Grande do Sul",
+      "n": 61,
+      "disponivel": true
+    },
+    {
+      "ramo": "locacao-de-veiculos",
+      "ramo_rotulo": "Locação de veículos",
+      "uf": "RO",
+      "uf_nome": "Rondônia",
+      "n": 5,
+      "disponivel": false
+    },
+    {
+      "ramo": "locacao-de-veiculos",
+      "ramo_rotulo": "Locação de veículos",
+      "uf": "RR",
+      "uf_nome": "Roraima",
+      "n": 3,
+      "disponivel": false
+    },
+    {
+      "ramo": "locacao-de-veiculos",
+      "ramo_rotulo": "Locação de veículos",
+      "uf": "SC",
+      "uf_nome": "Santa Catarina",
+      "n": 48,
+      "disponivel": true
+    },
+    {
+      "ramo": "locacao-de-veiculos",
+      "ramo_rotulo": "Locação de veículos",
+      "uf": "SP",
+      "uf_nome": "São Paulo",
+      "n": 181,
+      "disponivel": true
+    },
+    {
+      "ramo": "locacao-de-veiculos",
+      "ramo_rotulo": "Locação de veículos",
+      "uf": "SE",
+      "uf_nome": "Sergipe",
+      "n": 17,
+      "disponivel": false
+    },
+    {
+      "ramo": "locacao-de-veiculos",
+      "ramo_rotulo": "Locação de veículos",
+      "uf": "TO",
+      "uf_nome": "Tocantins",
+      "n": 17,
+      "disponivel": false
+    },
+    {
+      "ramo": "pecas-e-manutencao-de-veiculos",
+      "ramo_rotulo": "Peças e manutenção de veículos",
+      "uf": "AC",
+      "uf_nome": "Acre",
+      "n": 4,
+      "disponivel": false
+    },
+    {
+      "ramo": "pecas-e-manutencao-de-veiculos",
+      "ramo_rotulo": "Peças e manutenção de veículos",
+      "uf": "AL",
+      "uf_nome": "Alagoas",
+      "n": 8,
+      "disponivel": false
+    },
+    {
+      "ramo": "pecas-e-manutencao-de-veiculos",
+      "ramo_rotulo": "Peças e manutenção de veículos",
+      "uf": "AP",
+      "uf_nome": "Amapá",
+      "n": 1,
+      "disponivel": false
+    },
+    {
+      "ramo": "pecas-e-manutencao-de-veiculos",
+      "ramo_rotulo": "Peças e manutenção de veículos",
+      "uf": "AM",
+      "uf_nome": "Amazonas",
+      "n": 15,
+      "disponivel": false
+    },
+    {
+      "ramo": "pecas-e-manutencao-de-veiculos",
+      "ramo_rotulo": "Peças e manutenção de veículos",
+      "uf": "BA",
+      "uf_nome": "Bahia",
+      "n": 109,
+      "disponivel": true
+    },
+    {
+      "ramo": "pecas-e-manutencao-de-veiculos",
+      "ramo_rotulo": "Peças e manutenção de veículos",
+      "uf": "CE",
+      "uf_nome": "Ceará",
+      "n": 20,
+      "disponivel": false
+    },
+    {
+      "ramo": "pecas-e-manutencao-de-veiculos",
+      "ramo_rotulo": "Peças e manutenção de veículos",
+      "uf": "DF",
+      "uf_nome": "Distrito Federal",
+      "n": 4,
+      "disponivel": false
+    },
+    {
+      "ramo": "pecas-e-manutencao-de-veiculos",
+      "ramo_rotulo": "Peças e manutenção de veículos",
+      "uf": "ES",
+      "uf_nome": "Espírito Santo",
+      "n": 39,
+      "disponivel": true
+    },
+    {
+      "ramo": "pecas-e-manutencao-de-veiculos",
+      "ramo_rotulo": "Peças e manutenção de veículos",
+      "uf": "GO",
+      "uf_nome": "Goiás",
+      "n": 665,
+      "disponivel": true
+    },
+    {
+      "ramo": "pecas-e-manutencao-de-veiculos",
+      "ramo_rotulo": "Peças e manutenção de veículos",
+      "uf": "MA",
+      "uf_nome": "Maranhão",
+      "n": 19,
+      "disponivel": false
+    },
+    {
+      "ramo": "pecas-e-manutencao-de-veiculos",
+      "ramo_rotulo": "Peças e manutenção de veículos",
+      "uf": "MT",
+      "uf_nome": "Mato Grosso",
+      "n": 21,
+      "disponivel": false
+    },
+    {
+      "ramo": "pecas-e-manutencao-de-veiculos",
+      "ramo_rotulo": "Peças e manutenção de veículos",
+      "uf": "MS",
+      "uf_nome": "Mato Grosso do Sul",
+      "n": 16,
+      "disponivel": false
+    },
+    {
+      "ramo": "pecas-e-manutencao-de-veiculos",
+      "ramo_rotulo": "Peças e manutenção de veículos",
+      "uf": "MG",
+      "uf_nome": "Minas Gerais",
+      "n": 449,
+      "disponivel": true
+    },
+    {
+      "ramo": "pecas-e-manutencao-de-veiculos",
+      "ramo_rotulo": "Peças e manutenção de veículos",
+      "uf": "PA",
+      "uf_nome": "Pará",
+      "n": 34,
+      "disponivel": true
+    },
+    {
+      "ramo": "pecas-e-manutencao-de-veiculos",
+      "ramo_rotulo": "Peças e manutenção de veículos",
+      "uf": "PB",
+      "uf_nome": "Paraíba",
+      "n": 33,
+      "disponivel": true
+    },
+    {
+      "ramo": "pecas-e-manutencao-de-veiculos",
+      "ramo_rotulo": "Peças e manutenção de veículos",
+      "uf": "PR",
+      "uf_nome": "Paraná",
+      "n": 298,
+      "disponivel": true
+    },
+    {
+      "ramo": "pecas-e-manutencao-de-veiculos",
+      "ramo_rotulo": "Peças e manutenção de veículos",
+      "uf": "PE",
+      "uf_nome": "Pernambuco",
+      "n": 26,
+      "disponivel": false
+    },
+    {
+      "ramo": "pecas-e-manutencao-de-veiculos",
+      "ramo_rotulo": "Peças e manutenção de veículos",
+      "uf": "PI",
+      "uf_nome": "Piauí",
+      "n": 14,
+      "disponivel": false
+    },
+    {
+      "ramo": "pecas-e-manutencao-de-veiculos",
+      "ramo_rotulo": "Peças e manutenção de veículos",
+      "uf": "RJ",
+      "uf_nome": "Rio de Janeiro",
+      "n": 62,
+      "disponivel": true
+    },
+    {
+      "ramo": "pecas-e-manutencao-de-veiculos",
+      "ramo_rotulo": "Peças e manutenção de veículos",
+      "uf": "RN",
+      "uf_nome": "Rio Grande do Norte",
+      "n": 39,
+      "disponivel": true
+    },
+    {
+      "ramo": "pecas-e-manutencao-de-veiculos",
+      "ramo_rotulo": "Peças e manutenção de veículos",
+      "uf": "RS",
+      "uf_nome": "Rio Grande do Sul",
+      "n": 931,
+      "disponivel": true
+    },
+    {
+      "ramo": "pecas-e-manutencao-de-veiculos",
+      "ramo_rotulo": "Peças e manutenção de veículos",
+      "uf": "RO",
+      "uf_nome": "Rondônia",
+      "n": 16,
+      "disponivel": false
+    },
+    {
+      "ramo": "pecas-e-manutencao-de-veiculos",
+      "ramo_rotulo": "Peças e manutenção de veículos",
+      "uf": "RR",
+      "uf_nome": "Roraima",
+      "n": 2,
+      "disponivel": false
+    },
+    {
+      "ramo": "pecas-e-manutencao-de-veiculos",
+      "ramo_rotulo": "Peças e manutenção de veículos",
+      "uf": "SC",
+      "uf_nome": "Santa Catarina",
+      "n": 196,
+      "disponivel": true
+    },
+    {
+      "ramo": "pecas-e-manutencao-de-veiculos",
+      "ramo_rotulo": "Peças e manutenção de veículos",
+      "uf": "SP",
+      "uf_nome": "São Paulo",
+      "n": 955,
+      "disponivel": true
+    },
+    {
+      "ramo": "pecas-e-manutencao-de-veiculos",
+      "ramo_rotulo": "Peças e manutenção de veículos",
+      "uf": "SE",
+      "uf_nome": "Sergipe",
+      "n": 10,
+      "disponivel": false
+    },
+    {
+      "ramo": "pecas-e-manutencao-de-veiculos",
+      "ramo_rotulo": "Peças e manutenção de veículos",
+      "uf": "TO",
+      "uf_nome": "Tocantins",
+      "n": 17,
+      "disponivel": false
+    },
+    {
+      "ramo": "combustiveis",
+      "ramo_rotulo": "Combustíveis",
+      "uf": "AC",
+      "uf_nome": "Acre",
+      "n": 10,
+      "disponivel": false
+    },
+    {
+      "ramo": "combustiveis",
+      "ramo_rotulo": "Combustíveis",
+      "uf": "AL",
+      "uf_nome": "Alagoas",
+      "n": 28,
+      "disponivel": false
+    },
+    {
+      "ramo": "combustiveis",
+      "ramo_rotulo": "Combustíveis",
+      "uf": "AP",
+      "uf_nome": "Amapá",
+      "n": 9,
+      "disponivel": false
+    },
+    {
+      "ramo": "combustiveis",
+      "ramo_rotulo": "Combustíveis",
+      "uf": "AM",
+      "uf_nome": "Amazonas",
+      "n": 49,
+      "disponivel": true
+    },
+    {
+      "ramo": "combustiveis",
+      "ramo_rotulo": "Combustíveis",
+      "uf": "BA",
+      "uf_nome": "Bahia",
+      "n": 189,
+      "disponivel": true
+    },
+    {
+      "ramo": "combustiveis",
+      "ramo_rotulo": "Combustíveis",
+      "uf": "CE",
+      "uf_nome": "Ceará",
+      "n": 70,
+      "disponivel": true
+    },
+    {
+      "ramo": "combustiveis",
+      "ramo_rotulo": "Combustíveis",
+      "uf": "DF",
+      "uf_nome": "Distrito Federal",
+      "n": 24,
+      "disponivel": false
+    },
+    {
+      "ramo": "combustiveis",
+      "ramo_rotulo": "Combustíveis",
+      "uf": "ES",
+      "uf_nome": "Espírito Santo",
+      "n": 61,
+      "disponivel": true
+    },
+    {
+      "ramo": "combustiveis",
+      "ramo_rotulo": "Combustíveis",
+      "uf": "GO",
+      "uf_nome": "Goiás",
+      "n": 196,
+      "disponivel": true
+    },
+    {
+      "ramo": "combustiveis",
+      "ramo_rotulo": "Combustíveis",
+      "uf": "MA",
+      "uf_nome": "Maranhão",
+      "n": 60,
+      "disponivel": true
+    },
+    {
+      "ramo": "combustiveis",
+      "ramo_rotulo": "Combustíveis",
+      "uf": "MT",
+      "uf_nome": "Mato Grosso",
+      "n": 44,
+      "disponivel": true
+    },
+    {
+      "ramo": "combustiveis",
+      "ramo_rotulo": "Combustíveis",
+      "uf": "MS",
+      "uf_nome": "Mato Grosso do Sul",
+      "n": 48,
+      "disponivel": true
+    },
+    {
+      "ramo": "combustiveis",
+      "ramo_rotulo": "Combustíveis",
+      "uf": "MG",
+      "uf_nome": "Minas Gerais",
+      "n": 412,
+      "disponivel": true
+    },
+    {
+      "ramo": "combustiveis",
+      "ramo_rotulo": "Combustíveis",
+      "uf": "PA",
+      "uf_nome": "Pará",
+      "n": 72,
+      "disponivel": true
+    },
+    {
+      "ramo": "combustiveis",
+      "ramo_rotulo": "Combustíveis",
+      "uf": "PB",
+      "uf_nome": "Paraíba",
+      "n": 67,
+      "disponivel": true
+    },
+    {
+      "ramo": "combustiveis",
+      "ramo_rotulo": "Combustíveis",
+      "uf": "PR",
+      "uf_nome": "Paraná",
+      "n": 246,
+      "disponivel": true
+    },
+    {
+      "ramo": "combustiveis",
+      "ramo_rotulo": "Combustíveis",
+      "uf": "PE",
+      "uf_nome": "Pernambuco",
+      "n": 85,
+      "disponivel": true
+    },
+    {
+      "ramo": "combustiveis",
+      "ramo_rotulo": "Combustíveis",
+      "uf": "PI",
+      "uf_nome": "Piauí",
+      "n": 41,
+      "disponivel": true
+    },
+    {
+      "ramo": "combustiveis",
+      "ramo_rotulo": "Combustíveis",
+      "uf": "RJ",
+      "uf_nome": "Rio de Janeiro",
+      "n": 129,
+      "disponivel": true
+    },
+    {
+      "ramo": "combustiveis",
+      "ramo_rotulo": "Combustíveis",
+      "uf": "RN",
+      "uf_nome": "Rio Grande do Norte",
+      "n": 67,
+      "disponivel": true
+    },
+    {
+      "ramo": "combustiveis",
+      "ramo_rotulo": "Combustíveis",
+      "uf": "RS",
+      "uf_nome": "Rio Grande do Sul",
+      "n": 243,
+      "disponivel": true
+    },
+    {
+      "ramo": "combustiveis",
+      "ramo_rotulo": "Combustíveis",
+      "uf": "RO",
+      "uf_nome": "Rondônia",
+      "n": 41,
+      "disponivel": true
+    },
+    {
+      "ramo": "combustiveis",
+      "ramo_rotulo": "Combustíveis",
+      "uf": "RR",
+      "uf_nome": "Roraima",
+      "n": 8,
+      "disponivel": false
+    },
+    {
+      "ramo": "combustiveis",
+      "ramo_rotulo": "Combustíveis",
+      "uf": "SC",
+      "uf_nome": "Santa Catarina",
+      "n": 188,
+      "disponivel": true
+    },
+    {
+      "ramo": "combustiveis",
+      "ramo_rotulo": "Combustíveis",
+      "uf": "SP",
+      "uf_nome": "São Paulo",
+      "n": 492,
+      "disponivel": true
+    },
+    {
+      "ramo": "combustiveis",
+      "ramo_rotulo": "Combustíveis",
+      "uf": "SE",
+      "uf_nome": "Sergipe",
+      "n": 24,
+      "disponivel": false
+    },
+    {
+      "ramo": "combustiveis",
+      "ramo_rotulo": "Combustíveis",
+      "uf": "TO",
+      "uf_nome": "Tocantins",
+      "n": 47,
+      "disponivel": true
+    },
+    {
+      "ramo": "pneus",
+      "ramo_rotulo": "Pneus",
+      "uf": "AC",
+      "uf_nome": "Acre",
+      "n": 5,
+      "disponivel": false
+    },
+    {
+      "ramo": "pneus",
+      "ramo_rotulo": "Pneus",
+      "uf": "AL",
+      "uf_nome": "Alagoas",
+      "n": 14,
+      "disponivel": false
+    },
+    {
+      "ramo": "pneus",
+      "ramo_rotulo": "Pneus",
+      "uf": "AP",
+      "uf_nome": "Amapá",
+      "n": 3,
+      "disponivel": false
+    },
+    {
+      "ramo": "pneus",
+      "ramo_rotulo": "Pneus",
+      "uf": "AM",
+      "uf_nome": "Amazonas",
+      "n": 10,
+      "disponivel": false
+    },
+    {
+      "ramo": "pneus",
+      "ramo_rotulo": "Pneus",
+      "uf": "BA",
+      "uf_nome": "Bahia",
+      "n": 85,
+      "disponivel": true
+    },
+    {
+      "ramo": "pneus",
+      "ramo_rotulo": "Pneus",
+      "uf": "CE",
+      "uf_nome": "Ceará",
+      "n": 13,
+      "disponivel": false
+    },
+    {
+      "ramo": "pneus",
+      "ramo_rotulo": "Pneus",
+      "uf": "DF",
+      "uf_nome": "Distrito Federal",
+      "n": 4,
+      "disponivel": false
+    },
+    {
+      "ramo": "pneus",
+      "ramo_rotulo": "Pneus",
+      "uf": "ES",
+      "uf_nome": "Espírito Santo",
+      "n": 19,
+      "disponivel": false
+    },
+    {
+      "ramo": "pneus",
+      "ramo_rotulo": "Pneus",
+      "uf": "GO",
+      "uf_nome": "Goiás",
+      "n": 184,
+      "disponivel": true
+    },
+    {
+      "ramo": "pneus",
+      "ramo_rotulo": "Pneus",
+      "uf": "MA",
+      "uf_nome": "Maranhão",
+      "n": 12,
+      "disponivel": false
+    },
+    {
+      "ramo": "pneus",
+      "ramo_rotulo": "Pneus",
+      "uf": "MT",
+      "uf_nome": "Mato Grosso",
+      "n": 10,
+      "disponivel": false
+    },
+    {
+      "ramo": "pneus",
+      "ramo_rotulo": "Pneus",
+      "uf": "MS",
+      "uf_nome": "Mato Grosso do Sul",
+      "n": 15,
+      "disponivel": false
+    },
+    {
+      "ramo": "pneus",
+      "ramo_rotulo": "Pneus",
+      "uf": "MG",
+      "uf_nome": "Minas Gerais",
+      "n": 117,
+      "disponivel": true
+    },
+    {
+      "ramo": "pneus",
+      "ramo_rotulo": "Pneus",
+      "uf": "PA",
+      "uf_nome": "Pará",
+      "n": 19,
+      "disponivel": false
+    },
+    {
+      "ramo": "pneus",
+      "ramo_rotulo": "Pneus",
+      "uf": "PB",
+      "uf_nome": "Paraíba",
+      "n": 15,
+      "disponivel": false
+    },
+    {
+      "ramo": "pneus",
+      "ramo_rotulo": "Pneus",
+      "uf": "PR",
+      "uf_nome": "Paraná",
+      "n": 146,
+      "disponivel": true
+    },
+    {
+      "ramo": "pneus",
+      "ramo_rotulo": "Pneus",
+      "uf": "PE",
+      "uf_nome": "Pernambuco",
+      "n": 21,
+      "disponivel": false
+    },
+    {
+      "ramo": "pneus",
+      "ramo_rotulo": "Pneus",
+      "uf": "PI",
+      "uf_nome": "Piauí",
+      "n": 11,
+      "disponivel": false
+    },
+    {
+      "ramo": "pneus",
+      "ramo_rotulo": "Pneus",
+      "uf": "RJ",
+      "uf_nome": "Rio de Janeiro",
+      "n": 38,
+      "disponivel": true
+    },
+    {
+      "ramo": "pneus",
+      "ramo_rotulo": "Pneus",
+      "uf": "RN",
+      "uf_nome": "Rio Grande do Norte",
+      "n": 27,
+      "disponivel": false
+    },
+    {
+      "ramo": "pneus",
+      "ramo_rotulo": "Pneus",
+      "uf": "RS",
+      "uf_nome": "Rio Grande do Sul",
+      "n": 233,
+      "disponivel": true
+    },
+    {
+      "ramo": "pneus",
+      "ramo_rotulo": "Pneus",
+      "uf": "RO",
+      "uf_nome": "Rondônia",
+      "n": 7,
+      "disponivel": false
+    },
+    {
+      "ramo": "pneus",
+      "ramo_rotulo": "Pneus",
+      "uf": "RR",
+      "uf_nome": "Roraima",
+      "n": 0,
+      "disponivel": false
+    },
+    {
+      "ramo": "pneus",
+      "ramo_rotulo": "Pneus",
+      "uf": "SC",
+      "uf_nome": "Santa Catarina",
+      "n": 71,
+      "disponivel": true
+    },
+    {
+      "ramo": "pneus",
+      "ramo_rotulo": "Pneus",
+      "uf": "SP",
+      "uf_nome": "São Paulo",
+      "n": 321,
+      "disponivel": true
+    },
+    {
+      "ramo": "pneus",
+      "ramo_rotulo": "Pneus",
+      "uf": "SE",
+      "uf_nome": "Sergipe",
+      "n": 4,
+      "disponivel": false
+    },
+    {
+      "ramo": "pneus",
+      "ramo_rotulo": "Pneus",
+      "uf": "TO",
+      "uf_nome": "Tocantins",
+      "n": 15,
+      "disponivel": false
+    },
+    {
+      "ramo": "moveis",
+      "ramo_rotulo": "Móveis e mobiliário",
+      "uf": "AC",
+      "uf_nome": "Acre",
+      "n": 13,
+      "disponivel": false
+    },
+    {
+      "ramo": "moveis",
+      "ramo_rotulo": "Móveis e mobiliário",
+      "uf": "AL",
+      "uf_nome": "Alagoas",
+      "n": 50,
+      "disponivel": true
+    },
+    {
+      "ramo": "moveis",
+      "ramo_rotulo": "Móveis e mobiliário",
+      "uf": "AP",
+      "uf_nome": "Amapá",
+      "n": 8,
+      "disponivel": false
+    },
+    {
+      "ramo": "moveis",
+      "ramo_rotulo": "Móveis e mobiliário",
+      "uf": "AM",
+      "uf_nome": "Amazonas",
+      "n": 82,
+      "disponivel": true
+    },
+    {
+      "ramo": "moveis",
+      "ramo_rotulo": "Móveis e mobiliário",
+      "uf": "BA",
+      "uf_nome": "Bahia",
+      "n": 299,
+      "disponivel": true
+    },
+    {
+      "ramo": "moveis",
+      "ramo_rotulo": "Móveis e mobiliário",
+      "uf": "CE",
+      "uf_nome": "Ceará",
+      "n": 152,
+      "disponivel": true
+    },
+    {
+      "ramo": "moveis",
+      "ramo_rotulo": "Móveis e mobiliário",
+      "uf": "DF",
+      "uf_nome": "Distrito Federal",
+      "n": 132,
+      "disponivel": true
+    },
+    {
+      "ramo": "moveis",
+      "ramo_rotulo": "Móveis e mobiliário",
+      "uf": "ES",
+      "uf_nome": "Espírito Santo",
+      "n": 137,
+      "disponivel": true
+    },
+    {
+      "ramo": "moveis",
+      "ramo_rotulo": "Móveis e mobiliário",
+      "uf": "GO",
+      "uf_nome": "Goiás",
+      "n": 362,
+      "disponivel": true
+    },
+    {
+      "ramo": "moveis",
+      "ramo_rotulo": "Móveis e mobiliário",
+      "uf": "MA",
+      "uf_nome": "Maranhão",
+      "n": 67,
+      "disponivel": true
+    },
+    {
+      "ramo": "moveis",
+      "ramo_rotulo": "Móveis e mobiliário",
+      "uf": "MT",
+      "uf_nome": "Mato Grosso",
+      "n": 97,
+      "disponivel": true
+    },
+    {
+      "ramo": "moveis",
+      "ramo_rotulo": "Móveis e mobiliário",
+      "uf": "MS",
+      "uf_nome": "Mato Grosso do Sul",
+      "n": 83,
+      "disponivel": true
+    },
+    {
+      "ramo": "moveis",
+      "ramo_rotulo": "Móveis e mobiliário",
+      "uf": "MG",
+      "uf_nome": "Minas Gerais",
+      "n": 759,
+      "disponivel": true
+    },
+    {
+      "ramo": "moveis",
+      "ramo_rotulo": "Móveis e mobiliário",
+      "uf": "PA",
+      "uf_nome": "Pará",
+      "n": 148,
+      "disponivel": true
+    },
+    {
+      "ramo": "moveis",
+      "ramo_rotulo": "Móveis e mobiliário",
+      "uf": "PB",
+      "uf_nome": "Paraíba",
+      "n": 87,
+      "disponivel": true
+    },
+    {
+      "ramo": "moveis",
+      "ramo_rotulo": "Móveis e mobiliário",
+      "uf": "PR",
+      "uf_nome": "Paraná",
+      "n": 516,
+      "disponivel": true
+    },
+    {
+      "ramo": "moveis",
+      "ramo_rotulo": "Móveis e mobiliário",
+      "uf": "PE",
+      "uf_nome": "Pernambuco",
+      "n": 200,
+      "disponivel": true
+    },
+    {
+      "ramo": "moveis",
+      "ramo_rotulo": "Móveis e mobiliário",
+      "uf": "PI",
+      "uf_nome": "Piauí",
+      "n": 38,
+      "disponivel": true
+    },
+    {
+      "ramo": "moveis",
+      "ramo_rotulo": "Móveis e mobiliário",
+      "uf": "RJ",
+      "uf_nome": "Rio de Janeiro",
+      "n": 336,
+      "disponivel": true
+    },
+    {
+      "ramo": "moveis",
+      "ramo_rotulo": "Móveis e mobiliário",
+      "uf": "RN",
+      "uf_nome": "Rio Grande do Norte",
+      "n": 136,
+      "disponivel": true
+    },
+    {
+      "ramo": "moveis",
+      "ramo_rotulo": "Móveis e mobiliário",
+      "uf": "RS",
+      "uf_nome": "Rio Grande do Sul",
+      "n": 626,
+      "disponivel": true
+    },
+    {
+      "ramo": "moveis",
+      "ramo_rotulo": "Móveis e mobiliário",
+      "uf": "RO",
+      "uf_nome": "Rondônia",
+      "n": 61,
+      "disponivel": true
+    },
+    {
+      "ramo": "moveis",
+      "ramo_rotulo": "Móveis e mobiliário",
+      "uf": "RR",
+      "uf_nome": "Roraima",
+      "n": 12,
+      "disponivel": false
+    },
+    {
+      "ramo": "moveis",
+      "ramo_rotulo": "Móveis e mobiliário",
+      "uf": "SC",
+      "uf_nome": "Santa Catarina",
+      "n": 326,
+      "disponivel": true
+    },
+    {
+      "ramo": "moveis",
+      "ramo_rotulo": "Móveis e mobiliário",
+      "uf": "SP",
+      "uf_nome": "São Paulo",
+      "n": 1424,
+      "disponivel": true
+    },
+    {
+      "ramo": "moveis",
+      "ramo_rotulo": "Móveis e mobiliário",
+      "uf": "SE",
+      "uf_nome": "Sergipe",
+      "n": 52,
+      "disponivel": true
+    },
+    {
+      "ramo": "moveis",
+      "ramo_rotulo": "Móveis e mobiliário",
+      "uf": "TO",
+      "uf_nome": "Tocantins",
+      "n": 55,
+      "disponivel": true
+    },
+    {
+      "ramo": "grafica-e-impressos",
+      "ramo_rotulo": "Gráfica e impressos",
+      "uf": "AC",
+      "uf_nome": "Acre",
+      "n": 9,
+      "disponivel": false
+    },
+    {
+      "ramo": "grafica-e-impressos",
+      "ramo_rotulo": "Gráfica e impressos",
+      "uf": "AL",
+      "uf_nome": "Alagoas",
+      "n": 19,
+      "disponivel": false
+    },
+    {
+      "ramo": "grafica-e-impressos",
+      "ramo_rotulo": "Gráfica e impressos",
+      "uf": "AP",
+      "uf_nome": "Amapá",
+      "n": 2,
+      "disponivel": false
+    },
+    {
+      "ramo": "grafica-e-impressos",
+      "ramo_rotulo": "Gráfica e impressos",
+      "uf": "AM",
+      "uf_nome": "Amazonas",
+      "n": 31,
+      "disponivel": true
+    },
+    {
+      "ramo": "grafica-e-impressos",
+      "ramo_rotulo": "Gráfica e impressos",
+      "uf": "BA",
+      "uf_nome": "Bahia",
+      "n": 124,
+      "disponivel": true
+    },
+    {
+      "ramo": "grafica-e-impressos",
+      "ramo_rotulo": "Gráfica e impressos",
+      "uf": "CE",
+      "uf_nome": "Ceará",
+      "n": 112,
+      "disponivel": true
+    },
+    {
+      "ramo": "grafica-e-impressos",
+      "ramo_rotulo": "Gráfica e impressos",
+      "uf": "DF",
+      "uf_nome": "Distrito Federal",
+      "n": 32,
+      "disponivel": true
+    },
+    {
+      "ramo": "grafica-e-impressos",
+      "ramo_rotulo": "Gráfica e impressos",
+      "uf": "ES",
+      "uf_nome": "Espírito Santo",
+      "n": 41,
+      "disponivel": true
+    },
+    {
+      "ramo": "grafica-e-impressos",
+      "ramo_rotulo": "Gráfica e impressos",
+      "uf": "GO",
+      "uf_nome": "Goiás",
+      "n": 183,
+      "disponivel": true
+    },
+    {
+      "ramo": "grafica-e-impressos",
+      "ramo_rotulo": "Gráfica e impressos",
+      "uf": "MA",
+      "uf_nome": "Maranhão",
+      "n": 48,
+      "disponivel": true
+    },
+    {
+      "ramo": "grafica-e-impressos",
+      "ramo_rotulo": "Gráfica e impressos",
+      "uf": "MT",
+      "uf_nome": "Mato Grosso",
+      "n": 29,
+      "disponivel": false
+    },
+    {
+      "ramo": "grafica-e-impressos",
+      "ramo_rotulo": "Gráfica e impressos",
+      "uf": "MS",
+      "uf_nome": "Mato Grosso do Sul",
+      "n": 21,
+      "disponivel": false
+    },
+    {
+      "ramo": "grafica-e-impressos",
+      "ramo_rotulo": "Gráfica e impressos",
+      "uf": "MG",
+      "uf_nome": "Minas Gerais",
+      "n": 244,
+      "disponivel": true
+    },
+    {
+      "ramo": "grafica-e-impressos",
+      "ramo_rotulo": "Gráfica e impressos",
+      "uf": "PA",
+      "uf_nome": "Pará",
+      "n": 41,
+      "disponivel": true
+    },
+    {
+      "ramo": "grafica-e-impressos",
+      "ramo_rotulo": "Gráfica e impressos",
+      "uf": "PB",
+      "uf_nome": "Paraíba",
+      "n": 37,
+      "disponivel": true
+    },
+    {
+      "ramo": "grafica-e-impressos",
+      "ramo_rotulo": "Gráfica e impressos",
+      "uf": "PR",
+      "uf_nome": "Paraná",
+      "n": 189,
+      "disponivel": true
+    },
+    {
+      "ramo": "grafica-e-impressos",
+      "ramo_rotulo": "Gráfica e impressos",
+      "uf": "PE",
+      "uf_nome": "Pernambuco",
+      "n": 67,
+      "disponivel": true
+    },
+    {
+      "ramo": "grafica-e-impressos",
+      "ramo_rotulo": "Gráfica e impressos",
+      "uf": "PI",
+      "uf_nome": "Piauí",
+      "n": 22,
+      "disponivel": false
+    },
+    {
+      "ramo": "grafica-e-impressos",
+      "ramo_rotulo": "Gráfica e impressos",
+      "uf": "RJ",
+      "uf_nome": "Rio de Janeiro",
+      "n": 113,
+      "disponivel": true
+    },
+    {
+      "ramo": "grafica-e-impressos",
+      "ramo_rotulo": "Gráfica e impressos",
+      "uf": "RN",
+      "uf_nome": "Rio Grande do Norte",
+      "n": 38,
+      "disponivel": true
+    },
+    {
+      "ramo": "grafica-e-impressos",
+      "ramo_rotulo": "Gráfica e impressos",
+      "uf": "RS",
+      "uf_nome": "Rio Grande do Sul",
+      "n": 279,
+      "disponivel": true
+    },
+    {
+      "ramo": "grafica-e-impressos",
+      "ramo_rotulo": "Gráfica e impressos",
+      "uf": "RO",
+      "uf_nome": "Rondônia",
+      "n": 27,
+      "disponivel": false
+    },
+    {
+      "ramo": "grafica-e-impressos",
+      "ramo_rotulo": "Gráfica e impressos",
+      "uf": "RR",
+      "uf_nome": "Roraima",
+      "n": 5,
+      "disponivel": false
+    },
+    {
+      "ramo": "grafica-e-impressos",
+      "ramo_rotulo": "Gráfica e impressos",
+      "uf": "SC",
+      "uf_nome": "Santa Catarina",
+      "n": 153,
+      "disponivel": true
+    },
+    {
+      "ramo": "grafica-e-impressos",
+      "ramo_rotulo": "Gráfica e impressos",
+      "uf": "SP",
+      "uf_nome": "São Paulo",
+      "n": 498,
+      "disponivel": true
+    },
+    {
+      "ramo": "grafica-e-impressos",
+      "ramo_rotulo": "Gráfica e impressos",
+      "uf": "SE",
+      "uf_nome": "Sergipe",
+      "n": 13,
+      "disponivel": false
+    },
+    {
+      "ramo": "grafica-e-impressos",
+      "ramo_rotulo": "Gráfica e impressos",
+      "uf": "TO",
+      "uf_nome": "Tocantins",
+      "n": 30,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-esportivo-e-brinquedos",
+      "ramo_rotulo": "Material esportivo e brinquedos",
+      "uf": "AC",
+      "uf_nome": "Acre",
+      "n": 0,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-esportivo-e-brinquedos",
+      "ramo_rotulo": "Material esportivo e brinquedos",
+      "uf": "AL",
+      "uf_nome": "Alagoas",
+      "n": 18,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-esportivo-e-brinquedos",
+      "ramo_rotulo": "Material esportivo e brinquedos",
+      "uf": "AP",
+      "uf_nome": "Amapá",
+      "n": 1,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-esportivo-e-brinquedos",
+      "ramo_rotulo": "Material esportivo e brinquedos",
+      "uf": "AM",
+      "uf_nome": "Amazonas",
+      "n": 8,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-esportivo-e-brinquedos",
+      "ramo_rotulo": "Material esportivo e brinquedos",
+      "uf": "BA",
+      "uf_nome": "Bahia",
+      "n": 102,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-esportivo-e-brinquedos",
+      "ramo_rotulo": "Material esportivo e brinquedos",
+      "uf": "CE",
+      "uf_nome": "Ceará",
+      "n": 45,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-esportivo-e-brinquedos",
+      "ramo_rotulo": "Material esportivo e brinquedos",
+      "uf": "DF",
+      "uf_nome": "Distrito Federal",
+      "n": 3,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-esportivo-e-brinquedos",
+      "ramo_rotulo": "Material esportivo e brinquedos",
+      "uf": "ES",
+      "uf_nome": "Espírito Santo",
+      "n": 32,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-esportivo-e-brinquedos",
+      "ramo_rotulo": "Material esportivo e brinquedos",
+      "uf": "GO",
+      "uf_nome": "Goiás",
+      "n": 209,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-esportivo-e-brinquedos",
+      "ramo_rotulo": "Material esportivo e brinquedos",
+      "uf": "MA",
+      "uf_nome": "Maranhão",
+      "n": 35,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-esportivo-e-brinquedos",
+      "ramo_rotulo": "Material esportivo e brinquedos",
+      "uf": "MT",
+      "uf_nome": "Mato Grosso",
+      "n": 24,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-esportivo-e-brinquedos",
+      "ramo_rotulo": "Material esportivo e brinquedos",
+      "uf": "MS",
+      "uf_nome": "Mato Grosso do Sul",
+      "n": 40,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-esportivo-e-brinquedos",
+      "ramo_rotulo": "Material esportivo e brinquedos",
+      "uf": "MG",
+      "uf_nome": "Minas Gerais",
+      "n": 286,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-esportivo-e-brinquedos",
+      "ramo_rotulo": "Material esportivo e brinquedos",
+      "uf": "PA",
+      "uf_nome": "Pará",
+      "n": 33,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-esportivo-e-brinquedos",
+      "ramo_rotulo": "Material esportivo e brinquedos",
+      "uf": "PB",
+      "uf_nome": "Paraíba",
+      "n": 37,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-esportivo-e-brinquedos",
+      "ramo_rotulo": "Material esportivo e brinquedos",
+      "uf": "PR",
+      "uf_nome": "Paraná",
+      "n": 239,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-esportivo-e-brinquedos",
+      "ramo_rotulo": "Material esportivo e brinquedos",
+      "uf": "PE",
+      "uf_nome": "Pernambuco",
+      "n": 52,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-esportivo-e-brinquedos",
+      "ramo_rotulo": "Material esportivo e brinquedos",
+      "uf": "PI",
+      "uf_nome": "Piauí",
+      "n": 24,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-esportivo-e-brinquedos",
+      "ramo_rotulo": "Material esportivo e brinquedos",
+      "uf": "RJ",
+      "uf_nome": "Rio de Janeiro",
+      "n": 41,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-esportivo-e-brinquedos",
+      "ramo_rotulo": "Material esportivo e brinquedos",
+      "uf": "RN",
+      "uf_nome": "Rio Grande do Norte",
+      "n": 65,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-esportivo-e-brinquedos",
+      "ramo_rotulo": "Material esportivo e brinquedos",
+      "uf": "RS",
+      "uf_nome": "Rio Grande do Sul",
+      "n": 231,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-esportivo-e-brinquedos",
+      "ramo_rotulo": "Material esportivo e brinquedos",
+      "uf": "RO",
+      "uf_nome": "Rondônia",
+      "n": 13,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-esportivo-e-brinquedos",
+      "ramo_rotulo": "Material esportivo e brinquedos",
+      "uf": "RR",
+      "uf_nome": "Roraima",
+      "n": 2,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-esportivo-e-brinquedos",
+      "ramo_rotulo": "Material esportivo e brinquedos",
+      "uf": "SC",
+      "uf_nome": "Santa Catarina",
+      "n": 117,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-esportivo-e-brinquedos",
+      "ramo_rotulo": "Material esportivo e brinquedos",
+      "uf": "SP",
+      "uf_nome": "São Paulo",
+      "n": 419,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-esportivo-e-brinquedos",
+      "ramo_rotulo": "Material esportivo e brinquedos",
+      "uf": "SE",
+      "uf_nome": "Sergipe",
+      "n": 21,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-esportivo-e-brinquedos",
+      "ramo_rotulo": "Material esportivo e brinquedos",
+      "uf": "TO",
+      "uf_nome": "Tocantins",
+      "n": 25,
+      "disponivel": false
+    },
+    {
+      "ramo": "coleta-de-residuos",
+      "ramo_rotulo": "Coleta de resíduos e limpeza urbana",
+      "uf": "AC",
+      "uf_nome": "Acre",
+      "n": 1,
+      "disponivel": false
+    },
+    {
+      "ramo": "coleta-de-residuos",
+      "ramo_rotulo": "Coleta de resíduos e limpeza urbana",
+      "uf": "AL",
+      "uf_nome": "Alagoas",
+      "n": 9,
+      "disponivel": false
+    },
+    {
+      "ramo": "coleta-de-residuos",
+      "ramo_rotulo": "Coleta de resíduos e limpeza urbana",
+      "uf": "AP",
+      "uf_nome": "Amapá",
+      "n": 2,
+      "disponivel": false
+    },
+    {
+      "ramo": "coleta-de-residuos",
+      "ramo_rotulo": "Coleta de resíduos e limpeza urbana",
+      "uf": "AM",
+      "uf_nome": "Amazonas",
+      "n": 2,
+      "disponivel": false
+    },
+    {
+      "ramo": "coleta-de-residuos",
+      "ramo_rotulo": "Coleta de resíduos e limpeza urbana",
+      "uf": "BA",
+      "uf_nome": "Bahia",
+      "n": 61,
+      "disponivel": true
+    },
+    {
+      "ramo": "coleta-de-residuos",
+      "ramo_rotulo": "Coleta de resíduos e limpeza urbana",
+      "uf": "CE",
+      "uf_nome": "Ceará",
+      "n": 41,
+      "disponivel": true
+    },
+    {
+      "ramo": "coleta-de-residuos",
+      "ramo_rotulo": "Coleta de resíduos e limpeza urbana",
+      "uf": "DF",
+      "uf_nome": "Distrito Federal",
+      "n": 20,
+      "disponivel": false
+    },
+    {
+      "ramo": "coleta-de-residuos",
+      "ramo_rotulo": "Coleta de resíduos e limpeza urbana",
+      "uf": "ES",
+      "uf_nome": "Espírito Santo",
+      "n": 29,
+      "disponivel": false
+    },
+    {
+      "ramo": "coleta-de-residuos",
+      "ramo_rotulo": "Coleta de resíduos e limpeza urbana",
+      "uf": "GO",
+      "uf_nome": "Goiás",
+      "n": 124,
+      "disponivel": true
+    },
+    {
+      "ramo": "coleta-de-residuos",
+      "ramo_rotulo": "Coleta de resíduos e limpeza urbana",
+      "uf": "MA",
+      "uf_nome": "Maranhão",
+      "n": 16,
+      "disponivel": false
+    },
+    {
+      "ramo": "coleta-de-residuos",
+      "ramo_rotulo": "Coleta de resíduos e limpeza urbana",
+      "uf": "MT",
+      "uf_nome": "Mato Grosso",
+      "n": 25,
+      "disponivel": false
+    },
+    {
+      "ramo": "coleta-de-residuos",
+      "ramo_rotulo": "Coleta de resíduos e limpeza urbana",
+      "uf": "MS",
+      "uf_nome": "Mato Grosso do Sul",
+      "n": 23,
+      "disponivel": false
+    },
+    {
+      "ramo": "coleta-de-residuos",
+      "ramo_rotulo": "Coleta de resíduos e limpeza urbana",
+      "uf": "MG",
+      "uf_nome": "Minas Gerais",
+      "n": 169,
+      "disponivel": true
+    },
+    {
+      "ramo": "coleta-de-residuos",
+      "ramo_rotulo": "Coleta de resíduos e limpeza urbana",
+      "uf": "PA",
+      "uf_nome": "Pará",
+      "n": 31,
+      "disponivel": true
+    },
+    {
+      "ramo": "coleta-de-residuos",
+      "ramo_rotulo": "Coleta de resíduos e limpeza urbana",
+      "uf": "PB",
+      "uf_nome": "Paraíba",
+      "n": 21,
+      "disponivel": false
+    },
+    {
+      "ramo": "coleta-de-residuos",
+      "ramo_rotulo": "Coleta de resíduos e limpeza urbana",
+      "uf": "PR",
+      "uf_nome": "Paraná",
+      "n": 158,
+      "disponivel": true
+    },
+    {
+      "ramo": "coleta-de-residuos",
+      "ramo_rotulo": "Coleta de resíduos e limpeza urbana",
+      "uf": "PE",
+      "uf_nome": "Pernambuco",
+      "n": 25,
+      "disponivel": false
+    },
+    {
+      "ramo": "coleta-de-residuos",
+      "ramo_rotulo": "Coleta de resíduos e limpeza urbana",
+      "uf": "PI",
+      "uf_nome": "Piauí",
+      "n": 27,
+      "disponivel": false
+    },
+    {
+      "ramo": "coleta-de-residuos",
+      "ramo_rotulo": "Coleta de resíduos e limpeza urbana",
+      "uf": "RJ",
+      "uf_nome": "Rio de Janeiro",
+      "n": 34,
+      "disponivel": true
+    },
+    {
+      "ramo": "coleta-de-residuos",
+      "ramo_rotulo": "Coleta de resíduos e limpeza urbana",
+      "uf": "RN",
+      "uf_nome": "Rio Grande do Norte",
+      "n": 35,
+      "disponivel": true
+    },
+    {
+      "ramo": "coleta-de-residuos",
+      "ramo_rotulo": "Coleta de resíduos e limpeza urbana",
+      "uf": "RS",
+      "uf_nome": "Rio Grande do Sul",
+      "n": 165,
+      "disponivel": true
+    },
+    {
+      "ramo": "coleta-de-residuos",
+      "ramo_rotulo": "Coleta de resíduos e limpeza urbana",
+      "uf": "RO",
+      "uf_nome": "Rondônia",
+      "n": 12,
+      "disponivel": false
+    },
+    {
+      "ramo": "coleta-de-residuos",
+      "ramo_rotulo": "Coleta de resíduos e limpeza urbana",
+      "uf": "RR",
+      "uf_nome": "Roraima",
+      "n": 2,
+      "disponivel": false
+    },
+    {
+      "ramo": "coleta-de-residuos",
+      "ramo_rotulo": "Coleta de resíduos e limpeza urbana",
+      "uf": "SC",
+      "uf_nome": "Santa Catarina",
+      "n": 114,
+      "disponivel": true
+    },
+    {
+      "ramo": "coleta-de-residuos",
+      "ramo_rotulo": "Coleta de resíduos e limpeza urbana",
+      "uf": "SP",
+      "uf_nome": "São Paulo",
+      "n": 230,
+      "disponivel": true
+    },
+    {
+      "ramo": "coleta-de-residuos",
+      "ramo_rotulo": "Coleta de resíduos e limpeza urbana",
+      "uf": "SE",
+      "uf_nome": "Sergipe",
+      "n": 11,
+      "disponivel": false
+    },
+    {
+      "ramo": "coleta-de-residuos",
+      "ramo_rotulo": "Coleta de resíduos e limpeza urbana",
+      "uf": "TO",
+      "uf_nome": "Tocantins",
+      "n": 13,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-eletrico",
+      "ramo_rotulo": "Material elétrico",
+      "uf": "AC",
+      "uf_nome": "Acre",
+      "n": 1,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-eletrico",
+      "ramo_rotulo": "Material elétrico",
+      "uf": "AL",
+      "uf_nome": "Alagoas",
+      "n": 12,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-eletrico",
+      "ramo_rotulo": "Material elétrico",
+      "uf": "AP",
+      "uf_nome": "Amapá",
+      "n": 2,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-eletrico",
+      "ramo_rotulo": "Material elétrico",
+      "uf": "AM",
+      "uf_nome": "Amazonas",
+      "n": 22,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-eletrico",
+      "ramo_rotulo": "Material elétrico",
+      "uf": "BA",
+      "uf_nome": "Bahia",
+      "n": 111,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-eletrico",
+      "ramo_rotulo": "Material elétrico",
+      "uf": "CE",
+      "uf_nome": "Ceará",
+      "n": 63,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-eletrico",
+      "ramo_rotulo": "Material elétrico",
+      "uf": "DF",
+      "uf_nome": "Distrito Federal",
+      "n": 21,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-eletrico",
+      "ramo_rotulo": "Material elétrico",
+      "uf": "ES",
+      "uf_nome": "Espírito Santo",
+      "n": 36,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-eletrico",
+      "ramo_rotulo": "Material elétrico",
+      "uf": "GO",
+      "uf_nome": "Goiás",
+      "n": 201,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-eletrico",
+      "ramo_rotulo": "Material elétrico",
+      "uf": "MA",
+      "uf_nome": "Maranhão",
+      "n": 15,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-eletrico",
+      "ramo_rotulo": "Material elétrico",
+      "uf": "MT",
+      "uf_nome": "Mato Grosso",
+      "n": 34,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-eletrico",
+      "ramo_rotulo": "Material elétrico",
+      "uf": "MS",
+      "uf_nome": "Mato Grosso do Sul",
+      "n": 36,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-eletrico",
+      "ramo_rotulo": "Material elétrico",
+      "uf": "MG",
+      "uf_nome": "Minas Gerais",
+      "n": 248,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-eletrico",
+      "ramo_rotulo": "Material elétrico",
+      "uf": "PA",
+      "uf_nome": "Pará",
+      "n": 35,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-eletrico",
+      "ramo_rotulo": "Material elétrico",
+      "uf": "PB",
+      "uf_nome": "Paraíba",
+      "n": 18,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-eletrico",
+      "ramo_rotulo": "Material elétrico",
+      "uf": "PR",
+      "uf_nome": "Paraná",
+      "n": 259,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-eletrico",
+      "ramo_rotulo": "Material elétrico",
+      "uf": "PE",
+      "uf_nome": "Pernambuco",
+      "n": 40,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-eletrico",
+      "ramo_rotulo": "Material elétrico",
+      "uf": "PI",
+      "uf_nome": "Piauí",
+      "n": 15,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-eletrico",
+      "ramo_rotulo": "Material elétrico",
+      "uf": "RJ",
+      "uf_nome": "Rio de Janeiro",
+      "n": 90,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-eletrico",
+      "ramo_rotulo": "Material elétrico",
+      "uf": "RN",
+      "uf_nome": "Rio Grande do Norte",
+      "n": 32,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-eletrico",
+      "ramo_rotulo": "Material elétrico",
+      "uf": "RS",
+      "uf_nome": "Rio Grande do Sul",
+      "n": 406,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-eletrico",
+      "ramo_rotulo": "Material elétrico",
+      "uf": "RO",
+      "uf_nome": "Rondônia",
+      "n": 22,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-eletrico",
+      "ramo_rotulo": "Material elétrico",
+      "uf": "RR",
+      "uf_nome": "Roraima",
+      "n": 2,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-eletrico",
+      "ramo_rotulo": "Material elétrico",
+      "uf": "SC",
+      "uf_nome": "Santa Catarina",
+      "n": 206,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-eletrico",
+      "ramo_rotulo": "Material elétrico",
+      "uf": "SP",
+      "uf_nome": "São Paulo",
+      "n": 802,
+      "disponivel": true
+    },
+    {
+      "ramo": "material-eletrico",
+      "ramo_rotulo": "Material elétrico",
+      "uf": "SE",
+      "uf_nome": "Sergipe",
+      "n": 8,
+      "disponivel": false
+    },
+    {
+      "ramo": "material-eletrico",
+      "ramo_rotulo": "Material elétrico",
+      "uf": "TO",
+      "uf_nome": "Tocantins",
+      "n": 24,
+      "disponivel": false
+    },
+    {
+      "ramo": "veterinarios-e-agropecuarios",
+      "ramo_rotulo": "Veterinários e agropecuários",
+      "uf": "AC",
+      "uf_nome": "Acre",
+      "n": 4,
+      "disponivel": false
+    },
+    {
+      "ramo": "veterinarios-e-agropecuarios",
+      "ramo_rotulo": "Veterinários e agropecuários",
+      "uf": "AL",
+      "uf_nome": "Alagoas",
+      "n": 9,
+      "disponivel": false
+    },
+    {
+      "ramo": "veterinarios-e-agropecuarios",
+      "ramo_rotulo": "Veterinários e agropecuários",
+      "uf": "AP",
+      "uf_nome": "Amapá",
+      "n": 1,
+      "disponivel": false
+    },
+    {
+      "ramo": "veterinarios-e-agropecuarios",
+      "ramo_rotulo": "Veterinários e agropecuários",
+      "uf": "AM",
+      "uf_nome": "Amazonas",
+      "n": 4,
+      "disponivel": false
+    },
+    {
+      "ramo": "veterinarios-e-agropecuarios",
+      "ramo_rotulo": "Veterinários e agropecuários",
+      "uf": "BA",
+      "uf_nome": "Bahia",
+      "n": 169,
+      "disponivel": true
+    },
+    {
+      "ramo": "veterinarios-e-agropecuarios",
+      "ramo_rotulo": "Veterinários e agropecuários",
+      "uf": "CE",
+      "uf_nome": "Ceará",
+      "n": 15,
+      "disponivel": false
+    },
+    {
+      "ramo": "veterinarios-e-agropecuarios",
+      "ramo_rotulo": "Veterinários e agropecuários",
+      "uf": "DF",
+      "uf_nome": "Distrito Federal",
+      "n": 23,
+      "disponivel": false
+    },
+    {
+      "ramo": "veterinarios-e-agropecuarios",
+      "ramo_rotulo": "Veterinários e agropecuários",
+      "uf": "ES",
+      "uf_nome": "Espírito Santo",
+      "n": 20,
+      "disponivel": false
+    },
+    {
+      "ramo": "veterinarios-e-agropecuarios",
+      "ramo_rotulo": "Veterinários e agropecuários",
+      "uf": "GO",
+      "uf_nome": "Goiás",
+      "n": 67,
+      "disponivel": true
+    },
+    {
+      "ramo": "veterinarios-e-agropecuarios",
+      "ramo_rotulo": "Veterinários e agropecuários",
+      "uf": "MA",
+      "uf_nome": "Maranhão",
+      "n": 4,
+      "disponivel": false
+    },
+    {
+      "ramo": "veterinarios-e-agropecuarios",
+      "ramo_rotulo": "Veterinários e agropecuários",
+      "uf": "MT",
+      "uf_nome": "Mato Grosso",
+      "n": 16,
+      "disponivel": false
+    },
+    {
+      "ramo": "veterinarios-e-agropecuarios",
+      "ramo_rotulo": "Veterinários e agropecuários",
+      "uf": "MS",
+      "uf_nome": "Mato Grosso do Sul",
+      "n": 13,
+      "disponivel": false
+    },
+    {
+      "ramo": "veterinarios-e-agropecuarios",
+      "ramo_rotulo": "Veterinários e agropecuários",
+      "uf": "MG",
+      "uf_nome": "Minas Gerais",
+      "n": 197,
+      "disponivel": true
+    },
+    {
+      "ramo": "veterinarios-e-agropecuarios",
+      "ramo_rotulo": "Veterinários e agropecuários",
+      "uf": "PA",
+      "uf_nome": "Pará",
+      "n": 21,
+      "disponivel": false
+    },
+    {
+      "ramo": "veterinarios-e-agropecuarios",
+      "ramo_rotulo": "Veterinários e agropecuários",
+      "uf": "PB",
+      "uf_nome": "Paraíba",
+      "n": 21,
+      "disponivel": false
+    },
+    {
+      "ramo": "veterinarios-e-agropecuarios",
+      "ramo_rotulo": "Veterinários e agropecuários",
+      "uf": "PR",
+      "uf_nome": "Paraná",
+      "n": 209,
+      "disponivel": true
+    },
+    {
+      "ramo": "veterinarios-e-agropecuarios",
+      "ramo_rotulo": "Veterinários e agropecuários",
+      "uf": "PE",
+      "uf_nome": "Pernambuco",
+      "n": 26,
+      "disponivel": false
+    },
+    {
+      "ramo": "veterinarios-e-agropecuarios",
+      "ramo_rotulo": "Veterinários e agropecuários",
+      "uf": "PI",
+      "uf_nome": "Piauí",
+      "n": 10,
+      "disponivel": false
+    },
+    {
+      "ramo": "veterinarios-e-agropecuarios",
+      "ramo_rotulo": "Veterinários e agropecuários",
+      "uf": "RJ",
+      "uf_nome": "Rio de Janeiro",
+      "n": 30,
+      "disponivel": true
+    },
+    {
+      "ramo": "veterinarios-e-agropecuarios",
+      "ramo_rotulo": "Veterinários e agropecuários",
+      "uf": "RN",
+      "uf_nome": "Rio Grande do Norte",
+      "n": 17,
+      "disponivel": false
+    },
+    {
+      "ramo": "veterinarios-e-agropecuarios",
+      "ramo_rotulo": "Veterinários e agropecuários",
+      "uf": "RS",
+      "uf_nome": "Rio Grande do Sul",
+      "n": 222,
+      "disponivel": true
+    },
+    {
+      "ramo": "veterinarios-e-agropecuarios",
+      "ramo_rotulo": "Veterinários e agropecuários",
+      "uf": "RO",
+      "uf_nome": "Rondônia",
+      "n": 13,
+      "disponivel": false
+    },
+    {
+      "ramo": "veterinarios-e-agropecuarios",
+      "ramo_rotulo": "Veterinários e agropecuários",
+      "uf": "RR",
+      "uf_nome": "Roraima",
+      "n": 3,
+      "disponivel": false
+    },
+    {
+      "ramo": "veterinarios-e-agropecuarios",
+      "ramo_rotulo": "Veterinários e agropecuários",
+      "uf": "SC",
+      "uf_nome": "Santa Catarina",
+      "n": 98,
+      "disponivel": true
+    },
+    {
+      "ramo": "veterinarios-e-agropecuarios",
+      "ramo_rotulo": "Veterinários e agropecuários",
+      "uf": "SP",
+      "uf_nome": "São Paulo",
+      "n": 321,
+      "disponivel": true
+    },
+    {
+      "ramo": "veterinarios-e-agropecuarios",
+      "ramo_rotulo": "Veterinários e agropecuários",
+      "uf": "SE",
+      "uf_nome": "Sergipe",
+      "n": 17,
+      "disponivel": false
+    },
+    {
+      "ramo": "veterinarios-e-agropecuarios",
+      "ramo_rotulo": "Veterinários e agropecuários",
+      "uf": "TO",
+      "uf_nome": "Tocantins",
+      "n": 7,
+      "disponivel": false
+    },
+    {
+      "ramo": "ti-e-software",
+      "ramo_rotulo": "TI e software",
+      "uf": "AC",
+      "uf_nome": "Acre",
+      "n": 17,
+      "disponivel": false
+    },
+    {
+      "ramo": "ti-e-software",
+      "ramo_rotulo": "TI e software",
+      "uf": "AL",
+      "uf_nome": "Alagoas",
+      "n": 35,
+      "disponivel": true
+    },
+    {
+      "ramo": "ti-e-software",
+      "ramo_rotulo": "TI e software",
+      "uf": "AP",
+      "uf_nome": "Amapá",
+      "n": 12,
+      "disponivel": false
+    },
+    {
+      "ramo": "ti-e-software",
+      "ramo_rotulo": "TI e software",
+      "uf": "AM",
+      "uf_nome": "Amazonas",
+      "n": 44,
+      "disponivel": true
+    },
+    {
+      "ramo": "ti-e-software",
+      "ramo_rotulo": "TI e software",
+      "uf": "BA",
+      "uf_nome": "Bahia",
+      "n": 176,
+      "disponivel": true
+    },
+    {
+      "ramo": "ti-e-software",
+      "ramo_rotulo": "TI e software",
+      "uf": "CE",
+      "uf_nome": "Ceará",
+      "n": 145,
+      "disponivel": true
+    },
+    {
+      "ramo": "ti-e-software",
+      "ramo_rotulo": "TI e software",
+      "uf": "DF",
+      "uf_nome": "Distrito Federal",
+      "n": 186,
+      "disponivel": true
+    },
+    {
+      "ramo": "ti-e-software",
+      "ramo_rotulo": "TI e software",
+      "uf": "ES",
+      "uf_nome": "Espírito Santo",
+      "n": 108,
+      "disponivel": true
+    },
+    {
+      "ramo": "ti-e-software",
+      "ramo_rotulo": "TI e software",
+      "uf": "GO",
+      "uf_nome": "Goiás",
+      "n": 203,
+      "disponivel": true
+    },
+    {
+      "ramo": "ti-e-software",
+      "ramo_rotulo": "TI e software",
+      "uf": "MA",
+      "uf_nome": "Maranhão",
+      "n": 73,
+      "disponivel": true
+    },
+    {
+      "ramo": "ti-e-software",
+      "ramo_rotulo": "TI e software",
+      "uf": "MT",
+      "uf_nome": "Mato Grosso",
+      "n": 79,
+      "disponivel": true
+    },
+    {
+      "ramo": "ti-e-software",
+      "ramo_rotulo": "TI e software",
+      "uf": "MS",
+      "uf_nome": "Mato Grosso do Sul",
+      "n": 69,
+      "disponivel": true
+    },
+    {
+      "ramo": "ti-e-software",
+      "ramo_rotulo": "TI e software",
+      "uf": "MG",
+      "uf_nome": "Minas Gerais",
+      "n": 420,
+      "disponivel": true
+    },
+    {
+      "ramo": "ti-e-software",
+      "ramo_rotulo": "TI e software",
+      "uf": "PA",
+      "uf_nome": "Pará",
+      "n": 70,
+      "disponivel": true
+    },
+    {
+      "ramo": "ti-e-software",
+      "ramo_rotulo": "TI e software",
+      "uf": "PB",
+      "uf_nome": "Paraíba",
+      "n": 50,
+      "disponivel": true
+    },
+    {
+      "ramo": "ti-e-software",
+      "ramo_rotulo": "TI e software",
+      "uf": "PR",
+      "uf_nome": "Paraná",
+      "n": 328,
+      "disponivel": true
+    },
+    {
+      "ramo": "ti-e-software",
+      "ramo_rotulo": "TI e software",
+      "uf": "PE",
+      "uf_nome": "Pernambuco",
+      "n": 99,
+      "disponivel": true
+    },
+    {
+      "ramo": "ti-e-software",
+      "ramo_rotulo": "TI e software",
+      "uf": "PI",
+      "uf_nome": "Piauí",
+      "n": 29,
+      "disponivel": false
+    },
+    {
+      "ramo": "ti-e-software",
+      "ramo_rotulo": "TI e software",
+      "uf": "RJ",
+      "uf_nome": "Rio de Janeiro",
+      "n": 223,
+      "disponivel": true
+    },
+    {
+      "ramo": "ti-e-software",
+      "ramo_rotulo": "TI e software",
+      "uf": "RN",
+      "uf_nome": "Rio Grande do Norte",
+      "n": 60,
+      "disponivel": true
+    },
+    {
+      "ramo": "ti-e-software",
+      "ramo_rotulo": "TI e software",
+      "uf": "RS",
+      "uf_nome": "Rio Grande do Sul",
+      "n": 291,
+      "disponivel": true
+    },
+    {
+      "ramo": "ti-e-software",
+      "ramo_rotulo": "TI e software",
+      "uf": "RO",
+      "uf_nome": "Rondônia",
+      "n": 51,
+      "disponivel": true
+    },
+    {
+      "ramo": "ti-e-software",
+      "ramo_rotulo": "TI e software",
+      "uf": "RR",
+      "uf_nome": "Roraima",
+      "n": 12,
+      "disponivel": false
+    },
+    {
+      "ramo": "ti-e-software",
+      "ramo_rotulo": "TI e software",
+      "uf": "SC",
+      "uf_nome": "Santa Catarina",
+      "n": 271,
+      "disponivel": true
+    },
+    {
+      "ramo": "ti-e-software",
+      "ramo_rotulo": "TI e software",
+      "uf": "SP",
+      "uf_nome": "São Paulo",
+      "n": 846,
+      "disponivel": true
+    },
+    {
+      "ramo": "ti-e-software",
+      "ramo_rotulo": "TI e software",
+      "uf": "SE",
+      "uf_nome": "Sergipe",
+      "n": 41,
+      "disponivel": true
+    },
+    {
+      "ramo": "ti-e-software",
+      "ramo_rotulo": "TI e software",
+      "uf": "TO",
+      "uf_nome": "Tocantins",
+      "n": 46,
+      "disponivel": true
+    }
+  ]
+}

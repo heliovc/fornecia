@@ -1,7 +1,7 @@
 /**
  * Fornecia — configuração da landing.
- * checkoutMonthlyUrl / checkoutAnnualUrl: links da Kiwify. Enquanto começarem com "#",
- * os botões aparecem como "Em breve", sem link.
+ * checkoutMonthlyUrl / checkoutAnnualUrl / checkoutPanoramaUrl: links da Kiwify.
+ * Enquanto estiverem vazios ou começarem com "#", os botões aparecem como "Em breve", sem link.
  * supportEmail: enquanto contiver "A.DEFINIR", o rodapé mostra "canal de suporte em breve".
  * intakeUrl: Worker de intake. Se estiver vazio ou for placeholder, o formulário de amostra por e-mail some.
  * turnstileSiteKey: chave do widget Cloudflare Turnstile (o Chefe cria na conta). Vazio: o formulário
@@ -14,6 +14,7 @@ window.SITE_CONFIG = {
   productName: "Fornecia",
   checkoutMonthlyUrl: "https://pay.kiwify.com.br/1VbxuG1",
   checkoutAnnualUrl: "https://pay.kiwify.com.br/fCFCOFx",
+  checkoutPanoramaUrl: "",  // o Chefe preenche com o link da Kiwify (produto avulso, R$ 27)
   supportEmail: "contato@valorasolucoes.com",
   intakeUrl: "https://fornecia-intake.heliovcastro.workers.dev",
   turnstileSiteKey: "0x4AAAAAAGCSkj2DnGMRcxrT",

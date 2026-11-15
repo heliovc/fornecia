@@ -1,0 +1,310 @@
+{
+  "produto": "Fornecia",
+  "titulo": "Panorama de Compras Públicas",
+  "ramo": "material-de-limpeza",
+  "ramo_rotulo": "Material de limpeza",
+  "uf": "SP",
+  "uf_nome": "São Paulo",
+  "periodo_inicio": "2026-09-11",
+  "periodo_fim": "2026-11-14",
+  "periodo_rotulo": "11/09/2026 a 14/11/2026",
+  "dias": 65,
+  "meses_parciais": [
+    "2026-09",
+    "2026-11"
+  ],
+  "gerado_em": "2026-11-15",
+  "gerado_em_rotulo": "15/11/2026",
+  "n": 903,
+  "n_com_valor": 824,
+  "n_sem_valor": 79,
+  "valor_total": 418947023.84999996,
+  "valor_mediana": 21320.715,
+  "valor_p25": 3345.9300000000003,
+  "valor_p75": 153881.0925,
+  "valor_min": 2.96,
+  "valor_max": 95402215.57,
+  "faixas": [
+    {
+      "rotulo": "Até R$ 10 mil",
+      "n": 337,
+      "share": 0.40898058252427183
+    },
+    {
+      "rotulo": "R$ 10 mil a R$ 50 mil",
+      "n": 172,
+      "share": 0.2087378640776699
+    },
+    {
+      "rotulo": "R$ 50 mil a R$ 100 mil",
+      "n": 63,
+      "share": 0.07645631067961164
+    },
+    {
+      "rotulo": "R$ 100 mil a R$ 500 mil",
+      "n": 123,
+      "share": 0.14927184466019416
+    },
+    {
+      "rotulo": "R$ 500 mil a R$ 1 milhão",
+      "n": 43,
+      "share": 0.05218446601941747
+    },
+    {
+      "rotulo": "R$ 1 milhão a R$ 5 milhões",
+      "n": 75,
+      "share": 0.09101941747572816
+    },
+    {
+      "rotulo": "Acima de R$ 5 milhões",
+      "n": 11,
+      "share": 0.013349514563106795
+    }
+  ],
+  "orgaos": [
+    {
+      "orgao": "SAO PAULO SECRETARIA DA ADMINISTRACAO PENITENCIARIA",
+      "cnpj": "96291141000180",
+      "cnpj_fmt": "96.291.141/0001-80",
+      "n": 59,
+      "valor_total": 5874103.47,
+      "valor_mediana": 55009.4,
+      "n_com_valor": 55,
+      "link_orgao": "https://pncp.gov.br/app/orgaos/96291141000180",
+      "pos": 1
+    },
+    {
+      "orgao": "MUNICIPIO DE LENCOIS PAULISTA",
+      "cnpj": "46200846000176",
+      "cnpj_fmt": "46.200.846/0001-76",
+      "n": 56,
+      "valor_total": 80725.28,
+      "valor_mediana": 423.53999999999996,
+      "n_com_valor": 56,
+      "link_orgao": "https://pncp.gov.br/app/orgaos/46200846000176",
+      "pos": 2
+    },
+    {
+      "orgao": "SECRETARIA DE ESTADO DA SAUDE",
+      "cnpj": "46374500000194",
+      "cnpj_fmt": "46.374.500/0001-94",
+      "n": 39,
+      "valor_total": 1152740.79,
+      "valor_mediana": 29018.989999999998,
+      "n_com_valor": 18,
+      "link_orgao": "https://pncp.gov.br/app/orgaos/46374500000194",
+      "pos": 3
+    },
+    {
+      "orgao": "SAO PAULO SECRETARIA DA SEGURANCA PUBLICA",
+      "cnpj": "46377800000127",
+      "cnpj_fmt": "46.377.800/0001-27",
+      "n": 24,
+      "valor_total": 5123158.89,
+      "valor_mediana": 102065.89,
+      "n_com_valor": 24,
+      "link_orgao": "https://pncp.gov.br/app/orgaos/46377800000127",
+      "pos": 4
+    },
+    {
+      "orgao": "MUNICIPIO DE PIRAJU",
+      "cnpj": "46223699000150",
+      "cnpj_fmt": "46.223.699/0001-50",
+      "n": 20,
+      "valor_total": 55727.6,
+      "valor_mediana": 2926.505,
+      "n_com_valor": 20,
+      "link_orgao": "https://pncp.gov.br/app/orgaos/46223699000150",
+      "pos": 5
+    },
+    {
+      "orgao": "UNIVERSIDADE ESTADUAL PAULISTA JULIO DE MESQUITA FILHO",
+      "cnpj": "48031918000124",
+      "cnpj_fmt": "48.031.918/0001-24",
+      "n": 19,
+      "valor_total": 1693804.33,
+      "valor_mediana": 17100.0,
+      "n_com_valor": 19,
+      "link_orgao": "https://pncp.gov.br/app/orgaos/48031918000124",
+      "pos": 6
+    },
+    {
+      "orgao": "(UO) ESP-CETESB-CIA AMBIENTAL DO EST.DE SP",
+      "cnpj": "43776491000170",
+      "cnpj_fmt": "43.776.491/0001-70",
+      "n": 15,
+      "valor_total": 1807416.4300000002,
+      "valor_mediana": 6887.5,
+      "n_com_valor": 14,
+      "link_orgao": "https://pncp.gov.br/app/orgaos/43776491000170",
+      "pos": 7
+    },
+    {
+      "orgao": "UNIVERSIDADE DE SAO PAULO",
+      "cnpj": "63025530000104",
+      "cnpj_fmt": "63.025.530/0001-04",
+      "n": 13,
+      "valor_total": 949563.44,
+      "valor_mediana": 22882.5,
+      "n_com_valor": 13,
+      "link_orgao": "https://pncp.gov.br/app/orgaos/63025530000104",
+      "pos": 8
+    },
+    {
+      "orgao": "MUNICIPIO DE TARUMA",
+      "cnpj": "64614449000122",
+      "cnpj_fmt": "64.614.449/0001-22",
+      "n": 13,
+      "valor_total": 50698.66,
+      "valor_mediana": 2169.7,
+      "n_com_valor": 13,
+      "link_orgao": "https://pncp.gov.br/app/orgaos/64614449000122",
+      "pos": 9
+    },
+    {
+      "orgao": "COMANDO DO EXERCITO",
+      "cnpj": "00394452000103",
+      "cnpj_fmt": "00.394.452/0001-03",
+      "n": 9,
+      "valor_total": 635297.8,
+      "valor_mediana": 3575.6,
+      "n_com_valor": 9,
+      "link_orgao": "https://pncp.gov.br/app/orgaos/00394452000103",
+      "pos": 10
+    },
+    {
+      "orgao": "MUNICIPIO DE PIRACICABA",
+      "cnpj": "46341038000129",
+      "cnpj_fmt": "46.341.038/0001-29",
+      "n": 8,
+      "valor_total": 2913294.2399999998,
+      "valor_mediana": 43666.28,
+      "n_com_valor": 8,
+      "link_orgao": "https://pncp.gov.br/app/orgaos/46341038000129",
+      "pos": 11
+    },
+    {
+      "orgao": "MUNICIPIO DE ARARAQUARA",
+      "cnpj": "45276128000110",
+      "cnpj_fmt": "45.276.128/0001-10",
+      "n": 8,
+      "valor_total": 1231579.1,
+      "valor_mediana": 39897.5,
+      "n_com_valor": 6,
+      "link_orgao": "https://pncp.gov.br/app/orgaos/45276128000110",
+      "pos": 12
+    },
+    {
+      "orgao": "MUNICIPIO DE VARGEM GRANDE DO SUL",
+      "cnpj": "46248837000155",
+      "cnpj_fmt": "46.248.837/0001-55",
+      "n": 8,
+      "valor_total": 13583.86,
+      "valor_mediana": 1166.5,
+      "n_com_valor": 8,
+      "link_orgao": "https://pncp.gov.br/app/orgaos/46248837000155",
+      "pos": 13
+    },
+    {
+      "orgao": "DEPARTAMENTO DE ESTRADAS DE RODAGEM",
+      "cnpj": "43052497000102",
+      "cnpj_fmt": "43.052.497/0001-02",
+      "n": 7,
+      "valor_total": 48459.35,
+      "valor_mediana": 4704.0,
+      "n_com_valor": 7,
+      "link_orgao": "https://pncp.gov.br/app/orgaos/43052497000102",
+      "pos": 14
+    },
+    {
+      "orgao": "MUNICIPIO DE ATIBAIA",
+      "cnpj": "45279635000108",
+      "cnpj_fmt": "45.279.635/0001-08",
+      "n": 6,
+      "valor_total": 2569696.0,
+      "valor_mediana": 16188.0,
+      "n_com_valor": 3,
+      "link_orgao": "https://pncp.gov.br/app/orgaos/45279635000108",
+      "pos": 15
+    }
+  ],
+  "orgaos_total": 382,
+  "meses": [
+    {
+      "ano_mes": "2026-09",
+      "rotulo": "set/2026",
+      "n": 257,
+      "valor_total": 119067549.58,
+      "parcial": true
+    },
+    {
+      "ano_mes": "2026-10",
+      "rotulo": "out/2026",
+      "n": 425,
+      "valor_total": 247072145.07,
+      "parcial": false
+    },
+    {
+      "ano_mes": "2026-11",
+      "rotulo": "nov/2026",
+      "n": 221,
+      "valor_total": 52807329.2,
+      "parcial": true
+    }
+  ],
+  "modalidades": [
+    {
+      "nome": "Dispensa",
+      "n": 492,
+      "share": 0.5448504983388704,
+      "valor_total": 7984272.39
+    },
+    {
+      "nome": "Pregão - Eletrônico",
+      "n": 402,
+      "share": 0.44518272425249167,
+      "valor_total": 403356230.44
+    },
+    {
+      "nome": "Pregão - Presencial",
+      "n": 9,
+      "share": 0.009966777408637873,
+      "valor_total": 7606521.0200000005
+    }
+  ],
+  "ok_minimo": true,
+  "minimo": 30,
+  "vizinhas": [
+    {
+      "uf": "MG",
+      "uf_nome": "Minas Gerais",
+      "n": 400
+    },
+    {
+      "uf": "PR",
+      "uf_nome": "Paraná",
+      "n": 316
+    },
+    {
+      "uf": "RJ",
+      "uf_nome": "Rio de Janeiro",
+      "n": 160
+    },
+    {
+      "uf": "MS",
+      "uf_nome": "Mato Grosso do Sul",
+      "n": 41
+    }
+  ],
+  "brasil": {
+    "n": 3589,
+    "ok": true
+  },
+  "publica": true,
+  "fonte": "Fonte: Dados abertos do PNCP",
+  "disclaimer": "Este material é um produto da Fornecia e não é um produto oficial do governo, nem é afiliado ao PNCP ou ao Governo Federal.",
+  "rodape": "Fonte: Dados abertos do PNCP. Este material é um produto da Fornecia e não é um produto oficial do governo, nem é afiliado ao PNCP ou ao Governo Federal.",
+  "tempo_s": 5.29,
+  "pdf_bytes": 99614,
+  "xlsx_bytes": 140926
+}
