@@ -8,3 +8,7 @@ Configuração em `config.js`:
 - `productName`: nome do produto.
 
 Dados de exemplo: licitações públicas do PNCP (pncp.gov.br).
+
+Páginas:
+- `privacidade/` e `termos/`: geradas por `docs/legal/gerar_paginas.py` no repositório privado do pipeline (versão no topo da página).
+- `comecar/`: formulário de configuração do alerta (noindex). Copiado de `onboarding/comecar/` do pipeline por `intake/aplicar_urls.py`; `comecar/config.js` aponta para o Worker de intake (`*.workers.dev`).

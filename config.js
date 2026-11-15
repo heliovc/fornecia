@@ -8,5 +8,5 @@ window.SITE_CONFIG = {
   productName: "Fornecia",
   checkoutMonthlyUrl: "#",
   checkoutAnnualUrl: "#",
-  supportEmail: "SUPORTE@EMAIL.A.DEFINIR"
+  supportEmail: "heliovcastro@gmail.com"
 };

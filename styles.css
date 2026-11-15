@@ -825,3 +825,22 @@ a:hover { color: var(--forest-2); }
 .nowrap { white-space: nowrap; }
 
 .is-soon{cursor:default;opacity:.85;pointer-events:none}
+
+/* Páginas legais (privacidade e termos) */
+.nav-legal { display: flex; gap: 1.25rem; position: static; background: none; box-shadow: none; padding: 0; }
+.nav-legal a { font-size: 0.95rem; white-space: nowrap; }
+@media (max-width: 559px) { .nav-legal .nav-home { display: none; } .nav-legal { gap: 0.75rem; } }
+.legal { padding: 2.5rem 0 3.5rem; }
+.legal-wrap { max-width: 46rem; }
+.legal h1 { font-family: var(--font-display); font-size: clamp(2rem, 5vw, 2.6rem); line-height: 1.15; margin: 0.5rem 0 0.25rem; color: var(--ink); }
+.legal h2 { font-family: var(--font-display); font-size: 1.4rem; line-height: 1.25; margin: 2.2rem 0 0.6rem; color: var(--forest-2); }
+.legal p, .legal li { color: var(--ink-soft); }
+.legal ul { padding-left: 1.2rem; }
+.legal li { margin: 0.35rem 0; }
+.legal-kicker { margin: 0; font-size: 0.95rem; }
+.legal-versao { display: inline-block; margin: 0.5rem 0 1.5rem; padding: 0.2rem 0.7rem; border-radius: 999px; background: var(--forest-soft); color: var(--forest-2); font-weight: 600; font-size: 0.92rem; }
+.legal-table { overflow-x: auto; margin: 1rem 0; border: 1px solid var(--line); border-radius: 12px; background: var(--card); }
+.legal-table table { border-collapse: collapse; width: 100%; min-width: 36rem; font-size: 0.95rem; }
+.legal-table th, .legal-table td { text-align: left; vertical-align: top; padding: 0.6rem 0.75rem; border-bottom: 1px solid var(--line); }
+.legal-table th { background: var(--paper-2); color: var(--ink); }
+.legal-table tr:last-child td { border-bottom: 0; }
