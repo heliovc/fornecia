@@ -6,7 +6,7 @@
  */
 window.SITE_CONFIG = {
   productName: "Fornecia",
-  checkoutMonthlyUrl: "#",
-  checkoutAnnualUrl: "#",
+  checkoutMonthlyUrl: "https://pay.kiwify.com.br/1VbxuG1",
+  checkoutAnnualUrl: "https://pay.kiwify.com.br/fCFCOFx",
   supportEmail: "heliovcastro@gmail.com"
 };
