@@ -14,7 +14,7 @@ window.SITE_CONFIG = {
   productName: "Fornecia",
   checkoutMonthlyUrl: "https://pay.kiwify.com.br/1VbxuG1",
   checkoutAnnualUrl: "https://pay.kiwify.com.br/fCFCOFx",
-  supportEmail: "heliovcastro@gmail.com",
+  supportEmail: "contato@valorasolucoes.com",
   intakeUrl: "https://fornecia-intake.heliovcastro.workers.dev",
   turnstileSiteKey: "0x4AAAAAAGCSkj2DnGMRcxrT",
   oferta: {
