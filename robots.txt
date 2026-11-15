@@ -1,3 +1,6 @@
+# Atenção: em GitHub Pages de projeto (heliovc.github.io/fornecia/), os crawlers leem
+# https://heliovc.github.io/robots.txt (raiz do usuário), não este arquivo.
 # Landing, política e termos podem ser indexados; /comecar/ tem noindex na própria página.
 User-agent: *
 Allow: /
+Sitemap: https://heliovc.github.io/fornecia/sitemap.xml

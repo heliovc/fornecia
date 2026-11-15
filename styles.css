@@ -844,3 +844,32 @@ a:hover { color: var(--forest-2); }
 .legal-table th, .legal-table td { text-align: left; vertical-align: top; padding: 0.6rem 0.75rem; border-bottom: 1px solid var(--line); }
 .legal-table th { background: var(--paper-2); color: var(--ink); }
 .legal-table tr:last-child td { border-bottom: 0; }
+
+/* Amostra grátis + oferta de lançamento */
+#oferta-faixa[hidden], #oferta-lancamento[hidden], #form-amostra-email[hidden],
+#amostra-resultado[hidden], #amostra-cta-diario[hidden], #amostra-email-msg[hidden] { display: none; }
+.oferta-bloco { background: var(--forest-soft, #e6f4ef); border: 1px solid #bfe3d4; border-radius: 12px; padding: 1.25rem 1.4rem; margin: 0 0 1.75rem; }
+.oferta-bloco h3 { margin: 0 0 0.5rem; }
+.oferta-bloco ul { margin: 0.5rem 0 1rem; padding-left: 1.2rem; }
+.amostra-lead { max-width: 42rem; }
+.amostra-form { display: flex; flex-wrap: wrap; gap: 0.75rem 1rem; align-items: flex-end; margin: 1.25rem 0; }
+.amostra-form label, .amostra-email label:not(.chk) { display: flex; flex-direction: column; gap: 0.3rem; font-weight: 600; font-size: 0.92rem; }
+.amostra-form select, .amostra-email input[type=email] { font: inherit; font-weight: 400; min-width: 14rem; padding: 0.55rem 0.7rem; border: 1px solid var(--line); border-radius: 8px; background: #fff; }
+.amostra-resultado { margin: 1.25rem 0; }
+.amostra-cta-diario { margin: 1rem 0 1.5rem; }
+.amostra-email { margin: 1.5rem 0 0; padding: 1.25rem 1.4rem; background: var(--card, #fff); border: 1px solid var(--line); border-radius: 12px; max-width: 36rem; }
+.amostra-email h3 { margin: 0 0 0.4rem; }
+.amostra-email .chk { display: flex; gap: 0.6rem; align-items: flex-start; font-weight: 400; margin: 0.7rem 0; }
+.amostra-email .chk input { margin-top: 0.25rem; }
+.amostra-email .req { color: #8a4b08; }
+.amostra-fine, .amostra-msg { font-size: 0.9rem; color: var(--ink-soft); }
+.amostra-msg.ok { color: #0b6b50; }
+.amostra-msg.err { color: #8a1f1f; }
+.amostra-email .hp { position: absolute; left: -9999px; height: 0; width: 0; opacity: 0; }
+.licitacoes-destaque { display: grid; grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr)); gap: 0.35rem 1.25rem; padding-left: 1.1rem; margin: 1rem 0 0; }
+button.linkish { background: none; border: 0; padding: 0; color: var(--forest-2, #0b6b50); font: inherit; text-decoration: underline; cursor: pointer; text-align: left; }
+.tender-resumo.muted { color: var(--ink-soft); }
+@media (max-width: 559px) {
+  .amostra-form { flex-direction: column; align-items: stretch; }
+  .amostra-form select { min-width: 0; width: 100%; }
+}

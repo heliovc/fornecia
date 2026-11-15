@@ -24,11 +24,15 @@
 
   <link rel="preload" href="fonts/source-sans-3.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="fonts/newsreader.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="canonical" href="https://heliovc.github.io/fornecia/">
+  <meta property="og:url" content="https://heliovc.github.io/fornecia/">
   <link rel="stylesheet" href="styles.css">
   <script src="config.js"></script>
+  <script src="oferta.js" defer></script>
   <script src="script.js" defer></script>
 </head>
 <body>
+  <div id="oferta-faixa" hidden role="region" aria-label="Oferta de lançamento"></div>
   <!--
     Nome do produto, checkout Kiwify (mensal e anual) e e-mail de suporte:
     edite apenas landing/config.js.
@@ -54,6 +58,8 @@
         <span class="nav-toggle-bars" aria-hidden="true"></span>
       </button>
       <nav id="menu-principal" class="nav" aria-label="Seções da página">
+        <a href="#amostra">Amostra grátis</a>
+        <a href="licitacoes/">Licitações</a>
         <a href="#como-funciona">Como funciona</a>
         <a href="#exemplo">Exemplo de alerta</a>
         <a href="#preco">Preço</a>
@@ -88,6 +94,63 @@
             <span><strong>Não há garantia de ganhar licitação</strong> nem de resultado comercial, número de contratos ou faturamento.</span>
           </p>
         </div>
+      </div>
+    </section>
+
+
+    <section class="section" id="amostra" aria-labelledby="titulo-amostra">
+      <div class="wrap">
+        <p class="section-kicker">Amostra grátis</p>
+        <h2 id="titulo-amostra">Veja agora as licitações abertas no seu ramo</h2>
+        <p class="amostra-lead">Escolha o ramo e o estado para ver, nesta página, as licitações do PNCP que ainda recebem proposta. Grátis, sem cadastro e sem cartão. Os dados são a base do dia, já classificada — não é uma lista em tempo real.</p>
+        <form class="amostra-form" id="form-amostra-ver" action="javascript:void(0)">
+          <label>Ramo
+            <select id="amostra-ramo" name="ramo" required>
+              <option value="">Carregando…</option>
+            </select>
+          </label>
+          <label>Estado
+            <select id="amostra-uf" name="uf" required>
+              <option value="">Carregando…</option>
+            </select>
+          </label>
+          <button type="submit" class="btn btn-primary" id="amostra-ver">Ver licitações abertas</button>
+        </form>
+        <div id="amostra-resultado" class="amostra-resultado" hidden></div>
+        <p id="amostra-cta-diario" class="amostra-cta-diario" hidden>
+          <a class="btn btn-primary" href="#planos">Receber isso todo dia de manhã</a>
+        </p>
+
+        <form class="amostra-email" id="form-amostra-email" hidden>
+          <h3>Receba esta amostra no seu e-mail</h3>
+          <p>Enviamos a mesma lista, com o resumo das principais, para o seu e-mail. Sem cartão.</p>
+          <input type="text" name="website" id="amostra-website" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+          <label>Seu e-mail
+            <input type="email" name="email" id="amostra-email" required autocomplete="email" placeholder="voce@empresa.com.br">
+          </label>
+          <label class="chk">
+            <input type="checkbox" name="consentimento" id="amostra-consent" required>
+            <span>Li e concordo com a <a href="privacidade/">política de privacidade</a>. Meu e-mail será usado para enviar esta amostra. <span class="req">(obrigatório)</span></span>
+          </label>
+          <label class="chk">
+            <input type="checkbox" name="marketing" id="amostra-marketing">
+            <span>Quero receber dicas e ofertas da Fornecia por e-mail (opcional). Posso sair com um clique.</span>
+          </label>
+          <div id="amostra-turnstile" class="amostra-turnstile"></div>
+          <button type="submit" class="btn btn-secondary" id="amostra-enviar">Quero minha amostra no e-mail</button>
+          <p class="amostra-fine">Usamos seu e-mail só para enviar a amostra e, se você marcar acima, as dicas. Para sair, basta um clique.</p>
+          <p id="amostra-email-msg" class="amostra-msg" role="status" hidden></p>
+        </form>
+      </div>
+    </section>
+
+    <section class="section band" id="licitacoes" aria-labelledby="titulo-licitacoes">
+      <div class="wrap">
+        <p class="section-kicker">Busca por ramo e estado</p>
+        <h2 id="titulo-licitacoes">Licitações por ramo e estado</h2>
+        <p>Listas atualizadas diariamente com dados abertos do PNCP, por ramo e unidade da Federação. Cada página traz as que ainda recebem proposta, os órgãos que mais publicaram no período e o link oficial do edital.</p>
+        <p><a class="btn btn-secondary" href="licitacoes/">Ver todas as listas</a></p>
+        <ul class="licitacoes-destaque" id="licitacoes-destaque"></ul>
       </div>
     </section>
 
@@ -228,8 +291,19 @@
 
     <section class="section" id="preco" aria-labelledby="titulo-preco">
       <div class="wrap">
+        <span id="planos" class="sr-only">Planos</span>
         <p class="section-kicker">Plano fundador</p>
         <h2 id="titulo-preco">Dois jeitos de entrar no plano fundador de pré-venda</h2>
+        <aside id="oferta-lancamento" class="oferta-bloco" hidden>
+          <h3>Oferta de lançamento: 48 horas</h3>
+          <p>O plano anual de fundador sai por <strong data-oferta-preco>R$ 277,90</strong> em vez de R$ 397, com o cupom <strong data-oferta-cupom>LANCAMENTO30</strong>. Isso dá cerca de R$ 23 por mês pelo ano todo de alertas, com o resumo de cada edital.</p>
+          <ul>
+            <li>Válida até <strong data-oferta-validade>17/11/2026, 23:59 (horário de Brasília)</strong></li>
+            <li>Pagamento único pela Kiwify, com garantia de 7 dias: se não servir, devolvemos o valor integral.</li>
+            <li>O preço de fundador do anual vale para o primeiro ano.</li>
+          </ul>
+          <p><a class="btn btn-primary" data-oferta-cta href="#planos">Garantir o anual por R$ 277,90</a></p>
+        </aside>
         <div class="plans">
           <article class="plan">
             <h3>Mensal</h3>
@@ -356,6 +430,7 @@
       <ul class="footer-meta">
         <li>FIT TECNOLOGIA E SERVICOS ADMINISTRATIVOS LTDA · CNPJ 49.408.467/0001-64</li>
         <li>Contato: <span data-support-email>canal de suporte em breve</span></li>
+        <li><a href="licitacoes/">Licitações por ramo e estado</a></li>
         <li><a href="privacidade/">Política de privacidade</a></li>
         <li><a href="termos/">Termos de uso</a></li>
       </ul>
