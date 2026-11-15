@@ -16,7 +16,7 @@ window.SITE_CONFIG = {
   checkoutAnnualUrl: "https://pay.kiwify.com.br/fCFCOFx",
   supportEmail: "heliovcastro@gmail.com",
   intakeUrl: "https://fornecia-intake.heliovcastro.workers.dev",
-  turnstileSiteKey: "",
+  turnstileSiteKey: "0x4AAAAAAGCSkj2DnGMRcxrT",
   oferta: {
     texto: "Oferta de lançamento: anual de fundador por R$ 277,90 com o cupom LANCAMENTO30",
     cupom: "LANCAMENTO30",
